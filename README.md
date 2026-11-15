@@ -50,7 +50,7 @@ The data is under the [ODbL 1.0](https://jurisdictional.org/license); the full r
 ## Re-record the example
 
 ```sh
-npm run record                                   # 300 Hemlock St, Vacaville, CA 95688
+JURISDICTIONAL_TOKEN=… npm run record          # 300 Hemlock St, Vacaville, CA 95688; a token avoids the 100-a-day limit
 node bin/record-example.js "<another address>"
 ```
 
