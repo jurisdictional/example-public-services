@@ -26,7 +26,9 @@ export const urls = {
 // Fetches a URL and returns its JSON body.
 // A non-200 answer throws with the API's own message; nothing fails silently.
 export async function getJSON(url) {
-  const response = await fetch(url);
+  // In Node, JURISDICTIONAL_TOKEN raises the daily limit (the recorder uses it); browsers send none.
+  const token = env.JURISDICTIONAL_TOKEN;
+  const response = await fetch(url, token ? { headers: { authorization: `Bearer ${token}` } } : {});
   const body = await response.json().catch(() => null);
 
   if (response.status === 429) {

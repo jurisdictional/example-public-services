@@ -1,9 +1,375 @@
 {
-  "count": 0,
-  "data": [],
+  "count": 12,
+  "data": [
+    {
+      "id": 87730,
+      "name": "Apply for Federal Civilian Retirement",
+      "description": "OPM's Online Retirement Application lets a retiring federal employee apply for retirement benefits. Current federal employees whose application is still with their agency should contact their agency's Human Resources or benefits office; OPM can assist after the application is received and a CSA claim number is assigned. Named a High Impact Service Provider designated service (\"Applying for Federal civilian retirement\") on Performance.gov.",
+      "actions": [
+        "apply"
+      ],
+      "inserted_at": "2026-11-15T22:03:57Z",
+      "updated_at": "2026-11-15T22:03:57Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 140774,
+        "name": "Office of Personnel Management"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Federal employees retiring from federal civilian service.",
+      "online_url": "https://www.opm.gov/retirement-center/apply/online-retirement-application/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 87737,
+      "name": "Apply for Social Security Disability Benefits",
+      "description": "Social Security Disability Insurance (SSDI) provides monthly payments to people who have a disability that stops or limits their ability to work; benefits may include a monthly payment and Medicare, with the payment amount based on work history before the disability began. Apply online, then report changes to work, income and personal information once approved. Named a High Impact Service Provider designated service (\"Applying for adult disability benefits\") on Performance.gov.",
+      "actions": [
+        "apply"
+      ],
+      "inserted_at": "2026-11-15T22:04:03Z",
+      "updated_at": "2026-11-15T22:04:03Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 140781,
+        "name": "Social Security Administration"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Individuals may be eligible for Disability if they have a disability or blindness, and enough work history.",
+      "online_url": "https://www.ssa.gov/apply?benefits=disability&age=adult",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 87733,
+      "name": "Apply for Social Security Retirement Benefits",
+      "description": "Apply online for Social Security retirement benefits (monthly payments), and enroll in Medicare if eligible, through the SSA.gov application. The same application covers family, disability and survivor benefits, the lump-sum death payment and Supplemental Security Income, and you can return to a saved application or check application or appeal status. Named a High Impact Service Provider designated service (\"Applying for Social Security retirement benefits\") on Performance.gov.",
+      "actions": [
+        "apply"
+      ],
+      "inserted_at": "2026-11-15T22:04:01Z",
+      "updated_at": "2026-11-15T22:04:01Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 140781,
+        "name": "Social Security Administration"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": "+1 800-772-1213 (TTY +1 800-325-0778), Monday through Friday, 8 a.m. to 7 p.m. in most U.S. time zones; or find a local office at ssa.gov/locator",
+      "cost": null,
+      "eligibility_requirements": "You're at least 62 years old. You've worked and paid Social Security taxes for at least 10 years. You may also enroll in Medicare if you are eligible.",
+      "online_url": "https://www.ssa.gov/apply",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 87738,
+      "name": "Ask EBSA: Help with Job-Based Retirement and Health Benefits",
+      "description": "The Employee Benefits Security Administration helps workers, retirees and families understand their rights, answer questions about job-based retirement, health and other benefits, resolve problems with their plans, and plan for the future. Browse tools and resources built around the questions people ask most, or connect directly with an EBSA benefits advisor. Named a High Impact Service Provider designated service (\"Using website resources to maximize retirement and health benefits\") on Performance.gov.",
+      "actions": [
+        "request",
+        "look_up"
+      ],
+      "inserted_at": "2026-11-15T22:04:03Z",
+      "updated_at": "2026-11-15T22:04:03Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 135462,
+        "name": "Employee Benefits Security Administration"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": "1-866-444-3272 (EBSA benefits advisors); regional offices listed on dol.gov/agencies/ebsa",
+      "cost": null,
+      "eligibility_requirements": "Workers, retirees, and families with job-based retirement, health, or other employee benefits; employers and plan sponsors.",
+      "online_url": "https://www.dol.gov/agencies/ebsa/ask-ebsa",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 87732,
+      "name": "Eldercare Locator",
+      "description": "A public service of the Administration for Community Living connecting older adults and their families to services in their community (Area Agencies on Aging, meals, in-home help and more). Search by location online, or call, text, chat or email trained staff.",
+      "actions": [
+        "look_up"
+      ],
+      "inserted_at": "2026-11-15T22:03:57Z",
+      "updated_at": "2026-11-15T22:03:57Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 135368,
+        "name": "Administration for Community Living"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": "1-800-677-1116 (call or text); online chat and email through the site",
+      "cost": null,
+      "eligibility_requirements": "Older adults and their families and caregivers.",
+      "online_url": "https://eldercare.acl.gov/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 87727,
+      "name": "Get Started with Medicare",
+      "description": "Medicare is health insurance for people 65 or older who meet citizenship or residency requirements. Some people get Medicare automatically, others have to actively sign up, depending on whether they start getting retirement or disability benefits from Social Security before turning 65. The page walks through the parts of Medicare, coverage options, when and how to sign up, and costs. Named a High Impact Service Provider designated service (\"Getting started with Medicare\") on Performance.gov.",
+      "actions": [
+        "apply",
+        "look_up"
+      ],
+      "inserted_at": "2026-11-15T22:03:56Z",
+      "updated_at": "2026-11-15T22:03:56Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 135372,
+        "name": "Centers for Medicare and Medicaid Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "People 65 or older who meet citizenship or residency requirements. You may be eligible earlier if you have a disability, End-Stage Renal Disease (ESRD), or ALS.",
+      "online_url": "https://www.medicare.gov/basics/get-started-with-medicare",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 87729,
+      "name": "Medicare Savings Programs",
+      "description": "Help from your state paying Medicare Part A and Part B premiums, and in some programs Part A and Part B deductibles, coinsurance, and copayments. You apply through your state, which determines which of the four programs (QMB, SLMB, QI, QDWI) you qualify for; even if you don't think you qualify, you should still apply.",
+      "actions": [
+        "apply"
+      ],
+      "inserted_at": "2026-11-15T22:03:57Z",
+      "updated_at": "2026-11-15T22:03:57Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 135372,
+        "name": "Centers for Medicare and Medicaid Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "In most cases your income and resources must be below a certain limit; the limits go up each year. For 2026 the Qualified Medicare Beneficiary (QMB) program's monthly income limit is $1,350 for an individual with a $9,950 resource limit. States may not count certain income or resources, so you may qualify even above the federal limits.",
+      "online_url": "https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 87736,
+      "name": "my Social Security Account",
+      "description": "A personal my Social Security account gives secure online access to your Social Security information and benefits: request a replacement Social Security Number card, change your address or direct deposit, print proof of benefits or tax forms, get your Social Security Statement, estimate benefits at different ages, and review your earnings history. You sign in with Login.gov or ID.me after verifying your identity.",
+      "actions": [
+        "register",
+        "look_up",
+        "request"
+      ],
+      "inserted_at": "2026-11-15T22:04:02Z",
+      "updated_at": "2026-11-15T22:04:02Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 140781,
+        "name": "Social Security Administration"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.ssa.gov/myaccount/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 87731,
+      "name": "OPM Retirement Services Online",
+      "description": "Federal annuitants and survivor annuitants manage their retirement account online with a Login.gov account: get the monthly annuity payment statement and annual summary, get the 1099-R tax form, change federal and state tax withholdings, view or print the retirement card, start or change direct deposit and allotments, and update mailing address and contact preferences. Named a High Impact Service Provider designated service (\"Managing a Federal annuitant retirement account\") on Performance.gov.",
+      "actions": [
+        "look_up",
+        "request"
+      ],
+      "inserted_at": "2026-11-15T22:03:57Z",
+      "updated_at": "2026-11-15T22:03:57Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 140774,
+        "name": "Office of Personnel Management"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Federal retirees, survivor annuitants, and their families with an OPM retirement claim (CSA) number.",
+      "online_url": "https://www.opm.gov/retirement-center/my-annuity-and-benefits/services-online/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 87728,
+      "name": "Pay Medicare Part A and Part B Premiums",
+      "description": "Most people have their Medicare Part B premium deducted automatically from their Social Security or Railroad Retirement Board benefit payment. People who don't get those benefits receive a premium bill from Medicare (every 3 months for Part B only; every month for Part A and for Part D IRMAA) and can pay it online through their Medicare account or by other methods.",
+      "actions": [
+        "pay"
+      ],
+      "inserted_at": "2026-11-15T22:03:57Z",
+      "updated_at": "2026-11-15T22:03:57Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 135372,
+        "name": "Centers for Medicare and Medicaid Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Medicare enrollees who receive a premium bill from Medicare (those not having premiums deducted from Social Security or Railroad Retirement Board benefits).",
+      "online_url": "https://www.medicare.gov/my/premiums/dashboard",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 87735,
+      "name": "Replace a Social Security Card",
+      "description": "Request a free replacement Social Security card. Depending on your situation you may be able to apply online; if an office visit is needed, making an appointment can reduce waiting time. The replacement card arrives by mail in 5 to 10 business days. You may not need a replacement if you know your Social Security number; in most cases a physical card isn't necessary. Named a High Impact Service Provider designated service (\"Applying for a replacement Social Security card\") on Performance.gov.",
+      "actions": [
+        "request"
+      ],
+      "inserted_at": "2026-11-15T22:04:02Z",
+      "updated_at": "2026-11-15T22:04:02Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 140781,
+        "name": "Social Security Administration"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": "+1 800-772-1213 (TTY +1 800-325-0778), Monday through Friday, 8 a.m. to 7 p.m. in most U.S. time zones, in English, Spanish, and other languages",
+      "cost": "0",
+      "eligibility_requirements": null,
+      "online_url": "https://secure.ssa.gov/ossnap/public/landingOSsnap",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "records",
+      "services_provided": null
+    },
+    {
+      "id": 87734,
+      "name": "Sign Up for Medicare (Parts A and B)",
+      "description": "Sign up for Medicare Part A and Part B through Social Security, so you can make both retirement and Medicare choices and withhold any premiums from your benefit payments. If you're 65 or older you can enroll online for Parts A and B, or Part A only, and delay Part B if you're covered through an employer group health plan; those who already have Part A can sign up for Part B only. People with end-stage renal disease apply by phone.",
+      "actions": [
+        "apply"
+      ],
+      "inserted_at": "2026-11-15T22:04:02Z",
+      "updated_at": "2026-11-15T22:04:02Z",
+      "jurisdiction": {
+        "id": 1,
+        "name": "United States of America",
+        "level": "federal"
+      },
+      "agency": {
+        "id": 140781,
+        "name": "Social Security Administration"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": "+1 800-772-1213 (TTY +1 800-325-0778), Monday through Friday, 8 a.m. to 7 p.m. in most U.S. time zones; or make an appointment at a local office",
+      "cost": null,
+      "eligibility_requirements": "People age 65 or older who are U.S. citizens or nationals, lawful permanent residents, Cuban-Haitian entrants, or Compacts of Free Association migrants. Under 65, you may be eligible if you have permanent kidney failure or receive Disability benefits. Supplemental Security Income (SSI) does not qualify you for Medicare on its own.",
+      "online_url": "https://www.ssa.gov/medicare/sign-up",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    }
+  ],
   "meta": {
     "offset": 0,
     "limit": 50,
-    "total_count": 0
+    "total_count": 12
   }
 }
