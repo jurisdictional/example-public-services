@@ -260,14 +260,27 @@ curl https://jurisdictional.org/api/hsds/services/&lt;id&gt;</pre>
       function render(results) {
         const out = $("results");
         out.replaceChildren();
-        for (const { layer, hsds } of results) {
+        for (const result of results) {
+          const { layer, hsds } = result;
           const { shown, total } = pageSummary(hsds);
           const block = el("div", { className: "layer" });
           const count = total > shown ? `${shown} of ${total} services` : `${total} services`;
           block.append(el("h3", {}, `${layer.label}: ${layer.name} `, el("small", {}, count)));
           if (hsds.contents.length === 0) {
-            block.append(el("p", { className: "muted" }, `No services on file yet for ${layer.name}. `,
-              el("a", { href: "https://jurisdictional.org/" }, "Add one")));
+            const note = el("p", { className: "muted" }, `No services in the HSDS feed yet for ${layer.name}. `,
+              el("a", { href: "https://jurisdictional.org/" }, "Add one"));
+            block.append(note);
+            // HSDS requires an organization description, so services whose agency has none are left out.
+            // Say so when the native API has some, instead of implying there are none.
+            (result.native ? Promise.resolve(result.native) : nativeServices(layer.id)).then((native) => {
+              result.native = native;
+              const n = native.meta?.total_count ?? 0;
+              if (n > 0) {
+                note.prepend(`${n} service${n === 1 ? " is" : "s are"} on file but left out of the feed, because HSDS requires an agency description and these agencies don't have one yet. `);
+              }
+            }).catch((error) => {
+              note.append(` (Couldn't check the native API: ${error.message})`);
+            });
           } else {
             // Show a few per government so the page stays short; the rest open on request.
             const cards = hsds.contents.map(renderCard);
