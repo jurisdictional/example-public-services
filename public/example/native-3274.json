@@ -1,0 +1,1410 @@
+{
+  "count": 50,
+  "data": [
+    {
+      "id": 31368,
+      "name": "Apply for a DL, ID or REAL ID",
+      "description": "Start your California driver's license, ID or REAL ID application online, then finish in the DMV office.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:13:46Z",
+      "updated_at": "2026-11-03T02:13:46Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8824,
+        "name": "California Department of Motor Vehicles"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "transportation",
+      "services_provided": null
+    },
+    {
+      "id": 31451,
+      "name": "Apply for a seller's permit",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8828,
+        "name": "California Department of Tax and Fee Administration"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Required if you are engaged in business in California, intend to sell or lease tangible personal property that would ordinarily be subject to sales tax if sold at retail, or will make sales for a temporary period, normally lasting no longer than 90 days.",
+      "online_url": "https://cdtfa.ca.gov/services/registration.htm",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31453,
+      "name": "Apply for birth certificate",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8825,
+        "name": "California Department of Public Health"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Birth-Records.aspx",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31454,
+      "name": "Apply for death certificate",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8825,
+        "name": "California Department of Public Health"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Death-Records.aspx",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31452,
+      "name": "Apply for marriage certificate",
+      "description": "A certified copy of a marriage certificate can typically be used as proof of marriage and other legal purposes. This is not a copy of the marriage license.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8825,
+        "name": "California Department of Public Health"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Marriage-Records.aspx",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31513,
+      "name": "Apply for Medi-Cal",
+      "description": "Free or low-cost health coverage for Californians meeting eligibility requirements.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:17:48Z",
+      "updated_at": "2026-11-03T02:17:48Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8834,
+        "name": "Department of Health Care Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.dhcs.ca.gov/medi-cal/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31570,
+      "name": "Apply for school construction funding",
+      "description": "Administers the state voter-approved school facilities construction bond program and is staff to the State Allocation Board.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8842,
+        "name": "California Department of General Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.dgs.ca.gov/OPSC/Services",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 31601,
+      "name": "Apply to a Veterans Home",
+      "description": "Affordable long-term care for aged and disabled veterans and their eligible spouses and domestic partners.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:21:18Z",
+      "updated_at": "2026-11-03T02:21:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8840,
+        "name": "California Department of Veterans Affairs"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.calvet.ca.gov/calvet-programs/veteran-homes",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31461,
+      "name": "Black Infant Health Program (BIH)",
+      "description": "An equity program to support pregnant and post partum Black mothers.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8825,
+        "name": "California Department of Public Health"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdph.ca.gov/Programs/CFH/DMCAH/BIH/Pages/Default.aspx",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31475,
+      "name": "Bringing Families Home Program",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8833,
+        "name": "Department of Social Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/bringing-families-home-program",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31578,
+      "name": "Burn permits",
+      "description": "Available online and from CAL FIRE stations, for those burning within the State Responsibility Area.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8843,
+        "name": "California Department of Forestry and Fire Protection"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://burnpermit.fire.ca.gov/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "public_safety",
+      "services_provided": null
+    },
+    {
+      "id": 31707,
+      "name": "Buy California State Bonds",
+      "description": "Upcoming bond offerings from the State of California and official financial data",
+      "actions": [],
+      "inserted_at": "2026-11-03T03:04:18Z",
+      "updated_at": "2026-11-03T03:04:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8866,
+        "name": "California State Treasurer's Office"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.buycaliforniabonds.com/state-of-california-ca/i27",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31685,
+      "name": "Buy, Sell, or Transfer a Mobilehome",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T03:03:57Z",
+      "updated_at": "2026-11-03T03:03:57Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8835,
+        "name": "California Department of Housing and Community Development"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": null,
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31711,
+      "name": "CalABLE Savings Accounts for People with Disabilities",
+      "description": "Tax-advantaged accounts that let Californians with disabilities save without losing public benefits",
+      "actions": [],
+      "inserted_at": "2026-11-03T03:04:18Z",
+      "updated_at": "2026-11-03T03:04:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8866,
+        "name": "California State Treasurer's Office"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": null,
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 31416,
+      "name": "Calculate your unemployment insurance",
+      "description": "Estimates your weekly benefit amount.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8827,
+        "name": "Employment Development Department"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://edd.ca.gov/en/unemployment/UI-Calculator/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 31401,
+      "name": "CalFile - File return for free",
+      "description": "Use CalFile to e-file your state tax return directly to the Franchise Tax Board.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8826,
+        "name": "Franchise Tax Board"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": "0",
+      "eligibility_requirements": null,
+      "online_url": "https://www.ftb.ca.gov/file/ways-to-file/online/calfile/index.asp",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31581,
+      "name": "CAL FIRE Grants",
+      "description": "Grants to restore forest health, bolster wildfire prevention and improve firefighting capacity.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8843,
+        "name": "California Department of Forestry and Fire Protection"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.fire.ca.gov/what-we-do/grants",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31400,
+      "name": "California Earned Income Tax Credit",
+      "description": "Find out if you qualify for CalEITC and the Young Child Tax Credit.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8826,
+        "name": "Franchise Tax Board"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.ftb.ca.gov/file/personal/credits/caleitc/index.html",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31462,
+      "name": "California Home Visiting Program (CHVP)",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8825,
+        "name": "California Department of Public Health"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdph.ca.gov/Programs/CFH/DMCAH/CHVP/Pages/Default.aspx",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31511,
+      "name": "California Inmate Records and Information System",
+      "description": "California Incarcerated Records and Information Search (CIRIS) covers incarcerated persons currently in CDCR custody.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:17:48Z",
+      "updated_at": "2026-11-03T02:17:48Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8829,
+        "name": "California Department of Corrections and Rehabilitation"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://ciris.mt.cdcr.ca.gov/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "public_safety",
+      "services_provided": null
+    },
+    {
+      "id": 31507,
+      "name": "California Low Cost Auto",
+      "description": "State-sponsored program providing income-eligible, good drivers with liability insurance at affordable rates.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:17:48Z",
+      "updated_at": "2026-11-03T02:17:48Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8868,
+        "name": "California Department of Insurance"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Have a valid California driver's license, own a vehicle valued at $25,000 or less, meet income eligibility guidelines, be at least 16 years of age, and have a good driving record.",
+      "online_url": "https://www.mylowcostauto.com/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31586,
+      "name": "California Water Watch",
+      "description": "Current local and statewide water conditions.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8837,
+        "name": "California Department of Water Resources"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://cww.water.ca.gov/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "utilities",
+      "services_provided": null
+    },
+    {
+      "id": 31576,
+      "name": "California wildfire information",
+      "description": "Find information on fires in California.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8843,
+        "name": "California Department of Forestry and Fire Protection"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.fire.ca.gov/incidents",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "public_safety",
+      "services_provided": null
+    },
+    {
+      "id": 31710,
+      "name": "CalSavers Retirement Savings Program",
+      "description": "Retirement savings program for Californians who lack a way to save for retirement at their job",
+      "actions": [],
+      "inserted_at": "2026-11-03T03:04:18Z",
+      "updated_at": "2026-11-03T03:04:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8866,
+        "name": "California State Treasurer's Office"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": null,
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31673,
+      "name": "Caltrans Engagement Portal",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T03:03:34Z",
+      "updated_at": "2026-11-03T03:03:34Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8831,
+        "name": "California Department of Transportation"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://engage.dot.ca.gov/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "transportation",
+      "services_provided": null
+    },
+    {
+      "id": 31600,
+      "name": "CalVet home loans for veterans",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:21:18Z",
+      "updated_at": "2026-11-03T02:21:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8840,
+        "name": "California Department of Veterans Affairs"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Have served on active duty for at least 90 days during wartime or peacetime (excluding training), have a discharge under honorable conditions, and not have a current CalVet Home Loan.",
+      "online_url": "https://www.calvet.ca.gov/HomeLoans",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31478,
+      "name": "CalWORKs Homeless Assistance Program",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8833,
+        "name": "Department of Social Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/calworks-homeless-assistance",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31477,
+      "name": "CalWORKs Housing Support Program",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8833,
+        "name": "Department of Social Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/calworks-housing-support-program",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31530,
+      "name": "CA Meals For Kids App (Android)",
+      "description": "Find, save, and share nearby California meal sites.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:17:48Z",
+      "updated_at": "2026-11-03T02:17:48Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8832,
+        "name": "California Department of Education"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://play.google.com/store/apps/details?id=gov.ca.cde.NSDMobileApp",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 31531,
+      "name": "CA Meals For Kids App (IOS)",
+      "description": "Find, save, and share nearby California meal sites.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:17:48Z",
+      "updated_at": "2026-11-03T02:17:48Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8832,
+        "name": "California Department of Education"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://apps.apple.com/us/app/ca-meals-for-kids/id1327449394",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 31577,
+      "name": "Campfire permits",
+      "description": "Available online or at any CAL FIRE, USDA Forest Service, or Bureau of Land Management facility in California.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8843,
+        "name": "California Department of Forestry and Fire Protection"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": "0",
+      "eligibility_requirements": null,
+      "online_url": "https://www.readyforwildfire.org/permits/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "public_safety",
+      "services_provided": null
+    },
+    {
+      "id": 31566,
+      "name": "Certificate of Veterinary Inspection for dogs",
+      "description": "Submit health certificates for dogs being brought into the state for sale, adoption, or any change of ownership.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8841,
+        "name": "California Department of Food and Agriculture"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdfa.ca.gov/AHFSS/Animal_Health/dog-cvi/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31417,
+      "name": "Certify for unemployment",
+      "description": "Answer basic questions every two weeks to continue receiving benefit payments.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8827,
+        "name": "Employment Development Department"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://edd.ca.gov/en/unemployment/step-5-certify-for-benefits",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 31666,
+      "name": "Check Current Highway Conditions",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T03:03:34Z",
+      "updated_at": "2026-11-03T03:03:34Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8831,
+        "name": "California Department of Transportation"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://roads.dot.ca.gov/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "transportation",
+      "services_provided": null
+    },
+    {
+      "id": 31398,
+      "name": "Check your tax refund status",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8826,
+        "name": "Franchise Tax Board"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.ftb.ca.gov/refund/index.asp",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31517,
+      "name": "Choose Medi-Cal health plans and providers",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:17:48Z",
+      "updated_at": "2026-11-03T02:17:48Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8834,
+        "name": "Department of Health Care Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.healthcareoptions.dhcs.ca.gov/en",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31681,
+      "name": "Codes and Standards Online Services",
+      "description": "Mobilehome and manufactured home registration and titling transfers, permits, complaints and payments",
+      "actions": [],
+      "inserted_at": "2026-11-03T03:03:57Z",
+      "updated_at": "2026-11-03T03:03:57Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8835,
+        "name": "California Department of Housing and Community Development"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://cahcd.my.site.com/s/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31479,
+      "name": "Community Care Expansion",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8833,
+        "name": "Department of Social Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdss.ca.gov/inforesources/cdss-programs/community-care-expansion",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "housing",
+      "services_provided": null
+    },
+    {
+      "id": 31459,
+      "name": "Comprehensive Perinatal Services Program (CPSP)",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8825,
+        "name": "California Department of Public Health"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdph.ca.gov/Programs/CFH/DMCAH/CPSP/Pages/Default.aspx",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 31371,
+      "name": "Create a MyDMV Account",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:13:46Z",
+      "updated_at": "2026-11-03T02:13:46Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8824,
+        "name": "California Department of Motor Vehicles"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "You must have a California driver's license or ID to create a MyDMV account.",
+      "online_url": "https://www.dmv.ca.gov/portal/mydmv-account/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "transportation",
+      "services_provided": null
+    },
+    {
+      "id": 31403,
+      "name": "Create a MyFTB account",
+      "description": "MyFTB gives individuals, business representatives, and tax professionals access to tax account information and services.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8826,
+        "name": "Franchise Tax Board"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.ftb.ca.gov/myftb/index.asp",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31370,
+      "name": "DACA and AB60 Driver's License",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:13:46Z",
+      "updated_at": "2026-11-03T02:13:46Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8824,
+        "name": "California Department of Motor Vehicles"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "transportation",
+      "services_provided": null
+    },
+    {
+      "id": 31573,
+      "name": "Disability access",
+      "description": "Promotes disability access through dialogue and collaboration with stakeholders.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8842,
+        "name": "California Department of General Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.dgs.ca.gov/CCDA",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31589,
+      "name": "Disaster relief assistance",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8821,
+        "name": "Office of the Governor"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.listoscalifornia.org/disaster-readiness/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "public_safety",
+      "services_provided": null
+    },
+    {
+      "id": 31567,
+      "name": "Doing business with California state",
+      "description": "The DGS Procurement Division certifies small businesses.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:20:58Z",
+      "updated_at": "2026-11-03T02:20:58Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8842,
+        "name": "California Department of General Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.dgs.ca.gov/PD/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31473,
+      "name": "Earned Income Tax Credit (EITC)",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:15:38Z",
+      "updated_at": "2026-11-03T02:15:38Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8833,
+        "name": "Department of Social Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.cdss.ca.gov/earned-income-tax-credit",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 31412,
+      "name": "EDD payroll taxes",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8827,
+        "name": "Employment Development Department"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://edd.ca.gov/en/payroll_taxes/employer-payroll-taxes/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 31672,
+      "name": "Electronic Bidding on Caltrans Contracts",
+      "description": null,
+      "actions": [],
+      "inserted_at": "2026-11-03T03:03:34Z",
+      "updated_at": "2026-11-03T03:03:34Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8831,
+        "name": "California Department of Transportation"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "http://ppmoe.dot.ca.gov/des/oe/electronic-bidding.html",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 31730,
+      "name": "Electronic Filing with the Supreme Court",
+      "description": "E-filing rules and procedures for filing documents with the court",
+      "actions": [],
+      "inserted_at": "2026-11-03T03:04:40Z",
+      "updated_at": "2026-11-03T03:04:40Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8822,
+        "name": "Supreme Court of California"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": null,
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 31413,
+      "name": "Enroll in EDD employer services",
+      "description": "Employers manage payroll tax accounts and unemployment insurance claims online.",
+      "actions": [],
+      "inserted_at": "2026-11-03T02:14:18Z",
+      "updated_at": "2026-11-03T02:14:18Z",
+      "jurisdiction": {
+        "id": 3274,
+        "name": "California",
+        "level": "state"
+      },
+      "agency": {
+        "id": 8827,
+        "name": "Employment Development Department"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://edd.ca.gov/en/about_edd/employer_services_online/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    }
+  ],
+  "meta": {
+    "offset": 0,
+    "limit": 50,
+    "total_count": 147
+  }
+}

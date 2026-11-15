@@ -1,0 +1,752 @@
+{
+  "size": 45,
+  "empty": false,
+  "contents": [
+    {
+      "id": "8cf7d7e2-a5fe-5cf4-9d72-b19947afb4b2",
+      "name": "Alarm Permit Registration and False Alarm Billing",
+      "status": "active",
+      "description": "Residents and businesses with an alarm system must obtain an alarm permit (Ordinance No. 1729). Register, renew and pay false-alarm bills online through the City's False Alarm Reduction Program (administered by PM AM Corporation). Source: https://www.cityofvacaville.gov/government/police-department/permits-records-reports/alarm-permits",
+      "last_modified": "2026-10-23T22:43:02Z",
+      "url": "http://www.famspermit.com/Vacaville",
+      "organization": {
+        "id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+        "name": "Police Department",
+        "description": "Primary law enforcement agency for the City of Vacaville",
+        "uri": "https://jurisdictional.org/agencies/11",
+        "website": "https://www.cityofvacaville.gov/government/police-department"
+      },
+      "organization_id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+      "eligibility_description": "Required for all residents and businesses in Vacaville with an alarm system"
+    },
+    {
+      "id": "02d85c3c-7b4c-50d8-bab6-ba6e0b4ecece",
+      "name": "Animal Control, Dead Animal Pickup and Dog Licensing",
+      "status": "active",
+      "description": "The City's animal control page sends residents to Humane Animal Services for animal control: stray animals, animal bites, noisy animals, wildlife, reporting a dead animal in the right of way ((707) 449-1700) and online dog licensing. Source: https://www.cityofvacaville.gov/residents/our-community/pets-animals/animal-control and the City service directory (\"Report a Dead animal\").",
+      "last_modified": "2026-10-23T22:44:22Z",
+      "url": "https://humaneanimalservices.org/",
+      "organization": {
+        "id": "830f1368-3d83-53bb-bf61-f8b00f924e35",
+        "name": "City of Vacaville",
+        "description": "Umbrella agency representing the City of Vacaville, California as a whole — the citywide municipal organization and brand. Serves as the parent entity for the city's official seal/logo and overall identity. Vacaville is a charter city in Solano County operating under a council-manager form of government.",
+        "uri": "https://jurisdictional.org/agencies/13012",
+        "website": "https://www.cityofvacaville.gov/"
+      },
+      "organization_id": "830f1368-3d83-53bb-bf61-f8b00f924e35"
+    },
+    {
+      "id": "c47a50c7-4ebc-5f1b-8f84-79adcdb8d827",
+      "name": "Apply for a Building Permit (eTRAKiT)",
+      "status": "active",
+      "description": "Apply for, track and look up City of Vacaville building permits online through eTRAKiT. Building Division: (707) 449-5152, permits@cityofvacaville.com. Source: https://www.cityofvacaville.gov/government/community-development/building",
+      "last_modified": "2026-10-23T22:43:20Z",
+      "url": "https://vcvll.csqrcloud.com/community-etrakit/",
+      "organization": {
+        "id": "25587c85-0309-5d80-b587-204749566ed5",
+        "name": "Community Development",
+        "description": "Planning, building, and code enforcement services",
+        "uri": "https://jurisdictional.org/agencies/4",
+        "website": "https://www.cityofvacaville.gov/government/community-development"
+      },
+      "organization_id": "25587c85-0309-5d80-b587-204749566ed5"
+    },
+    {
+      "id": "02f91108-8df4-5e3f-8d97-e36b05644b6a",
+      "name": "Apply for a City Job",
+      "status": "active",
+      "description": "View open City of Vacaville positions and class specifications, and apply online (GovernmentJobs). Human Resources: (707) 449-5101. Source: https://www.cityofvacaville.gov/government/human-resources/job-opportunities",
+      "last_modified": "2026-10-23T22:43:47Z",
+      "url": "https://www.governmentjobs.com/careers/vacaville",
+      "organization": {
+        "id": "66e372a5-d91c-5cc6-bb82-ad29edaa072a",
+        "name": "Human Resources",
+        "description": "Employee recruitment, benefits, labor relations, and workforce development",
+        "uri": "https://jurisdictional.org/agencies/9",
+        "website": "https://www.cityofvacaville.gov/government/human-resources"
+      },
+      "organization_id": "66e372a5-d91c-5cc6-bb82-ad29edaa072a"
+    },
+    {
+      "id": "294aa29a-2378-5262-a2c0-14367c649106",
+      "name": "Apply for or Renew a Business License",
+      "status": "active",
+      "description": "Apply for a new City of Vacaville business license or renew an existing one online. Business License: (707) 449-5129, BusinessLicenseMail@cityofvacaville.gov. A PDF application and fee schedule are also published. Source: https://www.cityofvacaville.gov/business/business-licenses",
+      "last_modified": "2026-10-23T22:42:35Z",
+      "url": "https://businesslicense.cityofvacaville.com/primeweb",
+      "organization": {
+        "id": "dad9e054-736a-50a8-92bd-812e49005c5d",
+        "name": "Finance",
+        "description": "Oversees fiscal affairs, budgeting, financial reporting, and utility billing",
+        "uri": "https://jurisdictional.org/agencies/6",
+        "website": "https://www.cityofvacaville.gov/government/finance"
+      },
+      "organization_id": "dad9e054-736a-50a8-92bd-812e49005c5d"
+    },
+    {
+      "id": "a4d31081-3240-5c3b-8241-640724e9a186",
+      "name": "Budget Documents and Annual Financial Reports",
+      "status": "active",
+      "description": "Open data: City of Vacaville budget documents (FY26-27 budget and prior years), Annual Comprehensive Financial Reports (ACFR, 2014-2025) and Popular Annual Financial Reports (PAFR, 2014-2025).",
+      "last_modified": "2026-10-23T22:42:42Z",
+      "url": "https://www.cityofvacaville.gov/government/finance/financial-reports",
+      "organization": {
+        "id": "dad9e054-736a-50a8-92bd-812e49005c5d",
+        "name": "Finance",
+        "description": "Oversees fiscal affairs, budgeting, financial reporting, and utility billing",
+        "uri": "https://jurisdictional.org/agencies/6",
+        "website": "https://www.cityofvacaville.gov/government/finance"
+      },
+      "organization_id": "dad9e054-736a-50a8-92bd-812e49005c5d"
+    },
+    {
+      "id": "22caa187-b201-5c52-88ed-fbd8d9d47bb9",
+      "name": "Capital Improvement Program (CIP) Dashboard",
+      "status": "active",
+      "description": "Open data: interactive ArcGIS dashboard of City of Vacaville capital improvement projects. Source: https://www.cityofvacaville.gov/government/public-works/capital-improvement-program-cip/cip-dashboard-4914",
+      "last_modified": "2026-10-23T22:43:33Z",
+      "url": "https://cov.maps.arcgis.com/apps/dashboards/d4a3bc9a4d5c4c7ca356772f4c073005",
+      "organization": {
+        "id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d",
+        "name": "Public Works",
+        "description": "Streets, infrastructure, engineering, and maintenance services",
+        "uri": "https://jurisdictional.org/agencies/12",
+        "email": "publicworks@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/public-works"
+      },
+      "organization_id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d"
+    },
+    {
+      "id": "51e75010-318a-58f5-88fd-7ac03a186cef",
+      "name": "Chicken Keeping and Beekeeping Permits",
+      "status": "active",
+      "description": "Requirements, limitations and permit applications for home chicken keeping and beekeeping under the Vacaville Municipal Code, including a Special Animal Keeping Permit for exceptions (disability, 4-H, etc.). Complaints: Code Enforcement (707) 449-5693.",
+      "last_modified": "2026-10-23T22:43:22Z",
+      "url": "https://www.cityofvacaville.gov/government/community-development/zoning/common-topics/animal-keeping",
+      "organization": {
+        "id": "25587c85-0309-5d80-b587-204749566ed5",
+        "name": "Community Development",
+        "description": "Planning, building, and code enforcement services",
+        "uri": "https://jurisdictional.org/agencies/4",
+        "website": "https://www.cityofvacaville.gov/government/community-development"
+      },
+      "organization_id": "25587c85-0309-5d80-b587-204749566ed5",
+      "eligibility_description": "Chicken keeping is a non-commercial accessory use for single-family residences in zones with a 6,000 sq ft or larger minimum lot size"
+    },
+    {
+      "id": "5e445989-16d8-50df-b3f2-1f588bca7948",
+      "name": "City Salary Schedule",
+      "status": "active",
+      "description": "Open data: the currently approved City of Vacaville employee salary schedule. Compensation for city staff and elected officials is also reported to the State Controller (publicpay.ca.gov). Source: City of Vacaville service directory (\"City Salary Schedule\").",
+      "last_modified": "2026-10-23T22:43:49Z",
+      "url": "https://www.cityofvacaville.gov/Home/ShowDocument?id=6480",
+      "organization": {
+        "id": "66e372a5-d91c-5cc6-bb82-ad29edaa072a",
+        "name": "Human Resources",
+        "description": "Employee recruitment, benefits, labor relations, and workforce development",
+        "uri": "https://jurisdictional.org/agencies/9",
+        "website": "https://www.cityofvacaville.gov/government/human-resources"
+      },
+      "organization_id": "66e372a5-d91c-5cc6-bb82-ad29edaa072a"
+    },
+    {
+      "id": "98dd2d07-723c-5721-ab7f-3a73ea4bb21e",
+      "name": "Citywide Camera System Transparency Portal",
+      "status": "active",
+      "description": "Open data: Vacaville Police Department's public transparency portal for its citywide (Flock) camera system. Source: https://www.cityofvacaville.gov/government/police-department/police-transparency",
+      "last_modified": "2026-10-23T22:43:12Z",
+      "url": "https://transparency.flocksafety.com/vacaville-ca-pd",
+      "organization": {
+        "id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+        "name": "Police Department",
+        "description": "Primary law enforcement agency for the City of Vacaville",
+        "uri": "https://jurisdictional.org/agencies/11",
+        "website": "https://www.cityofvacaville.gov/government/police-department"
+      },
+      "organization_id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4"
+    },
+    {
+      "id": "c1bcd405-18d0-5c9c-85dd-0821ea373686",
+      "name": "Contact the City (Send a Message)",
+      "status": "active",
+      "description": "Send a message to the City of Vacaville through the online contact form. City Hall: (707) 449-5100. Source: City of Vacaville service directory (\"Connect to the City\").",
+      "last_modified": "2026-10-23T22:43:53Z",
+      "url": "https://cityofvacaville.formstack.com/forms/contact_us",
+      "organization": {
+        "id": "738f513d-e194-50af-a335-8b275ca54804",
+        "name": "City Manager's Office",
+        "description": "Chief administrative office overseeing all city departments and operations",
+        "uri": "https://jurisdictional.org/agencies/1",
+        "website": "https://www.cityofvacaville.gov/government/city-manager-s-office"
+      },
+      "organization_id": "738f513d-e194-50af-a335-8b275ca54804"
+    },
+    {
+      "id": "f1852697-8b74-5571-b7de-5b39f9f802cd",
+      "name": "Crime and Activity Map",
+      "status": "active",
+      "description": "Open data: Vacaville Police Department map of reported crime and police activity (CitizenRIMS), with crime alert sign-up. Source: https://www.cityofvacaville.gov/government/police-department/crime-reports-prevention/crime-statistics",
+      "last_modified": "2026-10-23T22:43:10Z",
+      "url": "https://vacaville.citizenrims.com/map",
+      "organization": {
+        "id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+        "name": "Police Department",
+        "description": "Primary law enforcement agency for the City of Vacaville",
+        "uri": "https://jurisdictional.org/agencies/11",
+        "website": "https://www.cityofvacaville.gov/government/police-department"
+      },
+      "organization_id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4"
+    },
+    {
+      "id": "10062222-02a4-52d0-ab28-228e5c538456",
+      "name": "Easterly Wastewater Treatment Plant Tours",
+      "status": "active",
+      "description": "Request an onsite walking tour or a virtual video tour of the Easterly Wastewater Treatment Plant for a school class, organization or interest group.",
+      "last_modified": "2026-10-23T22:44:09Z",
+      "url": "https://www.cityofvacaville.gov/government/utilities/sewer/easterly-wwtp-tours",
+      "organization": {
+        "id": "20d07600-7267-5b77-8c0e-c0d6f92afd43",
+        "name": "Utilities Department",
+        "description": "Manages the city's water supply, water conservation, sewer services, and utility infrastructure.",
+        "uri": "https://jurisdictional.org/agencies/2891",
+        "email": "utilitiesdept@cityofvacaville.gov",
+        "website": "https://www.cityofvacaville.gov/government/utilities"
+      },
+      "organization_id": "20d07600-7267-5b77-8c0e-c0d6f92afd43",
+      "eligibility_description": "Students of all ages, organizations, service clubs, business and industry groups; groups of at least 3 preferred"
+    },
+    {
+      "id": "1d594a76-a579-58b0-bc4b-ba184d619065",
+      "name": "Election Information and Running for City Office",
+      "status": "active",
+      "description": "City Clerk election resources: voter and candidate resources, find your council election district, campaign contribution filings and candidate information. City general municipal elections are held in November of even-numbered years; the next is November 3, 2026 (Districts 2, 4, 6 and Mayor).",
+      "last_modified": "2026-10-23T22:43:16Z",
+      "url": "https://www.cityofvacaville.gov/government/city-clerk/election-information",
+      "organization": {
+        "id": "24e6771c-1288-56ec-8cfa-250675bf109a",
+        "name": "City Clerk",
+        "description": "Manages official city records, council agendas, and elections",
+        "uri": "https://jurisdictional.org/agencies/3",
+        "email": "cityclerk@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/city-clerk"
+      },
+      "organization_id": "24e6771c-1288-56ec-8cfa-250675bf109a"
+    },
+    {
+      "id": "f54bc0fe-1eae-5bfd-9045-cc0e9a3760fb",
+      "name": "Family and Community Resource Guide",
+      "status": "active",
+      "description": "The Family Resource Center's directory of local providers by need: bereavement support, children's services, counseling, domestic violence/sexual assault, drug/alcohol programs, education, emergency relief, employment, family services and more. FRC: (707) 469-6608, FRC@cityofvacaville.com.",
+      "last_modified": "2026-10-23T22:44:16Z",
+      "url": "https://www.cityofvacaville.gov/government/family-resource-center/resource-guide",
+      "organization": {
+        "id": "e5cd8e78-76a5-594f-b738-ce56dcc68397",
+        "name": "Family Resource Center",
+        "description": "City of Vacaville Family Resource Center: connects families with community resources and publishes the city's Resource Guide.",
+        "uri": "https://jurisdictional.org/agencies/72445",
+        "email": "frc@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/family-resource-center"
+      },
+      "organization_id": "e5cd8e78-76a5-594f-b738-ce56dcc68397"
+    },
+    {
+      "id": "e0c82b27-375b-5c29-adf3-f7803db1d4d1",
+      "name": "GIS and Open Data Portal",
+      "status": "active",
+      "description": "Open data: City of Vacaville GIS and Open Data hub (ArcGIS), with downloadable datasets and the city's ArcGIS Online maps gallery (cov.maps.arcgis.com). Maintained by Information Technology (City Manager's Office). Source: https://www.cityofvacaville.gov/government/city-manager-s-office/information-technology/geographic-information-system-gis",
+      "last_modified": "2026-10-23T22:43:51Z",
+      "url": "https://data-cov.opendata.arcgis.com/",
+      "organization": {
+        "id": "738f513d-e194-50af-a335-8b275ca54804",
+        "name": "City Manager's Office",
+        "description": "Chief administrative office overseeing all city departments and operations",
+        "uri": "https://jurisdictional.org/agencies/1",
+        "website": "https://www.cityofvacaville.gov/government/city-manager-s-office"
+      },
+      "organization_id": "738f513d-e194-50af-a335-8b275ca54804"
+    },
+    {
+      "id": "4e48a260-0d24-5e78-b10e-498afc0a686f",
+      "name": "Homelessness Assistance and Outreach",
+      "status": "active",
+      "description": "Guide to how people experiencing homelessness in Vacaville connect to street outreach and case management, shelter, supportive services and permanent housing through the City and its partners (e.g. Vacaville Solano Services Corporation).",
+      "last_modified": "2026-10-23T22:44:01Z",
+      "url": "https://www.cityofvacaville.gov/government/housing-and-community-services/housing-resources/homelessness-assistance",
+      "organization": {
+        "id": "d49ebc26-898e-583b-a21b-e32dd90e07f4",
+        "name": "Housing & Community Services",
+        "description": "Affordable housing, homelessness services, and community programs",
+        "uri": "https://jurisdictional.org/agencies/8",
+        "website": "https://www.cityofvacaville.gov/government/housing-and-community-services"
+      },
+      "organization_id": "d49ebc26-898e-583b-a21b-e32dd90e07f4"
+    },
+    {
+      "id": "7e98fa1c-5132-5a2a-9d53-b343cc416cf4",
+      "name": "Join the City Bid List (Vendors)",
+      "status": "active",
+      "description": "Vendors apply to the City of Vacaville bid list to be notified of purchasing opportunities. Current bids are listed by Finance/Purchasing. Source: https://www.cityofvacaville.gov/government/finance/purchasing/bid-list-application",
+      "last_modified": "2026-10-23T22:42:37Z",
+      "url": "https://cityofvacaville.formstack.com/forms/bidlistapplication",
+      "organization": {
+        "id": "dad9e054-736a-50a8-92bd-812e49005c5d",
+        "name": "Finance",
+        "description": "Oversees fiscal affairs, budgeting, financial reporting, and utility billing",
+        "uri": "https://jurisdictional.org/agencies/6",
+        "website": "https://www.cityofvacaville.gov/government/finance"
+      },
+      "organization_id": "dad9e054-736a-50a8-92bd-812e49005c5d"
+    },
+    {
+      "id": "8e2aa700-fd25-5c07-b5f9-9f5c5b1bd716",
+      "name": "Medical Emergency Data System (MEDS)",
+      "status": "active",
+      "description": "Vacaville Fire Department emergency medical identification program: residents record critical medical data so responders can access it during a medical emergency. No cost to participants.",
+      "last_modified": "2026-10-23T22:42:51Z",
+      "url": "https://www.cityofvacaville.gov/government/fire-department/for-residents/meds-program",
+      "organization": {
+        "id": "4777013b-5c70-5223-933e-c88fd5f1306b",
+        "name": "Fire Department",
+        "description": "Fire suppression, emergency medical services, and fire prevention",
+        "uri": "https://jurisdictional.org/agencies/7",
+        "website": "https://www.cityofvacaville.gov/government/fire-department"
+      },
+      "organization_id": "4777013b-5c70-5223-933e-c88fd5f1306b",
+      "fees_description": "0"
+    },
+    {
+      "id": "1faf9187-80c2-5eef-ada5-9e55bc6fcece",
+      "name": "Memorial Park Bench Application",
+      "status": "active",
+      "description": "Apply to the Public Works Maintenance Division to install a park bench. Source: https://www.cityofvacaville.gov/government/public-works/maintenance",
+      "last_modified": "2026-10-23T22:43:31Z",
+      "url": "https://www.ci.vacaville.ca.us/home/showdocument?id=20634",
+      "organization": {
+        "id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d",
+        "name": "Public Works",
+        "description": "Streets, infrastructure, engineering, and maintenance services",
+        "uri": "https://jurisdictional.org/agencies/12",
+        "email": "publicworks@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/public-works"
+      },
+      "organization_id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d"
+    },
+    {
+      "id": "b1f7443e-2194-5a61-a238-348f26f4e21d",
+      "name": "OpenFinance: Budget, Revenue and Spending Explorer",
+      "status": "active",
+      "description": "Open data: the City of Vacaville's financial transparency portal (Tyler/Socrata OpenFinance). Explore the operating budget and revenue by department (budget.socrata.com) and city spending by vendor (spending.socrata.com). Source: https://www.cityofvacaville.gov/government/finance/financial-transparency",
+      "last_modified": "2026-10-23T22:42:40Z",
+      "url": "https://cityofvacaville.finance.socrata.com/",
+      "organization": {
+        "id": "dad9e054-736a-50a8-92bd-812e49005c5d",
+        "name": "Finance",
+        "description": "Oversees fiscal affairs, budgeting, financial reporting, and utility billing",
+        "uri": "https://jurisdictional.org/agencies/6",
+        "website": "https://www.cityofvacaville.gov/government/finance"
+      },
+      "organization_id": "dad9e054-736a-50a8-92bd-812e49005c5d"
+    },
+    {
+      "id": "d62afad4-9415-5f33-87f9-10404d2c3598",
+      "name": "Pay a Parking Ticket",
+      "status": "active",
+      "description": "Pay a City of Vacaville parking ticket online. The city's service directory does not name the responsible department. Source: City of Vacaville service directory (\"Pay for a Parking Ticket\").",
+      "last_modified": "2026-10-23T22:44:18Z",
+      "url": "https://www.pticket.com/",
+      "organization": {
+        "id": "830f1368-3d83-53bb-bf61-f8b00f924e35",
+        "name": "City of Vacaville",
+        "description": "Umbrella agency representing the City of Vacaville, California as a whole — the citywide municipal organization and brand. Serves as the parent entity for the city's official seal/logo and overall identity. Vacaville is a charter city in Solano County operating under a council-manager form of government.",
+        "uri": "https://jurisdictional.org/agencies/13012",
+        "website": "https://www.cityofvacaville.gov/"
+      },
+      "organization_id": "830f1368-3d83-53bb-bf61-f8b00f924e35"
+    },
+    {
+      "id": "7fc0c1f5-eb78-5d8a-853b-e36976b3f15d",
+      "name": "Pay a Utility Bill Online",
+      "status": "active",
+      "description": "Pay a City of Vacaville water and sewer utility bill online (enroll for an account, pay, manage billing). Utility Billing contact: UBAdmin@CityofVacaville.com. Source: https://www.cityofvacaville.gov/government/finance/pay-utility-bill-online",
+      "last_modified": "2026-10-23T22:42:31Z",
+      "url": "https://billpay.onlinebiller.com/ebpp/Vacaville/",
+      "organization": {
+        "id": "dad9e054-736a-50a8-92bd-812e49005c5d",
+        "name": "Finance",
+        "description": "Oversees fiscal affairs, budgeting, financial reporting, and utility billing",
+        "uri": "https://jurisdictional.org/agencies/6",
+        "website": "https://www.cityofvacaville.gov/government/finance"
+      },
+      "organization_id": "dad9e054-736a-50a8-92bd-812e49005c5d"
+    },
+    {
+      "id": "08f810ab-3e8b-5faa-99b2-da9a8e2ab025",
+      "name": "Pay Fire Permit Fees Online",
+      "status": "active",
+      "description": "Pay Vacaville Fire Department permit fees (special events and construction-related fire permits) online. Source: https://www.cityofvacaville.gov/government/fire-department/permit-application-fees",
+      "last_modified": "2026-10-23T22:42:44Z",
+      "url": "https://businesslicense.cityofvacaville.com/PrimeWeb/home/index/fire",
+      "organization": {
+        "id": "4777013b-5c70-5223-933e-c88fd5f1306b",
+        "name": "Fire Department",
+        "description": "Fire suppression, emergency medical services, and fire prevention",
+        "uri": "https://jurisdictional.org/agencies/7",
+        "website": "https://www.cityofvacaville.gov/government/fire-department"
+      },
+      "organization_id": "4777013b-5c70-5223-933e-c88fd5f1306b"
+    },
+    {
+      "id": "dbde3b49-1340-50fd-abb8-1c47c73315e5",
+      "name": "Public Records Request",
+      "status": "active",
+      "description": "Make, view and manage California Public Records Act requests to the City of Vacaville (including Police records) through the Public Records Request Portal. Email: prarequest@cityofvacaville.com. Source: https://www.cityofvacaville.gov/government/city-clerk/public-records",
+      "last_modified": "2026-10-23T22:43:14Z",
+      "url": "https://vacavilleca.govqa.us/WEBAPP/_rs/",
+      "organization": {
+        "id": "24e6771c-1288-56ec-8cfa-250675bf109a",
+        "name": "City Clerk",
+        "description": "Manages official city records, council agendas, and elections",
+        "uri": "https://jurisdictional.org/agencies/3",
+        "email": "cityclerk@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/city-clerk"
+      },
+      "organization_id": "24e6771c-1288-56ec-8cfa-250675bf109a"
+    },
+    {
+      "id": "eb5e639b-e49b-51ee-ae9e-0ff019117c93",
+      "name": "Register a Security Camera",
+      "status": "active",
+      "description": "Register a private security camera with the Vacaville Police Department so investigators know where footage may exist, via CitizenRIMS. Source: https://vacaville.citizenrims.com/map",
+      "last_modified": "2026-10-23T22:43:08Z",
+      "url": "https://vacaville.citizenrims.com/form?formId=72",
+      "organization": {
+        "id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+        "name": "Police Department",
+        "description": "Primary law enforcement agency for the City of Vacaville",
+        "uri": "https://jurisdictional.org/agencies/11",
+        "website": "https://www.cityofvacaville.gov/government/police-department"
+      },
+      "organization_id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4"
+    },
+    {
+      "id": "8ea92e9a-7f6b-5124-9ac1-5f1888752477",
+      "name": "Register for Recreation Programs and Classes",
+      "status": "active",
+      "description": "Browse and register for City of Vacaville Parks and Recreation programs, classes and activities online (Rec1). Source: https://www.cityofvacaville.gov/government/parks-and-recreation/program-registration",
+      "last_modified": "2026-10-23T22:43:38Z",
+      "url": "https://secure.rec1.com/CA/vacaville-ca/catalog",
+      "organization": {
+        "id": "e49ea53c-9ff4-5956-9ec9-8b98901b3630",
+        "name": "Parks & Recreation",
+        "description": "Parks, recreation programs, community centers, aquatics, and facility rentals",
+        "uri": "https://jurisdictional.org/agencies/10",
+        "website": "https://www.cityofvacaville.gov/government/parks-and-recreation"
+      },
+      "organization_id": "e49ea53c-9ff4-5956-9ec9-8b98901b3630"
+    },
+    {
+      "id": "a1f7d86c-9870-591f-84cf-dc5933c50fc5",
+      "name": "Rent a Community Center or City Facility",
+      "status": "active",
+      "description": "Rent McBride, Three Oaks or Ulatis Community Centers, the Walter V. Graham Aquatic Center or other city facilities; many may be reserved online. (707) 469-4020, RecWeb@cityofvacaville.com. The Vacaville Performing Arts Theatre has separate rentals (vpat.net). Source: https://www.cityofvacaville.gov/government/parks-and-recreation/facilities/facility-rentals",
+      "last_modified": "2026-10-23T22:43:45Z",
+      "url": "https://secure.rec1.com/CA/vacaville-ca/catalog/index?filter=dGFiJTVCNTI0NiU1RD0xJnNlYXJjaD0mcmVudGFsJTVCZnJvbSU1RD0mcmVudGFsJTVCdG8lNUQ9JjZmYWEzYzA1YTZhMzAwYjc1YjhjNTQwZjUxMGY1YTg0PTJkNmM5ODMzYWY4OWRlY2IzNzBkOGJhMjZlMzMzZDdj",
+      "organization": {
+        "id": "e49ea53c-9ff4-5956-9ec9-8b98901b3630",
+        "name": "Parks & Recreation",
+        "description": "Parks, recreation programs, community centers, aquatics, and facility rentals",
+        "uri": "https://jurisdictional.org/agencies/10",
+        "website": "https://www.cityofvacaville.gov/government/parks-and-recreation"
+      },
+      "organization_id": "e49ea53c-9ff4-5956-9ec9-8b98901b3630"
+    },
+    {
+      "id": "c88668df-1813-5081-8732-64d9260a2334",
+      "name": "Report a Code Enforcement Violation",
+      "status": "active",
+      "description": "Report a possible Municipal Code violation on private property to the Fire Department's Code Enforcement staff by email (CodeEnforcement@cityofvacaville.com) or phone (707) 449-5693; an inspection is scheduled. Owners of foreclosed or vacant buildings must also register them here within 30 days (VMC 8.10.060).",
+      "last_modified": "2026-10-23T22:42:46Z",
+      "url": "https://www.cityofvacaville.gov/government/fire-department/code-enforcement",
+      "organization": {
+        "id": "4777013b-5c70-5223-933e-c88fd5f1306b",
+        "name": "Fire Department",
+        "description": "Fire suppression, emergency medical services, and fire prevention",
+        "uri": "https://jurisdictional.org/agencies/7",
+        "website": "https://www.cityofvacaville.gov/government/fire-department"
+      },
+      "organization_id": "4777013b-5c70-5223-933e-c88fd5f1306b"
+    },
+    {
+      "id": "5ca24c39-1d53-5174-bdd8-9f42a04fc67f",
+      "name": "Report a Crime Online",
+      "status": "active",
+      "description": "File a non-emergency police report online with the Vacaville Police Department (separate retail-partner theft reporting is also available). For emergencies call 911; non-emergency 707-449-5200. Source: https://www.cityofvacaville.gov/government/police-department/crime-reports-prevention/report-a-crime",
+      "last_modified": "2026-10-23T22:42:59Z",
+      "url": "https://secure.coplogic.com/dors/startreport/300006273",
+      "organization": {
+        "id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+        "name": "Police Department",
+        "description": "Primary law enforcement agency for the City of Vacaville",
+        "uri": "https://jurisdictional.org/agencies/11",
+        "website": "https://www.cityofvacaville.gov/government/police-department"
+      },
+      "organization_id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4"
+    },
+    {
+      "id": "919f6733-6bbb-5d2c-a6f5-e644d2755d43",
+      "name": "Report a Pothole, Road Hazard or Street Light Out",
+      "status": "active",
+      "description": "Report potholes, non-emergency road hazards, street lights out, traffic signal or sign problems to the Public Works Maintenance Division: (707) 469-6500 (after hours press option 1), pw.maintenance@cityofvacaville.com.",
+      "last_modified": "2026-10-23T22:43:26Z",
+      "url": "https://www.cityofvacaville.gov/government/public-works/maintenance",
+      "organization": {
+        "id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d",
+        "name": "Public Works",
+        "description": "Streets, infrastructure, engineering, and maintenance services",
+        "uri": "https://jurisdictional.org/agencies/12",
+        "email": "publicworks@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/public-works"
+      },
+      "organization_id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d"
+    },
+    {
+      "id": "33b38a3e-9f2d-5e25-b991-c6565f97e5b5",
+      "name": "Report a Water Leak, Main Break or Blocked Sewer/Storm Drain",
+      "status": "active",
+      "description": "Report water leaks or breaks, blocked sewer lines, spills and storm drain problems to the Public Works Maintenance Division, available 24 hours: (707) 469-6500, pw.maintenance@cityofvacaville.com. Source: https://www.cityofvacaville.gov/government/utilities/environmental-protection/environmental-concern-reporting",
+      "last_modified": "2026-10-23T22:43:29Z",
+      "url": "https://www.cityofvacaville.gov/government/public-works/maintenance",
+      "organization": {
+        "id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d",
+        "name": "Public Works",
+        "description": "Streets, infrastructure, engineering, and maintenance services",
+        "uri": "https://jurisdictional.org/agencies/12",
+        "email": "publicworks@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/public-works"
+      },
+      "organization_id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d"
+    },
+    {
+      "id": "9cc2bbc1-3989-5143-ada5-de6b66d69605",
+      "name": "Request a Vacation Home Check",
+      "status": "active",
+      "description": "Ask the Vacaville Police Department to check on your home while you are away, via the department's CitizenRIMS portal. Source: https://vacaville.citizenrims.com/map (linked from https://www.cityofvacaville.gov/government/police-department/crime-reports-prevention/crime-statistics)",
+      "last_modified": "2026-10-23T22:43:04Z",
+      "url": "https://vacaville.citizenrims.com/form?formId=70",
+      "organization": {
+        "id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+        "name": "Police Department",
+        "description": "Primary law enforcement agency for the City of Vacaville",
+        "uri": "https://jurisdictional.org/agencies/11",
+        "website": "https://www.cityofvacaville.gov/government/police-department"
+      },
+      "organization_id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4"
+    },
+    {
+      "id": "6a515bf2-fa41-58f3-bc20-6978ad07d427",
+      "name": "Request Directed Patrol",
+      "status": "active",
+      "description": "Request extra Vacaville Police patrol attention for a location through the department's CitizenRIMS portal. Source: https://vacaville.citizenrims.com/map",
+      "last_modified": "2026-10-23T22:43:06Z",
+      "url": "https://vacaville.citizenrims.com/form?formId=71",
+      "organization": {
+        "id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4",
+        "name": "Police Department",
+        "description": "Primary law enforcement agency for the City of Vacaville",
+        "uri": "https://jurisdictional.org/agencies/11",
+        "website": "https://www.cityofvacaville.gov/government/police-department"
+      },
+      "organization_id": "3b1a49ea-fc48-5273-a57d-4a86b4ec6ba4"
+    },
+    {
+      "id": "568a7434-5196-515b-92d7-4309fdc967ca",
+      "name": "Reserve a City Park",
+      "status": "active",
+      "description": "Rent a City of Vacaville park or picnic area online through the Rec1 rentals catalog. Source: City of Vacaville service directory (\"Park Rental\").",
+      "last_modified": "2026-10-23T22:43:41Z",
+      "url": "https://secure.rec1.com/CA/vacaville-ca/catalog/index/a863bbc817b7620eb389ccb75ae91a75?filter=c2VhcmNoPSZyZW50YWwlNUJmcm9tJTVEPSZyZW50YWwlNUJ0byU1RD0mdGFncyU1QjczNDYlNUQ9MQ==",
+      "organization": {
+        "id": "e49ea53c-9ff4-5956-9ec9-8b98901b3630",
+        "name": "Parks & Recreation",
+        "description": "Parks, recreation programs, community centers, aquatics, and facility rentals",
+        "uri": "https://jurisdictional.org/agencies/10",
+        "website": "https://www.cityofvacaville.gov/government/parks-and-recreation"
+      },
+      "organization_id": "e49ea53c-9ff4-5956-9ec9-8b98901b3630"
+    },
+    {
+      "id": "b1b469bc-e114-5737-8431-893a0efc2144",
+      "name": "Search the Vacaville Municipal Code",
+      "status": "active",
+      "description": "Open data: the full text of the Vacaville Municipal Code, published online (eCode360). Source: https://www.cityofvacaville.gov/government/city-clerk/municipal-code (redirects to eCode360)",
+      "last_modified": "2026-10-23T22:43:18Z",
+      "url": "https://ecode360.com/VA4679",
+      "organization": {
+        "id": "24e6771c-1288-56ec-8cfa-250675bf109a",
+        "name": "City Clerk",
+        "description": "Manages official city records, council agendas, and elections",
+        "uri": "https://jurisdictional.org/agencies/3",
+        "email": "cityclerk@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/city-clerk"
+      },
+      "organization_id": "24e6771c-1288-56ec-8cfa-250675bf109a"
+    },
+    {
+      "id": "8c4b2f48-0aff-5163-952e-6afb90f8d6d9",
+      "name": "Section 8 Housing Choice Voucher Program (Vacaville Housing Authority)",
+      "status": "active",
+      "description": "Federally funded rental assistance administered by the City of Vacaville Housing Authority: subsidizes part of the rent for low-income households. Families first join a waiting list; open waitlists are posted on the Waitlist Information page. Office: 40 Eldridge Avenue, Suite 2, Vacaville; (707) 449-5675. Source: https://www.cityofvacaville.gov/government/housing-and-community-services/vacaville-housing-authority",
+      "last_modified": "2026-10-23T22:43:59Z",
+      "url": "https://www.cityofvacaville.gov/government/housing-and-community-services/vacaville-housing-authority/waitlist-information",
+      "organization": {
+        "id": "d49ebc26-898e-583b-a21b-e32dd90e07f4",
+        "name": "Housing & Community Services",
+        "description": "Affordable housing, homelessness services, and community programs",
+        "uri": "https://jurisdictional.org/agencies/8",
+        "website": "https://www.cityofvacaville.gov/government/housing-and-community-services"
+      },
+      "organization_id": "d49ebc26-898e-583b-a21b-e32dd90e07f4",
+      "eligibility_description": "Low-income households; eligibility determined when the family reaches the top of the waiting list"
+    },
+    {
+      "id": "71a2fb20-2d8c-5b31-8e0f-0c4a1c8f6dcd",
+      "name": "Start or Stop Water and Sewer Service",
+      "status": "active",
+      "description": "Connect or disconnect City of Vacaville utility (water/sewer) service through the city's Munis citizen self-service portal. Source: https://www.cityofvacaville.gov/government/finance/utility-billing/connect-disconnect-service",
+      "last_modified": "2026-10-23T22:42:33Z",
+      "url": "https://vacavillecacitizens.munisselfservice.com/citizens/UtilityBilling/Default.aspx",
+      "organization": {
+        "id": "dad9e054-736a-50a8-92bd-812e49005c5d",
+        "name": "Finance",
+        "description": "Oversees fiscal affairs, budgeting, financial reporting, and utility billing",
+        "uri": "https://jurisdictional.org/agencies/6",
+        "website": "https://www.cityofvacaville.gov/government/finance"
+      },
+      "organization_id": "dad9e054-736a-50a8-92bd-812e49005c5d"
+    },
+    {
+      "id": "adba81ce-6308-5525-86fb-54369a6cdad9",
+      "name": "Tree Removal Permit",
+      "status": "active",
+      "description": "Tree Removal Permit application (PDF). The city's service directory does not name the responsible department. Source: City of Vacaville service directory (\"Request a Tree Removal\").",
+      "last_modified": "2026-10-23T22:44:20Z",
+      "url": "https://www.cityofvacaville.gov/Home/ShowDocument?id=7619",
+      "organization": {
+        "id": "830f1368-3d83-53bb-bf61-f8b00f924e35",
+        "name": "City of Vacaville",
+        "description": "Umbrella agency representing the City of Vacaville, California as a whole — the citywide municipal organization and brand. Serves as the parent entity for the city's official seal/logo and overall identity. Vacaville is a charter city in Solano County operating under a council-manager form of government.",
+        "uri": "https://jurisdictional.org/agencies/13012",
+        "website": "https://www.cityofvacaville.gov/"
+      },
+      "organization_id": "830f1368-3d83-53bb-bf61-f8b00f924e35"
+    },
+    {
+      "id": "b5dbf05d-c37d-5052-bc78-1fed19c8fd24",
+      "name": "Vacaville City Coach Transit (Fixed Route, On-Demand and Paratransit)",
+      "status": "active",
+      "description": "City Coach public transit: on-demand, fixed-route and paratransit service. (707) 449-6000, city.coach@cityofvacaville.com. Source: City of Vacaville service directory (https://www.cityofvacaville.gov/government/public-works/public-transit links here).",
+      "last_modified": "2026-10-23T22:43:36Z",
+      "url": "https://citycoach.com/",
+      "organization": {
+        "id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d",
+        "name": "Public Works",
+        "description": "Streets, infrastructure, engineering, and maintenance services",
+        "uri": "https://jurisdictional.org/agencies/12",
+        "email": "publicworks@cityofvacaville.com",
+        "website": "https://www.cityofvacaville.gov/government/public-works"
+      },
+      "organization_id": "e061ac6d-24ff-56d9-b6a1-f92ef9fda13d"
+    },
+    {
+      "id": "2a624f9f-c874-5eed-a5ea-43cd7044cb5f",
+      "name": "Vacaville City Info Radio (530 AM)",
+      "status": "active",
+      "description": "Listen to the City's information radio station at 530 AM, also streamed online; used for city and emergency information. Source: City of Vacaville service directory (\"Find the City Radio\").",
+      "last_modified": "2026-10-23T22:43:55Z",
+      "url": "https://hearmoreinfo.streamguys1.com/VacavilleCityInfo",
+      "organization": {
+        "id": "738f513d-e194-50af-a335-8b275ca54804",
+        "name": "City Manager's Office",
+        "description": "Chief administrative office overseeing all city departments and operations",
+        "uri": "https://jurisdictional.org/agencies/1",
+        "website": "https://www.cityofvacaville.gov/government/city-manager-s-office"
+      },
+      "organization_id": "738f513d-e194-50af-a335-8b275ca54804"
+    },
+    {
+      "id": "2b05eafe-e67e-5781-8104-dad574e2d8c1",
+      "name": "Vacaville Community Emergency Response Team (VCERT) Training",
+      "status": "active",
+      "description": "Free disaster-response volunteer training (five Thursday evening classes plus a Saturday drill). Email the VCERT application to Fire@CityofVacaville.com to join the contact list for the next session. Source: https://www.cityofvacaville.gov/residents/emergency-preparedness/vcert",
+      "last_modified": "2026-10-23T22:42:49Z",
+      "url": "https://www.cityofvacaville.gov/home/showpublisheddocument/4589/636234161698230000",
+      "organization": {
+        "id": "4777013b-5c70-5223-933e-c88fd5f1306b",
+        "name": "Fire Department",
+        "description": "Fire suppression, emergency medical services, and fire prevention",
+        "uri": "https://jurisdictional.org/agencies/7",
+        "website": "https://www.cityofvacaville.gov/government/fire-department"
+      },
+      "organization_id": "4777013b-5c70-5223-933e-c88fd5f1306b",
+      "eligibility_description": "Vacaville residents 18 and older",
+      "fees_description": "0"
+    },
+    {
+      "id": "29ca9378-cab1-5052-8684-59e6c8ea966f",
+      "name": "Water and Sewer Rates and Fees",
+      "status": "active",
+      "description": "Open data: the City's adopted bi-monthly water rates (fixed charge by meter size plus volumetric rate), sewer rates and utility fees, and the Water and Sewer Rate Study adopted by Council in June 2025.",
+      "last_modified": "2026-10-23T22:44:14Z",
+      "url": "https://www.cityofvacaville.gov/government/utilities/fees-and-rates",
+      "organization": {
+        "id": "20d07600-7267-5b77-8c0e-c0d6f92afd43",
+        "name": "Utilities Department",
+        "description": "Manages the city's water supply, water conservation, sewer services, and utility infrastructure.",
+        "uri": "https://jurisdictional.org/agencies/2891",
+        "email": "utilitiesdept@cityofvacaville.gov",
+        "website": "https://www.cityofvacaville.gov/government/utilities"
+      },
+      "organization_id": "20d07600-7267-5b77-8c0e-c0d6f92afd43"
+    },
+    {
+      "id": "5f95540c-80b5-50c8-bb69-bb68f3c2e483",
+      "name": "Water and Wastewater Reports and Plans",
+      "status": "active",
+      "description": "Open data: Utilities Department reports including the Lead Service Line Inventory, the 2025 Public Health Goal Report on Water Quality, annual water quality reports, the Urban Water Management Plan, the Sanitary Sewer Management Plan and the Recycled Water Master Plan.",
+      "last_modified": "2026-10-23T22:44:12Z",
+      "url": "https://www.cityofvacaville.gov/government/utilities/reports-and-plans",
+      "organization": {
+        "id": "20d07600-7267-5b77-8c0e-c0d6f92afd43",
+        "name": "Utilities Department",
+        "description": "Manages the city's water supply, water conservation, sewer services, and utility infrastructure.",
+        "uri": "https://jurisdictional.org/agencies/2891",
+        "email": "utilitiesdept@cityofvacaville.gov",
+        "website": "https://www.cityofvacaville.gov/government/utilities"
+      },
+      "organization_id": "20d07600-7267-5b77-8c0e-c0d6f92afd43"
+    },
+    {
+      "id": "7480ea27-1cfb-5de9-aaca-e84db51fd1d3",
+      "name": "Water Conservation Rebates",
+      "status": "active",
+      "description": "Water conservation rebates sponsored by the City with the Solano County Water Agency: water-efficient landscape (turf replacement) rebate of up to $1.50 per square foot, and water-conserving product rebates of up to $50 each (up to $250 for all five). Subject to available funding; artificial turf is not eligible.",
+      "last_modified": "2026-10-23T22:44:07Z",
+      "url": "https://www.cityofvacaville.gov/government/utilities/water-conservation/rebates-and-programs",
+      "organization": {
+        "id": "20d07600-7267-5b77-8c0e-c0d6f92afd43",
+        "name": "Utilities Department",
+        "description": "Manages the city's water supply, water conservation, sewer services, and utility infrastructure.",
+        "uri": "https://jurisdictional.org/agencies/2891",
+        "email": "utilitiesdept@cityofvacaville.gov",
+        "website": "https://www.cityofvacaville.gov/government/utilities"
+      },
+      "organization_id": "20d07600-7267-5b77-8c0e-c0d6f92afd43",
+      "eligibility_description": "Qualifying Vacaville residents; no retroactive rebates"
+    }
+  ],
+  "total_pages": 1,
+  "total_items": 45,
+  "first_page": true,
+  "last_page": true,
+  "page_number": 1
+}

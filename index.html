@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    >
+    <title>Public services, open data</title>
+    <meta
+      name="description"
+      content="Every public service at a U.S. address, as Open Referral (HSDS) data from the open Jurisdictional API."
+    >
+    <style>
+      :root {
+        --bg: #fafaf9; --fg: #1c1917; --muted: #57534e; --line: #e7e5e4;
+        --card: #ffffff; --accent: #1d4ed8; --code: #f5f5f4;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #0f172a; --fg: #f5f5f4; --muted: #a8a29e; --line: #334155;
+          --card: #1e293b; --accent: #93c5fd; --code: #111827;
+        }
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.55 system-ui, sans-serif; }
+      main { max-width: 46rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+      a { color: var(--accent); }
+      h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 0.75rem; }
+      h2 { font-size: 1.35rem; margin: 2.5rem 0 0.5rem; }
+      h3 { font-size: 1.05rem; margin: 1.5rem 0 0.5rem; }
+      .lede { font-size: 1.15rem; color: var(--muted); margin: 0 0 1rem; }
+      .muted { color: var(--muted); font-size: 0.9rem; }
+      section { border-top: 1px solid var(--line); }
+      form { display: flex; gap: 0.5rem; margin: 0.75rem 0; }
+      input { flex: 1; min-width: 0; padding: 0.6rem; font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--fg); }
+      button { padding: 0.6rem 1rem; font: inherit; border: 0; background: var(--fg); color: var(--bg); cursor: pointer; }
+      .status { min-height: 1.5rem; }
+      .error { color: #b91c1c; }
+      .layer { margin: 1.25rem 0; }
+      .layer h3 { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+      .layer h3 small { font-weight: normal; color: var(--muted); }
+      .cards { display: grid; gap: 0.5rem; }
+      details.card { border: 1px solid var(--line); background: var(--card); padding: 0.6rem 0.8rem; }
+      details.card summary { cursor: pointer; font-weight: 600; }
+      details.card .org { font-weight: normal; color: var(--muted); }
+      details.card p { margin: 0.4rem 0; }
+      pre, code { font: 13px/1.45 ui-monospace, monospace; }
+      pre { background: var(--code); border: 1px solid var(--line); padding: 0.75rem; overflow-x: auto; max-height: 24rem; }
+      .requests { font-size: 0.85rem; word-break: break-all; }
+      .two { display: grid; gap: 1rem; }
+      @media (min-width: 40rem) { .two { grid-template-columns: 1fr 1fr; } }
+      .box { border: 1px solid var(--line); background: var(--card); padding: 1rem; }
+      .box h3 { margin-top: 0; }
+      .alt { border-left: 3px solid var(--line); padding-left: 0.75rem; }
+      footer { margin-top: 3rem; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Every public service, in one open format.</h1>
+      <p class="lede">
+        Permits, benefits, licenses and programs from your city, school district, county and state, published as
+        <a href="https://openreferral.org/">Open Referral</a>
+        data.
+      </p>
+      <p>
+        Open Referral's Human Services Data Specification (HSDS) is the shared format for describing services.
+        When every government publishes services the same way, any directory, 211 line, city portal or assistant can show them without a custom integration.
+        This page reads one such feed, live, from the open
+        <a href="https://jurisdictional.org/developers">Jurisdictional API</a>.
+      </p>
+
+      <section aria-labelledby="try">
+        <h2 id="try">See it in use</h2>
+        <p>
+          Type a U.S. street address.
+          The page asks which governments serve it, then reads each one's services from the HSDS feed.
+        </p>
+        <form id="search">
+          <label
+            for="address"
+            hidden
+          >Address</label>
+          <input
+            id="address"
+            name="address"
+            autocomplete="street-address"
+            value="300 Hemlock St, Vacaville, CA 95688"
+            required
+          >
+          <button type="submit">Find services</button>
+        </form>
+        <p
+          id="status"
+          class="status muted"
+          aria-live="polite"
+        ></p>
+        <div id="results"></div>
+
+        <h3>The requests</h3>
+        <p class="muted">
+          The cards above are just one rendering of standard records.
+          These are the exact calls behind them.
+        </p>
+        <ol
+          id="requests"
+          class="requests"
+        ></ol>
+        <details>
+          <summary>Show the HSDS JSON</summary>
+          <pre id="hsds-json"></pre>
+        </details>
+        <div class="alt">
+          <details id="native">
+            <summary>Same services, native API</summary>
+            <p class="muted">
+              Need search and filters?
+              Jurisdictional's own endpoint returns the same services with text search (<code>query</code>), <code>service_type</code> and <code>actions</code> filters, and each service's jurisdiction.
+              HSDS is the standard any Open Referral tool reads; the native API is there when you want more.
+            </p>
+            <p
+              id="native-url"
+              class="requests"
+            ></p>
+            <pre id="native-json"></pre>
+          </details>
+        </div>
+      </section>
+
+      <section aria-labelledby="why">
+        <h2 id="why">Why structured data</h2>
+        <p>
+          A service described in a paragraph can be read by a person.
+          The same service as a record can be read by every tool.
+        </p>
+        <div class="two">
+          <div>
+            <h3>On a web page</h3>
+            <p id="prose"></p>
+          </div>
+          <div>
+            <h3>As an HSDS record</h3>
+            <pre id="record"></pre>
+          </div>
+        </div>
+        <ul>
+          <li>
+            <strong>Comparable.</strong>
+            The same fields for every agency, so a directory can sort, filter and compare.
+          </li>
+          <li>
+            <strong>Machine-readable.</strong>
+            Directories, search engines and AI assistants read it directly, no scraping.
+          </li>
+          <li>
+            <strong>Sourced and updatable.</strong>
+            Every record traces to the government's own page, and a correction reaches every reader at once.
+          </li>
+        </ul>
+      </section>
+
+      <section aria-labelledby="who">
+        <h2 id="who">Who it's for</h2>
+        <div class="two">
+          <div class="box">
+            <h3>Service providers</h3>
+            <p>
+              Keep your services current in one place.
+              Every directory that reads HSDS shows them, with your page as the source.
+            </p>
+            <p>
+              <a href="https://jurisdictional.org/">Add or correct your services</a>
+            </p>
+          </div>
+          <div class="box">
+            <h3>Service directories</h3>
+            <p>
+              One feed of U.S. government services in HSDS 3.3.1, with stable ids and an open license.
+              No scraping, no custom mapper.
+            </p>
+            <p>
+              <a href="https://jurisdictional.org/api/hsds">Load the feed</a>
+            </p>
+          </div>
+        </div>
+        <p>
+          Open, standard and sourced, the feed is shared civic plumbing: digital public infrastructure anyone can build on.
+        </p>
+      </section>
+
+      <section aria-labelledby="api">
+        <h2 id="api">Try the API</h2>
+<pre>curl https://jurisdictional.org/api/hsds
+curl "https://jurisdictional.org/api/hsds/services?jurisdiction_id=2532&amp;per_page=50"
+curl https://jurisdictional.org/api/hsds/services/&lt;id&gt;</pre>
+        <p class="muted">
+          Free to use: 100 requests a day per connection without a token, more with a free one.
+          The data is licensed under the
+          <a href="https://jurisdictional.org/license">ODbL 1.0</a>.
+          Documentation:
+          <a href="https://github.com/civicstudio/jurisdictional/blob/main/docs/API.md#open-referral-hsds">API.md</a>.
+        </p>
+      </section>
+
+      <footer class="muted">
+        <p>
+          A <a href="https://jurisdictional.org">Jurisdictional</a> prototype.
+          Code under MIT, data under ODbL 1.0.
+          <a href="https://github.com/jurisdictional/example-public-services">Fork it on GitHub</a>.
+        </p>
+      </footer>
+    </main>
+
+    <script type="module">
+      import { juricode, hsdsServices, hsdsService, nativeServices, urls } from "./src/jurisdictional.js";
+      import { serviceLayers, card, pageSummary, details } from "./src/render.js";
+
+      const $ = (id) => document.getElementById(id);
+      function el(tag, props = {}, ...children) {
+        const node = Object.assign(document.createElement(tag), props);
+        node.append(...children);
+        return node;
+      }
+      let nativeFor = null; // the layer whose native JSON the toggle shows
+
+      function renderCard(service) {
+        const c = card(service);
+        const box = el("details", { className: "card" });
+        const summary = el("summary", {}, c.name);
+        if (c.organization) summary.append(el("span", { className: "org" }, ` · ${c.organization}`));
+        box.append(summary);
+        if (c.description) box.append(el("p", {}, c.description));
+        if (c.fees) box.append(el("p", {}, `Fees: ${c.fees}`));
+        if (c.eligibility) box.append(el("p", {}, `Eligibility: ${c.eligibility}`));
+        if (c.url) box.append(el("p", {}, el("a", { href: c.url, rel: "noopener" }, "Go to the service")));
+        const contact = el("p", { className: "muted" });
+        box.append(contact);
+        box.addEventListener("toggle", async () => {
+          if (!box.open || contact.dataset.loaded) return;
+          contact.dataset.loaded = "1";
+          contact.textContent = `Loading ${urls.hsdsService(c.id)}`;
+          try {
+            const d = details(await hsdsService(c.id));
+            const lines = [...d.phones.map((p) => `Phone: ${p}`), ...d.locations.map((l) => [l.name, l.address].filter(Boolean).join(": "))];
+            contact.textContent = lines.length ? lines.join(" · ") : "No phone or address on file for this service yet.";
+          } catch (error) {
+            contact.textContent = error.message;
+            contact.classList.add("error");
+          }
+        }, { once: false });
+        return box;
+      }
+
+      function render(results) {
+        const out = $("results");
+        out.replaceChildren();
+        for (const { layer, hsds } of results) {
+          const { shown, total } = pageSummary(hsds);
+          const block = el("div", { className: "layer" });
+          const count = total > shown ? `${shown} of ${total} services` : `${total} services`;
+          block.append(el("h3", {}, `${layer.label}: ${layer.name} `, el("small", {}, count)));
+          if (hsds.contents.length === 0) {
+            block.append(el("p", { className: "muted" }, `No services on file yet for ${layer.name}. `,
+              el("a", { href: "https://jurisdictional.org/" }, "Add one")));
+          } else {
+            block.append(el("div", { className: "cards" }, ...hsds.contents.map(renderCard)));
+          }
+          out.append(block);
+        }
+
+        $("requests").replaceChildren(...results.flatMap(({ requests }) => requests).map((u) => el("li", {}, el("a", { href: u }, u))));
+        const first = results.find((r) => r.hsds.contents.length) ?? results[0];
+        $("hsds-json").textContent = JSON.stringify(first.hsds, null, 2);
+        // The native JSON is recorded in the example, and fetched only when opened after a live search.
+        nativeFor = first;
+        $("native-url").replaceChildren(el("a", { href: urls.nativeServices(first.layer.id) }, urls.nativeServices(first.layer.id)));
+        $("native-json").textContent = first.native ? JSON.stringify(first.native, null, 2) : "";
+        $("native").open = false;
+
+        const sample = first.hsds.contents[0];
+        if (sample) {
+          $("prose").textContent = sample.description ?? sample.name;
+          $("record").textContent = JSON.stringify(sample, null, 2);
+        }
+      }
+
+      async function loadExample() {
+        const get = async (name) => {
+          const response = await fetch(`./public/example/${name}`);
+          if (!response.ok) throw new Error(`Could not load the recorded example (${name}: ${response.status}).`);
+          return response.json();
+        };
+        const meta = await get("meta.json");
+        const juri = await get("juricode.json");
+        const results = await Promise.all(serviceLayers(juri.data).map(async (layer) => ({
+          layer,
+          hsds: await get(`hsds-${layer.id}.json`),
+          native: await get(`native-${layer.id}.json`),
+          requests: [urls.hsdsServices(layer.id)],
+        })));
+        results[0].requests.unshift(urls.juricode(meta.address));
+        render(results);
+        $("status").textContent = `Recorded example for ${meta.address}, ${meta.recorded_at.slice(0, 10)}. Search to run it live.`;
+      }
+
+      $("search").addEventListener("submit", async (event) => {
+        event.preventDefault();
+        const address = event.target.address.value.trim();
+        const status = $("status");
+        status.classList.remove("error");
+        status.textContent = "Finding the governments that serve this address…";
+        try {
+          const juri = await juricode(address);
+          const layers = serviceLayers(juri);
+          if (layers.length === 0) throw new Error("No governments found for that address.");
+          status.textContent = `Reading services from ${layers.length} governments…`;
+          const results = await Promise.all(layers.map(async (layer) => ({
+            layer,
+            hsds: await hsdsServices(layer.id),
+            native: null,
+            requests: [urls.hsdsServices(layer.id)],
+          })));
+          results[0].requests.unshift(urls.juricode(address));
+          render(results);
+          status.textContent = `Live results for ${juri.address ?? address}.`;
+        } catch (error) {
+          status.textContent = error.message;
+          status.classList.add("error");
+        }
+      });
+
+      $("native").addEventListener("toggle", async () => {
+        if (!$("native").open || !nativeFor || nativeFor.native) return;
+        const out = $("native-json");
+        out.textContent = "Loading…";
+        try {
+          nativeFor.native = await nativeServices(nativeFor.layer.id);
+          out.textContent = JSON.stringify(nativeFor.native, null, 2);
+        } catch (error) {
+          out.textContent = error.message;
+        }
+      });
+
+      loadExample().catch((error) => {
+        $("status").textContent = error.message;
+        $("status").classList.add("error");
+      });
+    </script>
+  </body>
+</html>

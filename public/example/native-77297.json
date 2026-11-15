@@ -1,0 +1,1102 @@
+{
+  "count": 39,
+  "data": [
+    {
+      "id": 8080,
+      "name": "Aeries Parent and Student Portal",
+      "description": "Secure Aeries portal where parents view and update emergency contacts and student medical information, see test scores, elementary report cards and real-time attendance, and complete the annual release acknowledgements and permissions (required annually; replaces paper emergency cards). Self-registering: families receive an email in August; account setup needs an email address, the student ID number, the primary phone number on file and a verification code. Source: https://www.vacavilleusd.org/parents___families/parent_portal",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:15Z",
+      "updated_at": "2026-10-23T22:50:15Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 28,
+        "name": "Technology"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://vacavilleusd.aeries.net/student/LoginParent.aspx",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8059,
+      "name": "After-School Program (ASES / ELO-P) Registration",
+      "description": "After School Education & Safety (ASES) and Expanded Learning Opportunities Program (ELO-P) for TK-6th grade: homework help, hands-on enrichment and social activities after school. Register online (6crickets). Families seeking priority placement submit the UPP Form; low-income status must be re-confirmed each school year. Contact: Afterschool@vacavilleusd.org. Source: https://www.vacavilleusd.org/parents___families/expanded_learning_opportunities_program",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:46Z",
+      "updated_at": "2026-10-23T22:49:46Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 27,
+        "name": "Student Services and Supports"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "All VUSD students are eligible. State requirements prioritize students in grades TK-6 who are experiencing homelessness, foster youth, English learners, or low-income (eligible for free or reduced-price meals).",
+      "online_url": "https://www.6crickets.com/districts/Vacaville-Unified-School-District/939",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8066,
+      "name": "Apply for a Job at VUSD",
+      "description": "Current certificated, classified and management job openings at Vacaville Unified, with online applications on the district's job portal (jobs.vacavilleusd.org). Openings are also posted on EdJoin (https://www.edjoin.org/vacavilleusd). Human Resources, 401 Nut Tree Road, Vacaville, CA 95687, (707) 453-6114. Source: https://www.vacavilleusd.org/departments/human_resources/employment_opportunities",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:59Z",
+      "updated_at": "2026-10-23T22:49:59Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 19,
+        "name": "Human Resources"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://jobs.vacavilleusd.org/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 8047,
+      "name": "Apply for Free and Reduced-Price Meals (California Universal Benefits Application)",
+      "description": "Online California Universal Benefits Application (UBA) via LINQ Connect, linked from VUSD Student Nutrition (\"Sun Bucks - UBA\"). The application may qualify a child for benefits such as Summer EBT/SUN Bucks, internet access and school transportation, and confirms low-income status (needed each school year for priority in programs such as ASES/ELO-P). Completing it does not affect a student's ability to receive school meals at no cost; the district notifies families of eligibility within 15 days. Source: https://www.vacavilleusd.org/departments/student_nutrition",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:24Z",
+      "updated_at": "2026-10-23T22:49:24Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 26,
+        "name": "Student Nutrition"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Households with children attending a school participating in the National School Lunch Program or School Breakfast Program. Children enrolled in CalFresh or CalWORKs, or identified as foster, homeless, migrant or runaway, may already qualify without applying.",
+      "online_url": "https://linqconnect.com/public/universal-benefits-application/new",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 8069,
+      "name": "Apply to Become a Substitute",
+      "description": "Apply for certificated (substitute teacher) and classified substitute positions with Vacaville Unified via the district job portal. Substitute Services handles onboarding of all substitutes; credential questions go to credentials@vacavilleusd.org, and a CTC credential can be applied for online with the California Commission on Teacher Credentialing. Source: https://www.vacavilleusd.org/departments/human_resources/substitute_hiring",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:01Z",
+      "updated_at": "2026-10-23T22:50:01Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 19,
+        "name": "Human Resources"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://jobs.vacavilleusd.org/jobs?split_view=true&query=substitutes",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 8121,
+      "name": "Budget Documents (Adopted Budgets, Audits, Interim Reports, EPA)",
+      "description": "Open data: VUSD financial documents published by Business & Administrative Services: adopted budgets (2015-16 through 2026-27), 45-day revised budgets, annual audit reports, Measure A bond audit reports, interim reports, unaudited actuals, and Education Protection Account (EPA) expenditure reports. Source: https://www.vacavilleusd.org/departments/business___administrative_services/budget_documents",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:18Z",
+      "updated_at": "2026-10-23T22:51:18Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 14,
+        "name": "Business & Administrative Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/departments/business___administrative_services/budget_documents",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8058,
+      "name": "Caregiver's Authorization Affidavit",
+      "description": "California Caregiver's Authorization Affidavit, an alternative to legal guardianship that lets an adult caring for a minor enroll the student and make school-related decisions. Only the caregiver signs; the form must be notarized and renewed each school year, and approval is granted by the Student Attendance and Welfare Department. Available in English and Spanish. Source: https://www.vacavilleusd.org/departments/student_attendance___welfare/enrollment/caregiver_s_affidavit",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:42Z",
+      "updated_at": "2026-10-23T22:49:42Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 25,
+        "name": "Student Attendance & Welfare"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Caregivers%20Authorization%20Affidavit%20-%20Revised%207-8-25%20(1).pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8085,
+      "name": "Care Solace Mental Health Care Navigation",
+      "description": "Through a VUSD partnership, Care Solace connects students, staff and families to mental health and substance use providers matched to their needs, at no cost and confidentially. A multilingual team is available 24/7/365 to explain options, call providers and schedule appointments; any coverage accepted including Medi-Cal, Medicare and sliding scale. Call (888) 515-0595 or book online. Source: https://www.vacavilleusd.org/departments/mental_health_supports",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:23Z",
+      "updated_at": "2026-10-23T22:50:23Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 21,
+        "name": "Mental Health Supports"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": "0",
+      "eligibility_requirements": "VUSD students, staff and their families.",
+      "online_url": "https://caresolace.com/site/vacaville",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 8073,
+      "name": "File a Citizen Complaint",
+      "description": "File a formal complaint concerning VUSD employees using the Citizen Complaint Form (English; Spanish also available), under BP/AR 1312.1. The district encourages early, informal resolution first. District Compliance Officer: Director of Human Resources, 401 Nut Tree Road, Vacaville, CA 95687, (707) 454-3514, fax (707) 453-6999; email complaints@vacavilleusd.org. Complaints about pupil fees are filed with the school principal. Source: https://www.vacavilleusd.org/departments/human_resources/vusd_complaints/district_complaints",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:07Z",
+      "updated_at": "2026-10-23T22:50:07Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 19,
+        "name": "Human Resources"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Departments/Human%20Resources/District%20Complaints/VUSDCitizensComplaintForm.pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8082,
+      "name": "Find My School (School Locator Tool)",
+      "description": "Online school locator: enter a home address and click Find My Schools to see the assigned VUSD schools and attendance boundaries (elementary, middle, high). Source: https://www.vacavilleusd.org/schools/school_boundary_maps",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:20Z",
+      "updated_at": "2026-10-23T22:50:20Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 16,
+        "name": "Facilities & Maintenance"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://vacaville-unified.schoolexplorerapp.com/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8088,
+      "name": "Foster and Homeless Youth (McKinney-Vento) Support",
+      "description": "The VUSD Foster & Homeless Youth Liaison helps foster youth and students without permanent housing with immediate enrollment (even without records), remaining in the school of origin, school placement and educational issues. Additional supports may include school supplies, clothing and hygiene items, transportation, free breakfast and lunch, fee waivers, records transfers and adjusted graduation credit requirements. Contact the liaison at (707) 453-6137 or the school counselor. Source: https://www.vacavilleusd.org/departments/foster_and_homeless",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:28Z",
+      "updated_at": "2026-10-23T22:50:28Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 18,
+        "name": "Foster and Homeless Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Foster youth, and children and youth experiencing homelessness under the McKinney-Vento definition (e.g. sharing housing due to economic hardship; living in motels, hotels, trailer parks, shelters, cars, parks or similar settings).",
+      "online_url": "https://www.vacavilleusd.org/departments/foster_and_homeless",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "social_services",
+      "services_provided": null
+    },
+    {
+      "id": 8130,
+      "name": "Governing Board Trustee Area Maps",
+      "description": "Open data: VUSD by-trustee-area election maps and demographics, an interactive map link, and Resolution No. 24, 2021-22 adjusting trustee area boundaries (approved February 10, 2022, effective for the November 2022 election), plus redistricting history. Source: https://www.vacavilleusd.org/board/vacaville_governing_board_trustee_areas",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:28Z",
+      "updated_at": "2026-10-23T22:51:28Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 13,
+        "name": "Superintendent's Office"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/board/vacaville_governing_board_trustee_areas",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8095,
+      "name": "Home and Hospital Instruction",
+      "description": "Instruction at home, in a hospital or other residential health facility (excluding state hospitals) for students with a temporary disability. Application process and AR 6183(a) are posted; contact the Student Attendance and Welfare office for more information. Source: https://www.vacavilleusd.org/departments/Student_Services_And_Supports/home_and_hospital",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:38Z",
+      "updated_at": "2026-10-23T22:50:38Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 27,
+        "name": "Student Services and Supports"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Students with a temporary physical, mental or emotional disability incurred while enrolled, who can reasonably be expected to return to regular classes; excludes students identified as individuals with exceptional needs under EC 56026.",
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Departments/Student%20Attendance%20&%20Welfare/Home%20and%20Hospital/3423528152799775653.pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8054,
+      "name": "InterDistrict Attendance Permit (Transfer Out of VUSD)",
+      "description": "VUSD residents requesting to attend school in another district complete the 2026-2027 InterDistrict Attendance Permit and submit it to Student Attendance and Welfare at the Educational Services Center, 401 Nut Tree Road, Vacaville, CA 95687, in person, by fax (707) 453-7115, or by email to transfers@vacavilleusd.org; it is then forwarded to the requested district. Students living outside VUSD who want to attend VUSD must obtain an approved permit from their district of residence, which sends it to VUSD; approval is based on space, grades, discipline and attendance, and denials may be appealed in writing within 10 school days. Spanish form also available. Source: https://www.vacavilleusd.org/departments/student_attendance___welfare/enrollment/school_transfers",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:36Z",
+      "updated_at": "2026-10-23T22:49:36Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 25,
+        "name": "Student Attendance & Welfare"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Interdistrict%20Attendance%20Permit%202026-2027%20-%20English.pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8056,
+      "name": "IntraDistrict Transfer Request (Within VUSD)",
+      "description": "Parents and guardians residing within VUSD boundaries may apply for their child to attend a different VUSD school by submitting an IntraDistrict Attendance Agreement. Placement follows resident placement and space availability, with priority for administrative placements, siblings, and continuing students who moved within the district. Separate policies apply to incoming K-6 and 7-12 students. Open Enrollment is no longer offered. Source: https://www.vacavilleusd.org/departments/student_attendance___welfare/enrollment/school_transfers",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:39Z",
+      "updated_at": "2026-10-23T22:49:39Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 25,
+        "name": "Student Attendance & Welfare"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Students residing within Vacaville Unified School District boundaries.",
+      "online_url": "https://www.vacavilleusd.org/departments/student_attendance___welfare/enrollment/school_transfers",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8070,
+      "name": "Livescan Fingerprinting",
+      "description": "Livescan fingerprinting services offered by VUSD Human Resources to employees and parent volunteers, at no cost and by appointment only. Call (707) 453-6114 to schedule. Human Resources, 401 Nut Tree Road, Vacaville, CA 95687. Source: https://www.vacavilleusd.org/departments/human_resources",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:04Z",
+      "updated_at": "2026-10-23T22:50:04Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 19,
+        "name": "Human Resources"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": "0",
+      "eligibility_requirements": "VUSD employees and parent volunteers; by appointment only.",
+      "online_url": "https://www.vacavilleusd.org/departments/human_resources",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8124,
+      "name": "Local Control and Accountability Plan (LCAP)",
+      "description": "Open data: VUSD's Local Control and Accountability Plan, describing district goals, actions and how the budget supports the eight state priorities, with outcomes for English learners, foster youth and low-income students. Includes the 2026 LCAP (English and Spanish), the 2025 LCAP, prior-year LCAPs back to 2016-17, and the LCFF Budget Overview for Parents 2026-27. Source: https://www.vacavilleusd.org/about/local_control_accountability_plan",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:21Z",
+      "updated_at": "2026-10-23T22:51:21Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 15,
+        "name": "Educational Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/about/local_control_accountability_plan",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8132,
+      "name": "Measure A Bond Program",
+      "description": "Open data: VUSD Measure A school facilities bond website with projects, Citizens' Oversight committee, CEQA documents and contractor information. Measure A annual bond audit reports are posted on the Budget Documents page. Phone 707 453-6138. Source: https://measurea.vacavilleusd.org/",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:30Z",
+      "updated_at": "2026-10-23T22:51:30Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 16,
+        "name": "Facilities & Maintenance"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://measurea.vacavilleusd.org/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8096,
+      "name": "Medication at School Authorization",
+      "description": "For school personnel to give prescription or non-prescription medication during school hours, the parent/guardian and the student's doctor complete the \"Authorization For Medication Required During School Hours\" form, which a parent or designated adult brings to the school office with the medication in its original labeled container. Renew each school year or when the medication changes. Students may self-carry only asthma and/or epinephrine auto-injector medication with physician authorization. Source: https://www.vacavilleusd.org/departments/nursing_and_health_services_department/medication_at_school",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:42Z",
+      "updated_at": "2026-10-23T22:50:42Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 22,
+        "name": "Nursing and Health Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Departments/Nursing%20and%20Health%20Services/Medication%20at%20School/5900084842255679596.pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 8045,
+      "name": "New Student Online Enrollment",
+      "description": "Enroll a student who is new to Vacaville Unified (TK-12) through the Aeries Online Enrollment portal. Upload proof of residency, age verification (e.g. birth certificate), immunization records, and high school transcripts where applicable; a school site representative then contacts the family. Students who previously attended a VUSD school should contact their new school instead. Questions: enrollment@vacavilleusd.org. Source: https://www.vacavilleusd.org/departments/student_attendance___welfare/enrollment/new_student_enrollment",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:11Z",
+      "updated_at": "2026-10-23T22:49:11Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 25,
+        "name": "Student Attendance & Welfare"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": "0",
+      "eligibility_requirements": "Students residing within Vacaville Unified School District boundaries. Non-residents must first complete the InterDistrict Agreement process and receive a VUSD approval letter.",
+      "online_url": "https://vacavilleusd.aeries.net/enrollment/",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8051,
+      "name": "Order a High School Transcript",
+      "description": "Request transcripts for graduates or non-graduates from the registrar at the last school attended; each high school (Buckingham Collegiate Charter Academy, Kimme WRAP, Ernest Kimme Charter Academy, Will C. Wood High School, Vacaville High School) has an \"Order Transcripts\" link to Parchment on this page. There is a charge for transcripts, payable upon request, and all outstanding student debts must be cleared first. During summer months contact Educational Services, 401 Nut Tree Road, (707) 453-6118 or (707) 453-6116. Source: https://www.vacavilleusd.org/departments/educational_services/records___transcripts",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:32Z",
+      "updated_at": "2026-10-23T22:49:32Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 15,
+        "name": "Educational Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/departments/educational_services/records___transcripts",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8081,
+      "name": "ParentSquare School Messaging",
+      "description": "VUSD uses ParentSquare for messages from the district, schools and teachers. Create or access a ParentSquare account (registration guides in English and Spanish). Source: https://www.vacavilleusd.org/departments/student_attendance___welfare/enrollment/parent_square_registration",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:18Z",
+      "updated_at": "2026-10-23T22:50:18Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 23,
+        "name": "Public Information Office"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.parentsquare.com/signin",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8117,
+      "name": "Public Records Request",
+      "description": "Submit California Public Records Act requests to the VUSD Public Information Office by email to pio@vacavilleusd.org or by US mail to 401 Nut Tree Road, Vacaville, CA 95687. A response is provided within 10 days stating whether the requested information is disclosable (Gov. Code 6253(c)). Source: https://www.vacavilleusd.org/departments/public_information_office",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:13Z",
+      "updated_at": "2026-10-23T22:51:13Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 23,
+        "name": "Public Information Office"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/departments/public_information_office",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8060,
+      "name": "Rent a School Facility (Facilitron)",
+      "description": "Reserve and rent VUSD facilities (fields, gyms, pools, theaters, classrooms, multipurpose rooms, kitchens, parking lots and more) online through Facilitron, with real-time availability, estimated quotes, online payment and insurance upload. Fees follow a schedule: Group I (school-related groups, scouts, booster clubs, employee associations, government election activities and similar) free use; Group II cost-use rates for non-profits with proof of status; commercial rates otherwise. Facilitron support: support@facilitron.com, 800-272-2962. Source: https://www.vacavilleusd.org/departments/facilities___maintenance/vusd_facilities_use",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:49Z",
+      "updated_at": "2026-10-23T22:49:49Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 16,
+        "name": "Facilities & Maintenance"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.facilitron.com/vusd95687",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "recreation",
+      "services_provided": null
+    },
+    {
+      "id": 8077,
+      "name": "Report a Bullying Incident (Anonymous)",
+      "description": "Students, parents and staff who observe or experience bullying may submit a report anonymously online (WeTip anonymous community reports, select the school site). VUSD also expects incidents to be reported to the principal or designee immediately. Source: https://www.vacavilleusd.org/departments/student_attendance___welfare/bullying_prevention",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:13Z",
+      "updated_at": "2026-10-23T22:50:13Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 25,
+        "name": "Student Attendance & Welfare"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://mobile.catapultems.com/vacaville-usd/Sites",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8128,
+      "name": "Salary Schedules",
+      "description": "Open data: negotiated VUSD salary schedules by job classification: certificated (VTA appendices, preschool and special education preschool teachers), certificated management, classified, classified management and substitute teacher schedules (2025-26 and prior). Source: https://www.vacavilleusd.org/departments/human_resources/SalarySchedules",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:26Z",
+      "updated_at": "2026-10-23T22:51:26Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 19,
+        "name": "Human Resources"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/departments/human_resources/SalarySchedules",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 8126,
+      "name": "School Accountability Report Cards (SARC) and Schools Directory",
+      "description": "Open data: directory of VUSD schools (address, phone, office hours) with each school's School Accountability Report Card (2024-25 SARC PDFs, English and Spanish) and, where posted, School Plans for Student Achievement (SPSA). Source: https://www.vacavilleusd.org/schools/vusd_schools_directory_sarc_reports",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:24Z",
+      "updated_at": "2026-10-23T22:51:24Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 15,
+        "name": "Educational Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/schools/vusd_schools_directory_sarc_reports",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8063,
+      "name": "School Developer Fee Payment",
+      "description": "Statutory (level 1) school developer fees for new construction in VUSD. Current rates: residential $5.17 per sq ft (additions and ADUs of 500 sq ft or more, and all new construction); commercial/industrial $0.84 per sq ft; additions and ADUs under 500 sq ft exempt. Rates rise on October 19, 2026 to $5.38 (residential) and $0.87 (commercial/industrial) per sq ft. Complete the \"Applicant\" and \"City of Vacaville\" sections of the VUSD Developer Fee Form and bring it to the Fiscal Services office, Educational Services Center, 401 Nut Tree Rd, Vacaville CA 95687. 2026 Addendum to Fee Justification Study is posted on the page. Source: https://www.vacavilleusd.org/departments/facilities___maintenance/developer_fee_information",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:53Z",
+      "updated_at": "2026-10-23T22:49:53Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 16,
+        "name": "Facilities & Maintenance"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://drive.google.com/file/d/1uQ1O-sCwdyXtlh_L8WzTN7vr_Ve10T_c/view?usp=sharing",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8048,
+      "name": "School Meal Account and Fee Payments (LINQ Connect)",
+      "description": "Online LINQ Connect accounts (\"Linq Online Accounts\" on the VUSD Student Nutrition page) for managing student meal balances and school-related fees, with automatic payments and low-balance notifications. Source: https://www.vacavilleusd.org/departments/student_nutrition",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:26Z",
+      "updated_at": "2026-10-23T22:49:26Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 26,
+        "name": "Student Nutrition"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://linqconnect.com/main",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": null,
+      "services_provided": null
+    },
+    {
+      "id": 8049,
+      "name": "School Meal Menus",
+      "description": "Elementary, middle school and high school meal menus published by VUSD Student Nutrition. Menus subject to change daily based on vendor supply availability. Source: https://www.vacavilleusd.org/departments/student_nutrition/menus",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:49:28Z",
+      "updated_at": "2026-10-23T22:49:28Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 26,
+        "name": "Student Nutrition"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/departments/student_nutrition/menus",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "health",
+      "services_provided": null
+    },
+    {
+      "id": 8092,
+      "name": "Section 504 Accommodation Plan",
+      "description": "A parent or guardian who believes their student may have a disability under Section 504 contacts the school principal or 504 Coordinator to arrange a Student Study Team (SST) meeting to evaluate the need for a 504 accommodation plan (BP/AR 6164.6). Source: https://www.vacavilleusd.org/departments/Student_Services_And_Supports/504_accommodation_plans",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:35Z",
+      "updated_at": "2026-10-23T22:50:35Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 27,
+        "name": "Student Services and Supports"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Students with a physical or mental impairment that substantially limits one or more major life activities.",
+      "online_url": "https://www.vacavilleusd.org/departments/Student_Services_And_Supports/504_accommodation_plans",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8102,
+      "name": "Short-Term Independent Study",
+      "description": "Short-term independent study contracts for elementary and secondary students (e.g. during planned absences). Applications in English and Spanish are posted on the Parent Communications page; the secondary application is also available there. Source: https://www.vacavilleusd.org/departments/educational_services/parent_communications___student_work_permits",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:48Z",
+      "updated_at": "2026-10-23T22:50:48Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 25,
+        "name": "Student Attendance & Welfare"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Departments/Student%20Attendance%20&%20Welfare/Short%20Term%20Independent%20Study/VUSD%20ShortTerm%20ISP%202023-2024.pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8090,
+      "name": "Special Education Evaluation Request (Child Find)",
+      "description": "VUSD conducts multi-disciplinary evaluations and consultations for children suspected of having a disability. To request an assessment, contact your child's school principal; if your child is not yet school age, call the Special Education Department at (707) 453-7212 (spedinfo@vacavilleusd.org). Assessment is done only with parent permission; an IEP meeting is held within 60 days of receiving a signed assessment plan. Early Start services are available from birth to three for vision, hearing or orthopedic disabilities. All services are confidential and provided at no cost to the family. Source: https://www.vacavilleusd.org/departments/special_education/getting_help_for_your_child",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:32Z",
+      "updated_at": "2026-10-23T22:50:32Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 24,
+        "name": "Special Education"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": "0",
+      "eligibility_requirements": "Children three to seventeen years of age who are suspected of having a disability and reside within VUSD boundaries.",
+      "online_url": "https://www.vacavilleusd.org/departments/special_education/getting_help_for_your_child",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8107,
+      "name": "Special Enrollment for Charter Schools and Programs",
+      "description": "Enrollment windows, lotteries and interest forms for VUSD schools and programs with special enrollment: Ernest Kimme Charter Academy / WRAP (continuous enrollment, 707-453-6215), Buckingham Collegiate Charter Academy (pre-enrollment via SchoolMint, lottery; (707) 453-7300), Sierra Vista K-8 (enrollment packets and lottery; (707) 453-6260), and academic programs such as ACE. Non-resident students accepted to non-charter programs must submit an InterDistrict Attendance Agreement. Questions: Student Attendance and Welfare, 707-469-2307. Source: https://www.vacavilleusd.org/schools/special_enrollment_for_charters_programs",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:55Z",
+      "updated_at": "2026-10-23T22:50:55Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 25,
+        "name": "Student Attendance & Welfare"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/schools/special_enrollment_for_charters_programs",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8119,
+      "name": "Special Needs Student Transportation",
+      "description": "Vacaville Unified provides transportation services for students with special needs. Bus rules, parent responsibilities, student illness guidance and the 2026-27 VUSD Transportation Plan are posted on the department page. Main line (707) 453-6179. Source: https://www.vacavilleusd.org/departments/transportation",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:51:16Z",
+      "updated_at": "2026-10-23T22:51:16Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 29,
+        "name": "Transportation"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Students with special needs.",
+      "online_url": "https://www.vacavilleusd.org/departments/transportation",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "transportation",
+      "services_provided": null
+    },
+    {
+      "id": 8104,
+      "name": "State Preschool Enrollment (Shelley Dally Early Learning Village)",
+      "description": "Apply for VUSD State Preschool through the online enrollment platform (create an account and verify email). Required documents include parent photo ID, family-size documentation, proof of Vacaville residence, proof of income if income-qualifying, immunization records and a recent physician's report. Priority: referred neglected, abused or homeless children; then CSPP-eligible children with exceptional needs; then CSPP-eligible children by income ranking; waiting lists kept. Preschool office: 707-453-6148, Shelley Dally Early Learning Village, 621 South Orchard, Vacaville. Source: https://preschool.vacavilleusd.org/enrollment",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:52Z",
+      "updated_at": "2026-10-23T22:50:52Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 15,
+        "name": "Educational Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Eligible 3 and 4 year olds and TK-age-eligible students. Eligibility is determined by income (at or below 100% of state median income, adjusted for family size), homelessness, CPS, at-risk and/or CalWORKs.",
+      "online_url": "https://solano.sishubbe.com/Parents/VacavillePreschool",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8099,
+      "name": "Student Work Permit",
+      "description": "Minors employed in California need a Permit to Employ and Work. Download the Department of Education work permit form and submit it at the school the student attends during the school year; during breaks when school is closed, bring it to the Educational Services Center at 401 Nut Tree Rd. Questions: 707-453-6116. Source: https://www.vacavilleusd.org/departments/educational_services/parent_communications___student_work_permits",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:45Z",
+      "updated_at": "2026-10-23T22:50:45Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 15,
+        "name": "Educational Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Minors enrolled in VUSD schools who are employed in California.",
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Students/Work%20Permits/dlseformb1-1.pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "employment",
+      "services_provided": null
+    },
+    {
+      "id": 8109,
+      "name": "Vacaville Independent Study (Grades 7-12)",
+      "description": "Hybrid independent study program for grades 7-12 combining independent study, online coursework and virtual/in-person classes, with a weekly Personal Learning Plan teacher meeting. In-district enrollment begins at the student's home school with the school counselor; out-of-district students must complete an Inter-District Transfer Agreement with their district of residence. 200 Keith Way (Nut Tree Rd. side of Vaca Peña Middle School), Vacaville, CA 95688, (707) 469-2305. Source: https://www.vacavilleusd.org/schools/vusd_programs/vacaville_independent_study",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:58Z",
+      "updated_at": "2026-10-23T22:50:58Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 15,
+        "name": "Educational Services"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": "Students in grades 7 through 12.",
+      "online_url": "https://www.vacavilleusd.org/schools/vusd_programs/vacaville_independent_study",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    },
+    {
+      "id": 8075,
+      "name": "Williams Uniform Complaint (Instructional Materials, Facilities, Teacher Vacancies)",
+      "description": "Complaint procedure (AR 1312.4) for insufficient textbooks or instructional materials, emergency or urgent facility conditions that threaten health and safety, and teacher vacancies or misassignments. Use the Williams Uniform Complaint Form (English; Spanish also available). Uniform Complaint Procedures (BP/AR 1312.3) cover discrimination and state/federal program compliance. Source: https://www.vacavilleusd.org/departments/human_resources/vusd_complaints/williams_uniform_complaint_procedures",
+      "actions": [],
+      "inserted_at": "2026-10-23T22:50:10Z",
+      "updated_at": "2026-10-23T22:50:10Z",
+      "jurisdiction": {
+        "id": 77297,
+        "name": "Vacaville Unified School District",
+        "level": "school_district_unified"
+      },
+      "agency": {
+        "id": 19,
+        "name": "Human Resources"
+      },
+      "application_process": null,
+      "capacity_upper_bound": null,
+      "contact_info": null,
+      "cost": null,
+      "eligibility_requirements": null,
+      "online_url": "https://www.vacavilleusd.org/UserFiles/Servers/Server_70116628/File/Departments/Human%20Resources/District%20Complaints/2687244508634866470.pdf",
+      "people_served": null,
+      "processing_time": null,
+      "required_documents": null,
+      "service_type": "education",
+      "services_provided": null
+    }
+  ],
+  "meta": {
+    "offset": 0,
+    "limit": 50,
+    "total_count": 39
+  }
+}

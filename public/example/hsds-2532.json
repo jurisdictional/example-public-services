@@ -1,0 +1,851 @@
+{
+  "size": 50,
+  "empty": false,
+  "contents": [
+    {
+      "id": "0cf438fe-4930-50f7-b9f1-f0dd48e481f1",
+      "name": "24/7 Digital Library (eBooks and More)",
+      "status": "active",
+      "description": "Solano County Library's 24/7 digital library of eBooks and other online resources. Source: https://solanolibrary.gov/",
+      "last_modified": "2026-10-23T22:52:56Z",
+      "url": "https://solanolibrary.gov/247-digital-library/",
+      "organization": {
+        "id": "8483215e-5203-524c-8994-96e47118254c",
+        "name": "Solano County Library",
+        "description": "Public library system with branches in Dixon, Fairfield, Rio Vista, Suisun City, Vacaville and Vallejo, plus the Law Library and a 24/7 digital library. Source: https://solanolibrary.gov/ (www.solanocounty.gov/library redirects here).",
+        "uri": "https://jurisdictional.org/agencies/72490",
+        "website": "https://solanolibrary.gov/"
+      },
+      "organization_id": "8483215e-5203-524c-8994-96e47118254c"
+    },
+    {
+      "id": "fb1ab34c-1517-5248-a848-66dffed49175",
+      "name": "Access My Child Support Case Information (Customer Connect)",
+      "status": "active",
+      "description": "View your child support case information online through Customer Connect, California Child Support's online portal. Source: https://www.solanocounty.gov/government/child-support-services/child-support-online-case-information",
+      "last_modified": "2026-10-23T22:50:15Z",
+      "url": "https://childsupport.ca.gov/customer-connect/",
+      "organization": {
+        "id": "b169eb9e-cd82-588c-b980-1b15d48c7292",
+        "name": "Child Support Services",
+        "description": "Child support enforcement and court services",
+        "uri": "https://jurisdictional.org/agencies/34",
+        "email": "childsupport@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/child-support-services"
+      },
+      "organization_id": "b169eb9e-cd82-588c-b980-1b15d48c7292"
+    },
+    {
+      "id": "aa199b32-3ace-56fa-b13f-e022d18f0405",
+      "name": "Adopt a Pet from Solano County Animal Care",
+      "status": "active",
+      "description": "View adoptable animals at Solano County Animal Care Services (2510 Claybank Road, Fairfield; 707-784-1356), an adoption guarantee municipal shelter serving the seven Solano County cities. Source: https://www.solanocounty.gov/government/sheriff-coroner/animal-care-services/adoptable-pets",
+      "last_modified": "2026-10-23T22:50:42Z",
+      "url": "https://24petconnect.com/SolanoCountyAdoptablePets",
+      "organization": {
+        "id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a",
+        "name": "Sheriff-Coroner",
+        "description": "Law enforcement, coroner, animal services, custody & detention, emergency communications",
+        "uri": "https://jurisdictional.org/agencies/48",
+        "website": "https://www.solanocounty.gov/government/sheriff-coroner"
+      },
+      "organization_id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a"
+    },
+    {
+      "id": "73cdd02d-b857-5005-af23-e5b525007bd4",
+      "name": "Animal Care Low Cost Clinic",
+      "status": "active",
+      "description": "Low cost clinic run by Solano County Animal Care, with sign-up dates for vaccine clinic appointments and TNR (community cat) clinics. Contact AnimalCareClinic@SolanoCounty.gov, 707-784-1356. Source: https://www.solanocounty.gov/services",
+      "last_modified": "2026-10-23T22:50:49Z",
+      "url": "https://www.solanocounty.gov/government/sheriff-coroner/animal-care-services/low-cost-clinic",
+      "organization": {
+        "id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a",
+        "name": "Sheriff-Coroner",
+        "description": "Law enforcement, coroner, animal services, custody & detention, emergency communications",
+        "uri": "https://jurisdictional.org/agencies/48",
+        "website": "https://www.solanocounty.gov/government/sheriff-coroner"
+      },
+      "organization_id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a"
+    },
+    {
+      "id": "6cdfa9ac-6aff-5a71-8ac9-6f706f9a1c8a",
+      "name": "Apply for a Concealed Weapons (CCW) License",
+      "status": "active",
+      "description": "Start a Solano County Sheriff's Office concealed weapons license application online. CCW info: 707-784-7034, SolanoCCW@SolanoCounty.gov. Sources: https://www.solanocounty.gov/government/sheriff-coroner/sheriff-services/concealed-weapons-license and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:50:52Z",
+      "url": "https://solanoso.permitium.com/ccw/start",
+      "organization": {
+        "id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a",
+        "name": "Sheriff-Coroner",
+        "description": "Law enforcement, coroner, animal services, custody & detention, emergency communications",
+        "uri": "https://jurisdictional.org/agencies/48",
+        "website": "https://www.solanocounty.gov/government/sheriff-coroner"
+      },
+      "organization_id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a"
+    },
+    {
+      "id": "c6a70477-cddb-51e8-83de-5d168d149f58",
+      "name": "Apply for a Marriage License",
+      "status": "active",
+      "description": "Public and confidential marriage licenses are issued by the Solano County Clerk, 675 Texas Street Suite 1900, Fairfield. Applications must be completed online before coming into the office; both applicants must be present with valid picture ID. Licenses are effective for 90 days. Phone (707) 784-7485. Source: https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk/county-clerk/marriage-license",
+      "last_modified": "2026-10-23T22:49:31Z",
+      "url": "https://clerkdocs.solanocounty.gov/MarriageKiosk/",
+      "organization": {
+        "id": "f40ce084-e402-5177-bb92-60fde749c9ef",
+        "name": "Treasurer-Tax Collector-County Clerk",
+        "description": "Treasury, tax collection, and county clerk services",
+        "uri": "https://jurisdictional.org/agencies/49",
+        "email": "ttccc@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk"
+      },
+      "organization_id": "f40ce084-e402-5177-bb92-60fde749c9ef",
+      "eligibility_description": "Both applicants must be at least 18 years of age (underage applicants need parental permission and a Superior Court judge's approval); both must be present with valid picture ID including date of birth; ceremony must be performed in California. Confidential licenses require the couple to be living together as spouses."
+    },
+    {
+      "id": "d7776a3b-9af0-5158-8197-a521c8292fa2",
+      "name": "Apply for Building Permits and Licenses Online (Accela)",
+      "status": "active",
+      "description": "Search, apply and pay for building permits, planning applications and other permits and licenses for unincorporated Solano County through the Accela Citizen Access permit portal. Building & Safety: 707-784-6765, building@solanocounty.gov. Sources: https://www.solanocounty.gov/government/resource-management/building-safety-services and https://www.solanocounty.gov/residents",
+      "last_modified": "2026-10-23T22:51:11Z",
+      "url": "https://aca-prod.accela.com/SOLANOCO/Default.aspx",
+      "organization": {
+        "id": "2bc746c5-61cd-5293-81e1-455327428d92",
+        "name": "Resource Management",
+        "description": "Planning, building & safety, public works, environmental health, water resources",
+        "uri": "https://jurisdictional.org/agencies/46",
+        "email": "rmhelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management"
+      },
+      "organization_id": "2bc746c5-61cd-5293-81e1-455327428d92"
+    },
+    {
+      "id": "0d170218-66ef-5574-bdad-b833b4739cd7",
+      "name": "Apply for CalFresh Food Benefits",
+      "status": "active",
+      "description": "CalFresh (formerly Food Stamps) helps low-income individuals and families buy more food. Apply or renew online through BenefitsCal, California's online benefit portal, or contact Solano County Employment & Eligibility at 1-800-400-6001 (offices in Fairfield, Vacaville and Vallejo). Sources: https://www.solanocounty.gov/government/health-social-services-hss/employment-eligibility/calfresh and https://www.solanocounty.gov/government/health-social-services-hss/employment-eligibility/benefitscal",
+      "last_modified": "2026-10-23T22:50:20Z",
+      "url": "https://www.benefitscal.com/",
+      "organization": {
+        "id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+        "name": "Health and Social Services",
+        "description": "Behavioral health, child welfare, public health, family health, employment & eligibility, older/disabled adult services",
+        "uri": "https://jurisdictional.org/agencies/39",
+        "email": "hssinfo@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/health-social-services-hss"
+      },
+      "organization_id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+      "eligibility_description": "Any California household or individual with low or no income can qualify for CalFresh benefits."
+    },
+    {
+      "id": "dab84095-c7d3-55a6-a5a5-1a8f071093e2",
+      "name": "Apply for Cash Aid (CalWORKs and General Assistance)",
+      "status": "active",
+      "description": "Cash assistance for eligible families (CalWORKs) and for adults without dependents (General Assistance). CalWORKs can be applied for or renewed online through BenefitsCal; Employment & Eligibility 1-800-400-6001. Sources: https://www.solanocounty.gov/government/health-social-services-hss/employment-eligibility/cash-aid and https://www.solanocounty.gov/government/health-social-services-hss/employment-eligibility/benefitscal",
+      "last_modified": "2026-10-23T22:50:26Z",
+      "url": "https://www.benefitscal.com/",
+      "organization": {
+        "id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+        "name": "Health and Social Services",
+        "description": "Behavioral health, child welfare, public health, family health, employment & eligibility, older/disabled adult services",
+        "uri": "https://jurisdictional.org/agencies/39",
+        "email": "hssinfo@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/health-social-services-hss"
+      },
+      "organization_id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+      "eligibility_description": "Available for eligible individuals and families who are unable to financially support themselves."
+    },
+    {
+      "id": "6a7e16cc-8688-5beb-a907-7f12a3b6a27b",
+      "name": "Apply for In-Home Supportive Services (IHSS)",
+      "status": "active",
+      "description": "IHSS pays for in-home care so Medi-Cal eligible elderly, disabled adults and children with disability can remain safely at home. IHSS applications: (707) 784-8259 x 1, ihssodasintake@solanocounty.gov, 275 Beck Ave., MS 5-110, Fairfield. Provider enrollment: 707-784-8753. Sources: https://www.solanocounty.gov/government/health-social-services-hss/older-disabled-adult-services and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:50:34Z",
+      "url": "https://www.solanocounty.gov/government/health-social-services-hss/older-disabled-adult-services",
+      "organization": {
+        "id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+        "name": "Health and Social Services",
+        "description": "Behavioral health, child welfare, public health, family health, employment & eligibility, older/disabled adult services",
+        "uri": "https://jurisdictional.org/agencies/39",
+        "email": "hssinfo@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/health-social-services-hss"
+      },
+      "organization_id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+      "eligibility_description": "Medi-Cal eligible elderly, disabled adults and children with disability residing in Solano County."
+    },
+    {
+      "id": "97a158d6-e41f-50b2-a45d-0ff6857f3849",
+      "name": "Apply for Medi-Cal Health Coverage",
+      "status": "active",
+      "description": "Medi-Cal offers free or low cost medical and dental services for eligible children and adults. Apply or renew online through BenefitsCal, or contact Solano County Employment & Eligibility at 1-800-400-6001. Sources: https://www.solanocounty.gov/government/health-social-services-hss/employment-eligibility/medi-cal-health-coverage and https://www.solanocounty.gov/government/health-social-services-hss/employment-eligibility/benefitscal",
+      "last_modified": "2026-10-23T22:50:22Z",
+      "url": "https://www.benefitscal.com/",
+      "organization": {
+        "id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+        "name": "Health and Social Services",
+        "description": "Behavioral health, child welfare, public health, family health, employment & eligibility, older/disabled adult services",
+        "uri": "https://jurisdictional.org/agencies/39",
+        "email": "hssinfo@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/health-social-services-hss"
+      },
+      "organization_id": "a291320e-2463-5caf-9de3-a9cc77fdeb71"
+    },
+    {
+      "id": "474b2ff7-2bd8-5cde-9651-fd147417444e",
+      "name": "Apply for Solano County Jobs",
+      "status": "active",
+      "description": "Browse and apply for Solano County employment opportunities online. Human Resources: 675 Texas Street, Suite 1800, Fairfield; 707-784-6170. Sources: https://www.solanocounty.gov/ (Careers / Employment Opportunities) and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:52:30Z",
+      "url": "https://www.governmentjobs.com/careers/solanocounty",
+      "organization": {
+        "id": "567c23ca-28ba-5b57-932e-51fac75241e9",
+        "name": "Human Resources",
+        "description": "County employee recruitment, benefits, and labor relations",
+        "uri": "https://jurisdictional.org/agencies/40",
+        "website": "https://www.solanocounty.gov/government/human-resources"
+      },
+      "organization_id": "567c23ca-28ba-5b57-932e-51fac75241e9"
+    },
+    {
+      "id": "b75fb75b-e9bb-5527-ab72-547b61ee54f0",
+      "name": "Become a Poll Worker",
+      "status": "active",
+      "description": "Register to serve as a Solano County poll worker online (student and county employee applications also available). Source: https://www.solanocounty.gov/government/registrar-voters/poll-workers",
+      "last_modified": "2026-10-23T22:51:52Z",
+      "url": "https://solanoca.precinctcentral.com/TED/ElectionForcePortal/Launchpad.aspx",
+      "organization": {
+        "id": "228f29b2-976a-5a27-bf8c-11294b480971",
+        "name": "Registrar of Voters",
+        "description": "Election administration, voter registration, and ballot processing",
+        "uri": "https://jurisdictional.org/agencies/45",
+        "email": "elections@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/registrar-voters"
+      },
+      "organization_id": "228f29b2-976a-5a27-bf8c-11294b480971"
+    },
+    {
+      "id": "3058aff6-93be-5fb9-8979-becf6cc8cbf6",
+      "name": "Behavioral Health Access Line",
+      "status": "active",
+      "description": "Call the Solano County Behavioral Health Access Line at 800-547-0495 (BHAccess@SolanoCounty.gov) for mental health and co-occurring substance use services. Sources: https://www.solanocounty.gov/county-directory-contacts and https://www.solanocounty.gov/government/health-social-services-hss/behavioral-health",
+      "last_modified": "2026-10-23T22:50:28Z",
+      "url": "https://www.solanocounty.gov/government/health-social-services-hss/behavioral-health",
+      "organization": {
+        "id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+        "name": "Health and Social Services",
+        "description": "Behavioral health, child welfare, public health, family health, employment & eligibility, older/disabled adult services",
+        "uri": "https://jurisdictional.org/agencies/39",
+        "email": "hssinfo@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/health-social-services-hss"
+      },
+      "organization_id": "a291320e-2463-5caf-9de3-a9cc77fdeb71"
+    },
+    {
+      "id": "2dc1c86e-543e-5469-b3e1-6395ef2b9aac",
+      "name": "Book a Park Picnic Area or Event (Day Use)",
+      "status": "active",
+      "description": "Reserve a picnic area or event space at a Solano County park online. Source: https://parkreservations.solanocounty.com/index_c5.asp",
+      "last_modified": "2026-10-23T22:51:37Z",
+      "url": "https://parkreservations.solanocounty.com/reservation/dayuse",
+      "organization": {
+        "id": "9dcb6f81-2693-5f17-acef-3c04c54dfa4d",
+        "name": "Parks & Recreation",
+        "description": "County parks including Lake Solano, Sandy Beach, Lynch Canyon, and Patwino Worrtla Kodoi Dihi",
+        "uri": "https://jurisdictional.org/agencies/47",
+        "email": "parkshelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management/solano-county-parks"
+      },
+      "organization_id": "9dcb6f81-2693-5f17-acef-3c04c54dfa4d"
+    },
+    {
+      "id": "d94ee1a2-e8ba-5c31-b9c9-4e11c2777ea5",
+      "name": "Business License Zoning Clearance",
+      "status": "active",
+      "description": "Businesses in unincorporated Solano County obtain business license zoning clearance through the Accela portal (County Code Chapter 14, Business Licenses). Businesses inside a city license with that city. Source: https://www.solanocounty.gov/government/resource-management/business-licenses",
+      "last_modified": "2026-10-23T22:51:28Z",
+      "url": "https://aca-prod.accela.com/SOLANOCO",
+      "organization": {
+        "id": "2bc746c5-61cd-5293-81e1-455327428d92",
+        "name": "Resource Management",
+        "description": "Planning, building & safety, public works, environmental health, water resources",
+        "uri": "https://jurisdictional.org/agencies/46",
+        "email": "rmhelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management"
+      },
+      "organization_id": "2bc746c5-61cd-5293-81e1-455327428d92"
+    },
+    {
+      "id": "5a01db11-2a3c-59fd-b9df-419df2f0888a",
+      "name": "Buy a County Park Pass",
+      "status": "active",
+      "description": "Purchase Solano County park passes online. Source: https://parkreservations.solanocounty.com/index_c5.asp",
+      "last_modified": "2026-10-23T22:51:38Z",
+      "url": "https://parkreservations.solanocounty.com/reservations/pass_sales.asp?actiontype=park_passes",
+      "organization": {
+        "id": "9dcb6f81-2693-5f17-acef-3c04c54dfa4d",
+        "name": "Parks & Recreation",
+        "description": "County parks including Lake Solano, Sandy Beach, Lynch Canyon, and Patwino Worrtla Kodoi Dihi",
+        "uri": "https://jurisdictional.org/agencies/47",
+        "email": "parkshelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management/solano-county-parks"
+      },
+      "organization_id": "9dcb6f81-2693-5f17-acef-3c04c54dfa4d"
+    },
+    {
+      "id": "eea035d9-c9c1-54ee-881f-98c50910891c",
+      "name": "Buy County Surplus Equipment and Furniture",
+      "status": "active",
+      "description": "Buy used equipment and furniture from Solano County Surplus Services; all items for sale are listed on PublicSurplus.com. Surplus office: 707-784-1428, surplus@solanocounty.gov. Sources: https://www.solanocounty.gov/government/general-services/welcome-solano-county-surplus and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:52:26Z",
+      "url": "https://www.publicsurplus.com/sms/all,ca/list/current?orgid=14348",
+      "organization": {
+        "id": "1aee2956-233c-5780-aab0-daa7e9937428",
+        "name": "General Services",
+        "description": "Facilities, capital projects, purchasing, surplus, and Nut Tree Airport",
+        "uri": "https://jurisdictional.org/agencies/38",
+        "email": "gsdadmin@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/general-services"
+      },
+      "organization_id": "1aee2956-233c-5780-aab0-daa7e9937428"
+    },
+    {
+      "id": "b84d79c8-36d4-5e13-8991-4fef4f0e60bd",
+      "name": "CalVet College Fee Waiver Program",
+      "status": "active",
+      "description": "The Solano County Veterans Service Office assists with the CalVet College Fee Waiver program. Source: https://www.solanocounty.gov/government/veterans-services",
+      "last_modified": "2026-10-24T00:06:25Z",
+      "url": "https://www.solanocounty.gov/government/veterans-services/calvet-college-fee-waiver-program",
+      "organization": {
+        "id": "cda3e9d4-6867-50e8-a785-1b08b0fe6d26",
+        "name": "Veterans Services",
+        "description": "Benefits assistance and support for veterans and their families",
+        "uri": "https://jurisdictional.org/agencies/50",
+        "website": "https://www.solanocounty.gov/government/veterans-services"
+      },
+      "organization_id": "cda3e9d4-6867-50e8-a785-1b08b0fe6d26"
+    },
+    {
+      "id": "ad9003b5-d9fb-5e67-9898-88afd10531f4",
+      "name": "Change Mailing Address for Property Notices",
+      "status": "active",
+      "description": "Submit the Assessor's Mailing Address Change Request Form to change where property notices, records and tax information are sent. Source: https://www.solanocounty.gov/government/assessorrecorder/assessor-division/mailing-address-change",
+      "last_modified": "2026-10-23T22:50:01Z",
+      "url": "https://content.solanocounty.gov/sites/default/files/2025-05/ChangeOfAddress_4_29_2025.pdf",
+      "organization": {
+        "id": "aea9ff7e-67c1-5c07-a311-7d57f3e7fa92",
+        "name": "Assessor/Recorder",
+        "description": "Property assessment, official records, birth/death/marriage certificates",
+        "uri": "https://jurisdictional.org/agencies/32",
+        "email": "assessor@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/assessorrecorder"
+      },
+      "organization_id": "aea9ff7e-67c1-5c07-a311-7d57f3e7fa92"
+    },
+    {
+      "id": "b4ab87c3-2493-58c2-b47f-a5e1ce5ce374",
+      "name": "Check Voter Registration and Vote by Mail Ballot Status",
+      "status": "active",
+      "description": "Look up your voter registration status and verify whether your vote by mail ballot has been received. Source: https://www.solanocounty.gov/government/registrar-voters",
+      "last_modified": "2026-10-23T22:51:45Z",
+      "url": "https://voterstatus.sos.ca.gov/",
+      "organization": {
+        "id": "228f29b2-976a-5a27-bf8c-11294b480971",
+        "name": "Registrar of Voters",
+        "description": "Election administration, voter registration, and ballot processing",
+        "uri": "https://jurisdictional.org/agencies/45",
+        "email": "elections@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/registrar-voters"
+      },
+      "organization_id": "228f29b2-976a-5a27-bf8c-11294b480971"
+    },
+    {
+      "id": "1c3b6e46-f48a-5038-b874-0fd7658c12ef",
+      "name": "Claim the Homeowners' Property Tax Exemption",
+      "status": "active",
+      "description": "File BOE-266, Claim for Homeowner's Property Tax Exemption, with the Solano County Assessor. Source: https://www.solanocounty.gov/government/assessorrecorder/assessor-division/property-tax-savings/homeowners-property-tax-exemption",
+      "last_modified": "2026-10-23T22:49:57Z",
+      "url": "https://www.capropeforms.org/forms/solano/BOE-266/pdf/",
+      "organization": {
+        "id": "aea9ff7e-67c1-5c07-a311-7d57f3e7fa92",
+        "name": "Assessor/Recorder",
+        "description": "Property assessment, official records, birth/death/marriage certificates",
+        "uri": "https://jurisdictional.org/agencies/32",
+        "email": "assessor@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/assessorrecorder"
+      },
+      "organization_id": "aea9ff7e-67c1-5c07-a311-7d57f3e7fa92"
+    },
+    {
+      "id": "5872ff54-d60a-50d0-aae7-4e3c6887ef8a",
+      "name": "Enroll for Child Support Services",
+      "status": "active",
+      "description": "Open a child support case with Solano Child Support Services using California's simplified child support enrollment form. Office: 675 Texas Street Suite 5700, Fairfield; 866-901-3212. Source: https://www.solanocounty.gov/government/child-support-services/enroll-child-support-services",
+      "last_modified": "2026-10-23T22:50:11Z",
+      "url": "https://childsupport.ca.gov/enroll/",
+      "organization": {
+        "id": "b169eb9e-cd82-588c-b980-1b15d48c7292",
+        "name": "Child Support Services",
+        "description": "Child support enforcement and court services",
+        "uri": "https://jurisdictional.org/agencies/34",
+        "email": "childsupport@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/child-support-services"
+      },
+      "organization_id": "b169eb9e-cd82-588c-b980-1b15d48c7292"
+    },
+    {
+      "id": "66d2ee84-7724-59a2-ae75-3d590074d94c",
+      "name": "Family Health Services Primary Care and Dental Clinics",
+      "status": "active",
+      "description": "County-operated primary care and dental clinics in Fairfield (2101/2201 Courage Dr), Vacaville (1119 East Monte Vista Ave; medical 707-469-4640, dental 707-469-4670) and Vallejo (365 Tuolumne St; 707-553-5509). Sources: https://www.solanocounty.gov/government/health-social-services-hss/family-health-services and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:50:36Z",
+      "url": "https://www.solanocounty.gov/government/health-social-services-hss/family-health-services",
+      "organization": {
+        "id": "a291320e-2463-5caf-9de3-a9cc77fdeb71",
+        "name": "Health and Social Services",
+        "description": "Behavioral health, child welfare, public health, family health, employment & eligibility, older/disabled adult services",
+        "uri": "https://jurisdictional.org/agencies/39",
+        "email": "hssinfo@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/health-social-services-hss"
+      },
+      "organization_id": "a291320e-2463-5caf-9de3-a9cc77fdeb71"
+    },
+    {
+      "id": "af819cee-ef4e-5d68-bb91-d329c700cb77",
+      "name": "File a Claim Against the County",
+      "status": "active",
+      "description": "File a claim for damages against the County of Solano with the Clerk of the Board using the fillable claim form (a separate Claim for Refund of Property Taxes form is also available). Clerk of the Board: 675 Texas Street, Suite 6500, Fairfield; 707-784-6100. Source: https://www.solanocounty.gov/government/clerk-board/file-claim-against-county",
+      "last_modified": "2026-10-23T22:52:41Z",
+      "url": "https://content.solanocounty.gov/sites/default/files/2025-05/CLAIM_FOR_DAMAGES_FILLABLE_FORM_-_Revised.pdf",
+      "organization": {
+        "id": "a8ad3dbc-9e82-5032-ac08-7ebc1c2ae7f7",
+        "name": "Clerk of the Board of Supervisors",
+        "description": "Supports the Board of Supervisors; administers advisory boards and commissions, assessment appeals, claims against the County, CEQA filings and public hearing notices.",
+        "uri": "https://jurisdictional.org/agencies/72491",
+        "email": "clerk@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/clerk-board"
+      },
+      "organization_id": "a8ad3dbc-9e82-5032-ac08-7ebc1c2ae7f7"
+    },
+    {
+      "id": "6df1ce40-10f7-5be0-bfd9-3ac9905935cf",
+      "name": "File a Code Violation Complaint",
+      "status": "active",
+      "description": "Report complaints related to code violations, short term rentals and similar issues to Solano County Resource Management online. Source: https://www.solanocounty.gov/government/resource-management/building-safety-services",
+      "last_modified": "2026-10-23T22:51:12Z",
+      "url": "https://aca-prod.accela.com/SOLANOCO/customization/common/fileComplaint.aspx",
+      "organization": {
+        "id": "2bc746c5-61cd-5293-81e1-455327428d92",
+        "name": "Resource Management",
+        "description": "Planning, building & safety, public works, environmental health, water resources",
+        "uri": "https://jurisdictional.org/agencies/46",
+        "email": "rmhelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management"
+      },
+      "organization_id": "2bc746c5-61cd-5293-81e1-455327428d92"
+    },
+    {
+      "id": "f2dca5bd-0375-5c6a-8553-a0cbf4aa5a9e",
+      "name": "File a Consumer Complaint or Report Fraud",
+      "status": "active",
+      "description": "How to file a complaint or report fraud to the Solano County District Attorney. Consumer & Environmental Crimes Unit: 707-784-6859, dacepu@solanocounty.gov. Sources: https://www.solanocounty.gov/government/district-attorney and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:52:35Z",
+      "url": "https://www.solanocounty.gov/government/district-attorney/how-file-complaint-report-fraud",
+      "organization": {
+        "id": "c02a981c-2298-59a0-bebb-c480462e6179",
+        "name": "District Attorney",
+        "description": "Criminal prosecution, victim/witness services, consumer protection",
+        "uri": "https://jurisdictional.org/agencies/36",
+        "email": "solanoda@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/district-attorney"
+      },
+      "organization_id": "c02a981c-2298-59a0-bebb-c480462e6179"
+    },
+    {
+      "id": "d0bbdb94-7c27-5935-a856-0f0e64706cab",
+      "name": "File a Property Assessment Appeal",
+      "status": "active",
+      "description": "Appeal a property assessment to the Solano County Assessment Appeals Board, administered by the Clerk of the Board. Source: https://www.solanocounty.gov/government/clerk-board",
+      "last_modified": "2026-10-23T22:52:43Z",
+      "url": "https://www.solanocounty.gov/government/clerk-board/assessment-appeals",
+      "organization": {
+        "id": "a8ad3dbc-9e82-5032-ac08-7ebc1c2ae7f7",
+        "name": "Clerk of the Board of Supervisors",
+        "description": "Supports the Board of Supervisors; administers advisory boards and commissions, assessment appeals, claims against the County, CEQA filings and public hearing notices.",
+        "uri": "https://jurisdictional.org/agencies/72491",
+        "email": "clerk@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/clerk-board"
+      },
+      "organization_id": "a8ad3dbc-9e82-5032-ac08-7ebc1c2ae7f7"
+    },
+    {
+      "id": "78878aaf-9ba5-5ab6-a575-bb4ec9bfea5f",
+      "name": "Find a Lost Pet (Stray Animals at the Shelter)",
+      "status": "active",
+      "description": "Search stray pets held at Solano County Animal Care Services, or file a Lost Animal Report. Source: https://www.solanocounty.gov/government/sheriff-coroner/animal-care-services/lost-pets",
+      "last_modified": "2026-10-23T22:50:44Z",
+      "url": "https://24petconnect.com/SolanoCountyStrayPets",
+      "organization": {
+        "id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a",
+        "name": "Sheriff-Coroner",
+        "description": "Law enforcement, coroner, animal services, custody & detention, emergency communications",
+        "uri": "https://jurisdictional.org/agencies/48",
+        "website": "https://www.solanocounty.gov/government/sheriff-coroner"
+      },
+      "organization_id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a"
+    },
+    {
+      "id": "a1922f2d-40f6-597d-8e93-e217d4197c76",
+      "name": "Find County Bids and RFPs",
+      "status": "active",
+      "description": "Procurement bids and requests for proposals for vendors who want to provide goods and services to Solano County. Purchasing: 707-784-6320, purchasing@solanocounty.gov. Sources: https://www.solanocounty.gov/government/general-services and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:52:28Z",
+      "url": "https://www.solanocounty.gov/government/general-services/bidsrfps",
+      "organization": {
+        "id": "1aee2956-233c-5780-aab0-daa7e9937428",
+        "name": "General Services",
+        "description": "Facilities, capital projects, purchasing, surplus, and Nut Tree Airport",
+        "uri": "https://jurisdictional.org/agencies/38",
+        "email": "gsdadmin@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/general-services"
+      },
+      "organization_id": "1aee2956-233c-5780-aab0-daa7e9937428"
+    },
+    {
+      "id": "f28410fc-3d34-5c0e-8c10-3760f17ad0a6",
+      "name": "Find Unclaimed Money Held by the County",
+      "status": "active",
+      "description": "Find out whether you may be owed money from Solano County (unclaimed money under California Government Code Section 50050) and how to claim it. Source: https://www.solanocounty.gov/government/auditor-controller",
+      "last_modified": "2026-10-23T22:50:07Z",
+      "url": "https://www.solanocounty.gov/government/auditor-controller/unclaimed-money",
+      "organization": {
+        "id": "6b5b9c3d-322c-5819-8ee0-beca2e87c8d6",
+        "name": "Auditor-Controller",
+        "description": "Oversees accounting and financial activities of the County",
+        "uri": "https://jurisdictional.org/agencies/33",
+        "email": "auditorcontroller@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/auditor-controller"
+      },
+      "organization_id": "6b5b9c3d-322c-5819-8ee0-beca2e87c8d6"
+    },
+    {
+      "id": "6b54ef18-0986-5468-b5f8-3882eed5fd31",
+      "name": "Get a Library Card",
+      "status": "active",
+      "description": "Sign up online for a Solano County Library card (eCard via SPLASH libraries). Source: https://solanolibrary.gov/",
+      "last_modified": "2026-10-23T22:52:49Z",
+      "url": "https://splashlibraries.org/ecard.html",
+      "organization": {
+        "id": "8483215e-5203-524c-8994-96e47118254c",
+        "name": "Solano County Library",
+        "description": "Public library system with branches in Dixon, Fairfield, Rio Vista, Suisun City, Vacaville and Vallejo, plus the Law Library and a 24/7 digital library. Source: https://solanolibrary.gov/ (www.solanocounty.gov/library redirects here).",
+        "uri": "https://jurisdictional.org/agencies/72490",
+        "website": "https://solanolibrary.gov/"
+      },
+      "organization_id": "8483215e-5203-524c-8994-96e47118254c"
+    },
+    {
+      "id": "84640b73-f66f-52a2-b3a7-5e86f1c63d64",
+      "name": "In-Custody Inmate Search",
+      "status": "active",
+      "description": "Search for persons currently in Solano County Sheriff's custody. Custody booking information (24 hours): 707-784-7112. Sources: https://www.solanocounty.gov/government/sheriff-coroner/public-information/custody-web-search and https://www.solanocounty.gov/county-directory-contacts",
+      "last_modified": "2026-10-23T22:51:03Z",
+      "url": "https://shfinmatesearch.solanocounty.com/",
+      "organization": {
+        "id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a",
+        "name": "Sheriff-Coroner",
+        "description": "Law enforcement, coroner, animal services, custody & detention, emergency communications",
+        "uri": "https://jurisdictional.org/agencies/48",
+        "website": "https://www.solanocounty.gov/government/sheriff-coroner"
+      },
+      "organization_id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a"
+    },
+    {
+      "id": "cfa6a77e-295a-51e0-b59a-e195e50315b7",
+      "name": "Know Your Evacuation Zone",
+      "status": "active",
+      "description": "Use the zone map to find your emergency evacuation zone name. Source: https://www.solanocounty.gov/government/office-emergency-services/prepare-emergency/evacuation-zones",
+      "last_modified": "2026-10-23T22:52:16Z",
+      "url": "https://protect.genasys.com/search?z=9.394013149124659&latlon=38.24503857493889%2C-121.85959109846209",
+      "organization": {
+        "id": "f8b004fa-e83a-5dd3-8fb2-de05ff34b70f",
+        "name": "Office of Emergency Services",
+        "description": "Emergency planning, preparedness, and response coordination",
+        "uri": "https://jurisdictional.org/agencies/42",
+        "email": "oes@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/office-emergency-services"
+      },
+      "organization_id": "f8b004fa-e83a-5dd3-8fb2-de05ff34b70f"
+    },
+    {
+      "id": "6858d5ea-2f60-530c-9da3-736eebbcfe3c",
+      "name": "Library Events Calendar",
+      "status": "active",
+      "description": "Calendar of Solano County Library events and programs at all branches. Source: https://solanolibrary.gov/",
+      "last_modified": "2026-10-23T22:52:55Z",
+      "url": "https://solanolibrary.libnet.info/events",
+      "organization": {
+        "id": "8483215e-5203-524c-8994-96e47118254c",
+        "name": "Solano County Library",
+        "description": "Public library system with branches in Dixon, Fairfield, Rio Vista, Suisun City, Vacaville and Vallejo, plus the Law Library and a 24/7 digital library. Source: https://solanolibrary.gov/ (www.solanocounty.gov/library redirects here).",
+        "uri": "https://jurisdictional.org/agencies/72490",
+        "website": "https://solanolibrary.gov/"
+      },
+      "organization_id": "8483215e-5203-524c-8994-96e47118254c"
+    },
+    {
+      "id": "bfaae13a-dee2-5a7e-9a38-93714d782726",
+      "name": "License Your Pet",
+      "status": "active",
+      "description": "Purchase or renew a Solano County pet license online through DocuPet. Source: https://www.solanocounty.gov/government/sheriff-coroner/animal-care-services/pet-licensing",
+      "last_modified": "2026-10-23T22:50:45Z",
+      "url": "https://solanocounty.docupet.com/en_US/licensing",
+      "organization": {
+        "id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a",
+        "name": "Sheriff-Coroner",
+        "description": "Law enforcement, coroner, animal services, custody & detention, emergency communications",
+        "uri": "https://jurisdictional.org/agencies/48",
+        "website": "https://www.solanocounty.gov/government/sheriff-coroner"
+      },
+      "organization_id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a"
+    },
+    {
+      "id": "cd87895d-aaf9-5e54-8a97-02a97a0428f7",
+      "name": "Look Up Your Districts",
+      "status": "active",
+      "description": "Enter an address to get a current list of the districts the residence of that address is qualified to vote in. Source: https://www.solanocounty.gov/government/registrar-voters/district-lookup",
+      "last_modified": "2026-10-24T00:06:25Z",
+      "url": "https://app.solanocounty.gov/SubApp/ROV/ROV_Lookup/Lookup.aspx?opt=District",
+      "organization": {
+        "id": "228f29b2-976a-5a27-bf8c-11294b480971",
+        "name": "Registrar of Voters",
+        "description": "Election administration, voter registration, and ballot processing",
+        "uri": "https://jurisdictional.org/agencies/45",
+        "email": "elections@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/registrar-voters"
+      },
+      "organization_id": "228f29b2-976a-5a27-bf8c-11294b480971"
+    },
+    {
+      "id": "1ce265c7-c823-5692-990b-050e55227c8e",
+      "name": "Make a Child Support Payment",
+      "status": "active",
+      "description": "Pay child support online through the California State Disbursement Unit (SDU) website (\"Parent Paying Support\"; 1.9% card fee), by phone at 1-866-901-3212, at the payment kiosk in the Solano DCSS lobby, or by cash, check, TouchPay, PayPal or MoneyGram. Source: https://www.solanocounty.gov/government/child-support-services/child-support-payment-options",
+      "last_modified": "2026-10-23T22:50:13Z",
+      "url": "https://childsupport.ca.gov/state-disbursement-unit/",
+      "organization": {
+        "id": "b169eb9e-cd82-588c-b980-1b15d48c7292",
+        "name": "Child Support Services",
+        "description": "Child support enforcement and court services",
+        "uri": "https://jurisdictional.org/agencies/34",
+        "email": "childsupport@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/child-support-services"
+      },
+      "organization_id": "b169eb9e-cd82-588c-b980-1b15d48c7292"
+    },
+    {
+      "id": "53c9ea7d-0f5d-5ad5-84c0-58243405aa07",
+      "name": "Make COBRA Payments",
+      "status": "active",
+      "description": "Make COBRA continuation-coverage payments to the Solano County Auditor-Controller online. Source: https://www.solanocounty.gov/government/auditor-controller",
+      "last_modified": "2026-10-23T22:50:05Z",
+      "url": "https://multipayweb.link2gov.com/SOLAuditor",
+      "organization": {
+        "id": "6b5b9c3d-322c-5819-8ee0-beca2e87c8d6",
+        "name": "Auditor-Controller",
+        "description": "Oversees accounting and financial activities of the County",
+        "uri": "https://jurisdictional.org/agencies/33",
+        "email": "auditorcontroller@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/auditor-controller"
+      },
+      "organization_id": "6b5b9c3d-322c-5819-8ee0-beca2e87c8d6"
+    },
+    {
+      "id": "8c03815d-1ed5-589e-baf6-77e9889363d9",
+      "name": "Online Tax-Defaulted Property Sale",
+      "status": "active",
+      "description": "Solano County Tax Collector's online tax sale. Source: https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk (link \"Online Tax Sale\"); see also https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk/tax-collector/tax-sale-general-information",
+      "last_modified": "2026-10-23T22:49:37Z",
+      "url": "https://solano.mytaxsale.com/",
+      "organization": {
+        "id": "f40ce084-e402-5177-bb92-60fde749c9ef",
+        "name": "Treasurer-Tax Collector-County Clerk",
+        "description": "Treasury, tax collection, and county clerk services",
+        "uri": "https://jurisdictional.org/agencies/49",
+        "email": "ttccc@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk"
+      },
+      "organization_id": "f40ce084-e402-5177-bb92-60fde749c9ef"
+    },
+    {
+      "id": "b68abc8b-fe52-5361-9b82-2492bd2d2e81",
+      "name": "Open data: Animal Care Services Statistics",
+      "status": "active",
+      "description": "Open data: annual (fiscal year) statistics for Solano County Animal Care Services, an adoption guarantee municipal shelter. Source: https://www.solanocounty.gov/government/sheriff-coroner/animal-care-services",
+      "last_modified": "2026-10-23T22:53:23Z",
+      "url": "https://www.solanocounty.gov/government/sheriff-coroner/animal-care-services/statistics",
+      "organization": {
+        "id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a",
+        "name": "Sheriff-Coroner",
+        "description": "Law enforcement, coroner, animal services, custody & detention, emergency communications",
+        "uri": "https://jurisdictional.org/agencies/48",
+        "website": "https://www.solanocounty.gov/government/sheriff-coroner"
+      },
+      "organization_id": "2e6d6dc7-a26f-5705-b7b0-25e3c798547a"
+    },
+    {
+      "id": "5a3a63b8-b840-5aed-b1f7-508620f472dd",
+      "name": "Open data: Board of Supervisors Districts Map",
+      "status": "active",
+      "description": "Open data: GIS app showing Solano County Board of Supervisors district boundaries. Source: https://regis.solanocounty.com/apps/",
+      "last_modified": "2026-10-23T22:53:08Z",
+      "url": "https://solanocountygis.com/portal/apps/webappviewer/index.html?id=62c6249982b146fab5f153a6e0df424c",
+      "organization": {
+        "id": "de77304a-18d7-5615-a6be-ac92bbe02653",
+        "name": "Information Technology",
+        "description": "County IT infrastructure and systems",
+        "uri": "https://jurisdictional.org/agencies/41",
+        "website": "https://www.solanocounty.gov/government/department-information-technology-doit"
+      },
+      "organization_id": "de77304a-18d7-5615-a6be-ac92bbe02653"
+    },
+    {
+      "id": "38d0baf1-2685-5ef2-82a5-ae04b243288d",
+      "name": "Open data: Campaign Finance Filings Public Access Portal",
+      "status": "active",
+      "description": "Open data: public access portal for campaign and candidate finance filings (Forms 460, 410, 501, 470, etc.) filed with the Solano County Registrar of Voters. Source: https://www.solanocounty.gov/government/registrar-voters",
+      "last_modified": "2026-10-23T22:51:56Z",
+      "url": "https://www.southtechhosting.com/SolanoCounty/CampaignDocsWebRetrieval/",
+      "organization": {
+        "id": "228f29b2-976a-5a27-bf8c-11294b480971",
+        "name": "Registrar of Voters",
+        "description": "Election administration, voter registration, and ballot processing",
+        "uri": "https://jurisdictional.org/agencies/45",
+        "email": "elections@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/registrar-voters"
+      },
+      "organization_id": "228f29b2-976a-5a27-bf8c-11294b480971"
+    },
+    {
+      "id": "c3fede2f-5108-5891-a45c-6d94c4bb1de8",
+      "name": "Open data: County Bridges and Road Restrictions Map",
+      "status": "active",
+      "description": "Open data: GIS app of Solano County bridges and road restrictions. Source: https://regis.solanocounty.com/apps/",
+      "last_modified": "2026-10-23T22:53:10Z",
+      "url": "https://solanocountygis.com/portal/apps/webappviewer/index.html?id=5a28a52f7b554ff5a79cffde1b6696a9",
+      "organization": {
+        "id": "de77304a-18d7-5615-a6be-ac92bbe02653",
+        "name": "Information Technology",
+        "description": "County IT infrastructure and systems",
+        "uri": "https://jurisdictional.org/agencies/41",
+        "website": "https://www.solanocounty.gov/government/department-information-technology-doit"
+      },
+      "organization_id": "de77304a-18d7-5615-a6be-ac92bbe02653"
+    },
+    {
+      "id": "feaf6df4-e981-54cb-adaf-80a2c144a807",
+      "name": "Open data: County Finance Reports (ACFR, PAFR, Single Audit, Adopted Budgets)",
+      "status": "active",
+      "description": "Open data: Auditor-Controller finance reports: Annual Comprehensive Financial Reports (ACFR, through 2024/25), Popular Annual Financial Reports (PAFR), Single Audit Reports and adopted budgets (through 25/26). Source: https://www.solanocounty.gov/government/auditor-controller/finance-reports",
+      "last_modified": "2026-10-24T00:06:25Z",
+      "url": "https://www.solanocounty.gov/government/auditor-controller/finance-reports",
+      "organization": {
+        "id": "6b5b9c3d-322c-5819-8ee0-beca2e87c8d6",
+        "name": "Auditor-Controller",
+        "description": "Oversees accounting and financial activities of the County",
+        "uri": "https://jurisdictional.org/agencies/33",
+        "email": "auditorcontroller@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/auditor-controller"
+      },
+      "organization_id": "6b5b9c3d-322c-5819-8ee0-beca2e87c8d6"
+    },
+    {
+      "id": "e6527fb3-62ef-5fa2-9d15-28c673592b56",
+      "name": "Open data: County Road Closures Map",
+      "status": "active",
+      "description": "Open data: Solano County Public Works road closures GIS map. Public Works Operations: 707-421-6055. Sources: https://www.solanocounty.gov/government/resource-management/public-works and https://regis.solanocounty.com/apps/",
+      "last_modified": "2026-10-23T22:51:30Z",
+      "url": "https://solanocountygis.com/portal/apps/webappviewer/index.html?id=99a022d3028f4224bb170f3417ccebaf",
+      "organization": {
+        "id": "2bc746c5-61cd-5293-81e1-455327428d92",
+        "name": "Resource Management",
+        "description": "Planning, building & safety, public works, environmental health, water resources",
+        "uri": "https://jurisdictional.org/agencies/46",
+        "email": "rmhelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management"
+      },
+      "organization_id": "2bc746c5-61cd-5293-81e1-455327428d92"
+    },
+    {
+      "id": "92f0171e-04d5-5873-82df-cb34cc52d346",
+      "name": "Open data: Districts and Precincts Viewer",
+      "status": "active",
+      "description": "Open data: GIS map viewer of Solano County election precincts and districts. Sources: https://www.solanocounty.gov/government/registrar-voters and https://regis.solanocounty.com/apps/",
+      "last_modified": "2026-10-23T22:52:02Z",
+      "url": "https://solanocountygis.com/portal/apps/webappviewer/index.html?id=3bff36fdda734e3185911fdaa2942d42",
+      "organization": {
+        "id": "228f29b2-976a-5a27-bf8c-11294b480971",
+        "name": "Registrar of Voters",
+        "description": "Election administration, voter registration, and ballot processing",
+        "uri": "https://jurisdictional.org/agencies/45",
+        "email": "elections@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/registrar-voters"
+      },
+      "organization_id": "228f29b2-976a-5a27-bf8c-11294b480971"
+    },
+    {
+      "id": "968687fb-356e-586f-bff7-39568bdfd48d",
+      "name": "Open data: Election Results",
+      "status": "active",
+      "description": "Open data: dynamic election results for Solano County elections; historic results and files at https://www.solanocounty.gov/government/registrar-voters/historic-election-results-files. Source: https://www.solanocounty.gov/government/registrar-voters",
+      "last_modified": "2026-10-23T22:51:58Z",
+      "url": "https://www.livevoterturnout.com/ENR/solanocaenr/18/en/Index_18.html",
+      "organization": {
+        "id": "228f29b2-976a-5a27-bf8c-11294b480971",
+        "name": "Registrar of Voters",
+        "description": "Election administration, voter registration, and ballot processing",
+        "uri": "https://jurisdictional.org/agencies/45",
+        "email": "elections@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/registrar-voters"
+      },
+      "organization_id": "228f29b2-976a-5a27-bf8c-11294b480971"
+    },
+    {
+      "id": "621e0198-0d52-5f90-9533-fbf7f9660eee",
+      "name": "Open data: Find Your Assessor Parcel Number (APN) and Zoning",
+      "status": "active",
+      "description": "Open data: GIS map viewer to find a property's Assessor Parcel Number (APN) and zoning. Source: https://www.solanocounty.gov/property-services",
+      "last_modified": "2026-10-23T22:51:32Z",
+      "url": "https://solanocountygis.com/portal/apps/webappviewer/index.html?id=d4090bcafe06473daa4db536cffac1cc",
+      "organization": {
+        "id": "2bc746c5-61cd-5293-81e1-455327428d92",
+        "name": "Resource Management",
+        "description": "Planning, building & safety, public works, environmental health, water resources",
+        "uri": "https://jurisdictional.org/agencies/46",
+        "email": "rmhelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management"
+      },
+      "organization_id": "2bc746c5-61cd-5293-81e1-455327428d92"
+    },
+    {
+      "id": "4e74ab80-0db1-59d7-b1be-50a196fe68fc",
+      "name": "Open data: Food Facility Inspection Reports",
+      "status": "active",
+      "description": "Open data: searchable inspection reports for food facilities inspected by Solano County Environmental Health. Source: https://www.solanocounty.gov/government/resource-management/environmental-health",
+      "last_modified": "2026-10-23T22:51:23Z",
+      "url": "https://aca-prod.accela.com/SOLANOCO/GeneralProperty/PropertyLookUp.aspx?isFoodFacility=Y&TabName=APO",
+      "organization": {
+        "id": "2bc746c5-61cd-5293-81e1-455327428d92",
+        "name": "Resource Management",
+        "description": "Planning, building & safety, public works, environmental health, water resources",
+        "uri": "https://jurisdictional.org/agencies/46",
+        "email": "rmhelp@solanocounty.gov",
+        "website": "https://www.solanocounty.gov/government/resource-management"
+      },
+      "organization_id": "2bc746c5-61cd-5293-81e1-455327428d92"
+    }
+  ],
+  "total_pages": 2,
+  "total_items": 96,
+  "first_page": true,
+  "last_page": false,
+  "page_number": 1
+}

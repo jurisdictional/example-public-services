@@ -1,0 +1,49 @@
+{
+  "address": "300 Hemlock St, Vacaville, CA 95688",
+  "recorded_at": "2026-11-15T21:31:35.218Z",
+  "layers": [
+    {
+      "id": 70118,
+      "name": "City of Vacaville",
+      "level": "place",
+      "label": "City"
+    },
+    {
+      "id": 77297,
+      "name": "Vacaville Unified School District",
+      "level": "school_district_unified",
+      "label": "School district"
+    },
+    {
+      "id": 2532,
+      "name": "Solano",
+      "level": "county",
+      "label": "County"
+    },
+    {
+      "id": 3274,
+      "name": "California",
+      "level": "state",
+      "label": "State"
+    },
+    {
+      "id": 1,
+      "name": "United States of America",
+      "level": "federal",
+      "label": "Federal"
+    }
+  ],
+  "requests": [
+    "https://jurisdictional.org/api/v1/juricode?address=300+Hemlock+St%2C+Vacaville%2C+CA+95688",
+    "https://jurisdictional.org/api/hsds/services?jurisdiction_id=70118&per_page=50",
+    "https://jurisdictional.org/api/v1/services?jurisdiction_id=70118&limit=50",
+    "https://jurisdictional.org/api/hsds/services?jurisdiction_id=77297&per_page=50",
+    "https://jurisdictional.org/api/v1/services?jurisdiction_id=77297&limit=50",
+    "https://jurisdictional.org/api/hsds/services?jurisdiction_id=2532&per_page=50",
+    "https://jurisdictional.org/api/v1/services?jurisdiction_id=2532&limit=50",
+    "https://jurisdictional.org/api/hsds/services?jurisdiction_id=3274&per_page=50",
+    "https://jurisdictional.org/api/v1/services?jurisdiction_id=3274&limit=50",
+    "https://jurisdictional.org/api/hsds/services?jurisdiction_id=1&per_page=50",
+    "https://jurisdictional.org/api/v1/services?jurisdiction_id=1&limit=50"
+  ]
+}

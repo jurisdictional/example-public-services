@@ -1,0 +1,19 @@
+{
+  "name": "jurisdictional-public-services",
+  "version": "0.1.0",
+  "description": "Every public service at an address, as Open Referral (HSDS) data. A prototype on the open Jurisdictional API.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node bin/serve.js",
+    "test": "node --test",
+    "record": "node bin/record-example.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurisdictional/example-public-services.git"
+  }
+}

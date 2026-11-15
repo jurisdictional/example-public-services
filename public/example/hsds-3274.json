@@ -1,0 +1,817 @@
+{
+  "size": 50,
+  "empty": false,
+  "contents": [
+    {
+      "id": "881f14d5-fa5d-5b6f-9054-659478464349",
+      "name": "Apply for a DL, ID or REAL ID",
+      "status": "active",
+      "description": "Start your California driver's license, ID or REAL ID application online, then finish in the DMV office.",
+      "last_modified": "2026-11-03T02:13:46Z",
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/",
+      "organization": {
+        "id": "ec92d39d-959f-5c77-9b2c-7c65d23219a7",
+        "name": "California Department of Motor Vehicles",
+        "description": "Issues driver licenses, identification cards, and vehicle registration",
+        "uri": "https://jurisdictional.org/agencies/8824",
+        "website": "https://www.dmv.ca.gov"
+      },
+      "organization_id": "ec92d39d-959f-5c77-9b2c-7c65d23219a7"
+    },
+    {
+      "id": "25f7c075-f61c-51fd-a2bf-7976225a18b2",
+      "name": "Apply for a seller's permit",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://cdtfa.ca.gov/services/registration.htm",
+      "organization": {
+        "id": "b535d31b-a433-5e78-b805-a3073508bf63",
+        "name": "California Department of Tax and Fee Administration",
+        "description": "Administers California's sales and use tax and other taxes and fees",
+        "uri": "https://jurisdictional.org/agencies/8828",
+        "website": "https://cdtfa.ca.gov/"
+      },
+      "organization_id": "b535d31b-a433-5e78-b805-a3073508bf63",
+      "eligibility_description": "Required if you are engaged in business in California, intend to sell or lease tangible personal property that would ordinarily be subject to sales tax if sold at retail, or will make sales for a temporary period, normally lasting no longer than 90 days."
+    },
+    {
+      "id": "17e546e1-5f64-511c-8e14-cbfa3e5bd490",
+      "name": "Apply for birth certificate",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Birth-Records.aspx",
+      "organization": {
+        "id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1",
+        "name": "California Department of Public Health",
+        "description": "Protects and improves the health of all Californians",
+        "uri": "https://jurisdictional.org/agencies/8825",
+        "website": "https://www.cdph.ca.gov/"
+      },
+      "organization_id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1"
+    },
+    {
+      "id": "71829809-6659-5f75-b50d-dd6ec86c4e65",
+      "name": "Apply for death certificate",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Death-Records.aspx",
+      "organization": {
+        "id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1",
+        "name": "California Department of Public Health",
+        "description": "Protects and improves the health of all Californians",
+        "uri": "https://jurisdictional.org/agencies/8825",
+        "website": "https://www.cdph.ca.gov/"
+      },
+      "organization_id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1"
+    },
+    {
+      "id": "7faa1416-db96-57cb-bf85-91e4825ae3ce",
+      "name": "Apply for marriage certificate",
+      "status": "active",
+      "description": "A certified copy of a marriage certificate can typically be used as proof of marriage and other legal purposes. This is not a copy of the marriage license.",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Marriage-Records.aspx",
+      "organization": {
+        "id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1",
+        "name": "California Department of Public Health",
+        "description": "Protects and improves the health of all Californians",
+        "uri": "https://jurisdictional.org/agencies/8825",
+        "website": "https://www.cdph.ca.gov/"
+      },
+      "organization_id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1"
+    },
+    {
+      "id": "f9f17edb-ab9b-56f4-9948-6f09ad9821f4",
+      "name": "Apply for Medi-Cal",
+      "status": "active",
+      "description": "Free or low-cost health coverage for Californians meeting eligibility requirements.",
+      "last_modified": "2026-11-03T02:17:48Z",
+      "url": "https://www.dhcs.ca.gov/medi-cal/",
+      "organization": {
+        "id": "f35d58b5-6efb-5cf7-a8d5-8f63420fafd5",
+        "name": "Department of Health Care Services",
+        "description": "Administers Medi-Cal, California's Medicaid program providing health care for low-income residents",
+        "uri": "https://jurisdictional.org/agencies/8834",
+        "website": "https://www.dhcs.ca.gov/"
+      },
+      "organization_id": "f35d58b5-6efb-5cf7-a8d5-8f63420fafd5"
+    },
+    {
+      "id": "1ed55b85-313c-5b13-b4d7-79be2a8efc2c",
+      "name": "Apply for school construction funding",
+      "status": "active",
+      "description": "Administers the state voter-approved school facilities construction bond program and is staff to the State Allocation Board.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.dgs.ca.gov/OPSC/Services",
+      "organization": {
+        "id": "11dba754-b931-5e04-892c-36740747b05e",
+        "name": "California Department of General Services",
+        "description": "Manages state buildings, procurement, fleet, and other services for state government operations",
+        "uri": "https://jurisdictional.org/agencies/8842",
+        "email": "dgspublicaffairs@dgs.ca.gov",
+        "website": "https://www.dgs.ca.gov/"
+      },
+      "organization_id": "11dba754-b931-5e04-892c-36740747b05e"
+    },
+    {
+      "id": "feea0c8e-feea-538f-a1a8-8c20cfbeb28d",
+      "name": "Apply to a Veterans Home",
+      "status": "active",
+      "description": "Affordable long-term care for aged and disabled veterans and their eligible spouses and domestic partners.",
+      "last_modified": "2026-11-03T02:21:18Z",
+      "url": "https://www.calvet.ca.gov/calvet-programs/veteran-homes",
+      "organization": {
+        "id": "a2ccc69c-0639-52a3-9911-7a88196523d7",
+        "name": "California Department of Veterans Affairs",
+        "description": "Serves California veterans and their families by connecting them to benefits and services",
+        "uri": "https://jurisdictional.org/agencies/8840",
+        "email": "contactuscommunications@calvet.ca.gov",
+        "website": "https://www.calvet.ca.gov/"
+      },
+      "organization_id": "a2ccc69c-0639-52a3-9911-7a88196523d7"
+    },
+    {
+      "id": "ab548fb2-fe3d-5178-833f-85ee92bafbb5",
+      "name": "Black Infant Health Program (BIH)",
+      "status": "active",
+      "description": "An equity program to support pregnant and post partum Black mothers.",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdph.ca.gov/Programs/CFH/DMCAH/BIH/Pages/Default.aspx",
+      "organization": {
+        "id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1",
+        "name": "California Department of Public Health",
+        "description": "Protects and improves the health of all Californians",
+        "uri": "https://jurisdictional.org/agencies/8825",
+        "website": "https://www.cdph.ca.gov/"
+      },
+      "organization_id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1"
+    },
+    {
+      "id": "f267a76b-df19-54ca-a9b0-1a31e5cce67e",
+      "name": "Bringing Families Home Program",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/bringing-families-home-program",
+      "organization": {
+        "id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2",
+        "name": "Department of Social Services",
+        "description": "Oversees community care licensing, CalWORKs, CalFresh, and other social services programs",
+        "uri": "https://jurisdictional.org/agencies/8833",
+        "email": "piar@dss.ca.gov",
+        "website": "https://www.cdss.ca.gov/"
+      },
+      "organization_id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2"
+    },
+    {
+      "id": "d72ea689-ef5b-53f9-ac7d-7e1804fa1118",
+      "name": "Burn permits",
+      "status": "active",
+      "description": "Available online and from CAL FIRE stations, for those burning within the State Responsibility Area.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://burnpermit.fire.ca.gov/",
+      "organization": {
+        "id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3",
+        "name": "California Department of Forestry and Fire Protection",
+        "description": "Provides fire protection and stewardship of California's privately-owned wildlands; also known as CAL FIRE",
+        "uri": "https://jurisdictional.org/agencies/8843",
+        "email": "webmaster@fire.ca.gov",
+        "website": "https://www.fire.ca.gov/"
+      },
+      "organization_id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3"
+    },
+    {
+      "id": "4b486a26-46f5-5f39-89b3-852fd8ff62dd",
+      "name": "Buy California State Bonds",
+      "status": "active",
+      "description": "Upcoming bond offerings from the State of California and official financial data",
+      "last_modified": "2026-11-03T03:04:18Z",
+      "url": "https://www.buycaliforniabonds.com/state-of-california-ca/i27",
+      "organization": {
+        "id": "5d8a3f91-675f-51ab-aae1-af92163b4aee",
+        "name": "California State Treasurer's Office",
+        "description": "Manages the state's investments, administers bond financing, and manages college savings and other public finance programs",
+        "uri": "https://jurisdictional.org/agencies/8866",
+        "email": "webadmin@treasurer.ca.gov",
+        "website": "https://www.treasurer.ca.gov/"
+      },
+      "organization_id": "5d8a3f91-675f-51ab-aae1-af92163b4aee"
+    },
+    {
+      "id": "e5c88928-b190-5c76-8e12-4519b0b38344",
+      "name": "Buy, Sell, or Transfer a Mobilehome",
+      "status": "active",
+      "last_modified": "2026-11-03T03:03:57Z",
+      "organization": {
+        "id": "20cda106-8fe0-53bb-826d-cfdf7683ee23",
+        "name": "California Department of Housing and Community Development",
+        "description": "Provides leadership and resources to expand housing supply and promote community development",
+        "uri": "https://jurisdictional.org/agencies/8835",
+        "email": "webmaster@hcd.ca.gov",
+        "website": "https://www.hcd.ca.gov/"
+      },
+      "organization_id": "20cda106-8fe0-53bb-826d-cfdf7683ee23"
+    },
+    {
+      "id": "5490fe7a-4c98-51f6-85af-8fb56012579f",
+      "name": "CalABLE Savings Accounts for People with Disabilities",
+      "status": "active",
+      "description": "Tax-advantaged accounts that let Californians with disabilities save without losing public benefits",
+      "last_modified": "2026-11-03T03:04:18Z",
+      "organization": {
+        "id": "5d8a3f91-675f-51ab-aae1-af92163b4aee",
+        "name": "California State Treasurer's Office",
+        "description": "Manages the state's investments, administers bond financing, and manages college savings and other public finance programs",
+        "uri": "https://jurisdictional.org/agencies/8866",
+        "email": "webadmin@treasurer.ca.gov",
+        "website": "https://www.treasurer.ca.gov/"
+      },
+      "organization_id": "5d8a3f91-675f-51ab-aae1-af92163b4aee"
+    },
+    {
+      "id": "e72adaa0-8cea-5984-a51e-2aa787ba24b7",
+      "name": "Calculate your unemployment insurance",
+      "status": "active",
+      "description": "Estimates your weekly benefit amount.",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://edd.ca.gov/en/unemployment/UI-Calculator/",
+      "organization": {
+        "id": "dd3452dd-5527-577c-af63-8c74aa9b7f24",
+        "name": "Employment Development Department",
+        "description": "Administers unemployment insurance, disability insurance, and paid family leave programs",
+        "uri": "https://jurisdictional.org/agencies/8827",
+        "website": "https://edd.ca.gov"
+      },
+      "organization_id": "dd3452dd-5527-577c-af63-8c74aa9b7f24"
+    },
+    {
+      "id": "83249134-e482-5cf6-a566-d8bab82950f2",
+      "name": "CalFile - File return for free",
+      "status": "active",
+      "description": "Use CalFile to e-file your state tax return directly to the Franchise Tax Board.",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://www.ftb.ca.gov/file/ways-to-file/online/calfile/index.asp",
+      "organization": {
+        "id": "38ff9e40-5384-521d-93d4-a65ce506c577",
+        "name": "Franchise Tax Board",
+        "description": "Administers California's personal and corporate income tax laws",
+        "uri": "https://jurisdictional.org/agencies/8826",
+        "website": "https://www.ftb.ca.gov"
+      },
+      "organization_id": "38ff9e40-5384-521d-93d4-a65ce506c577",
+      "fees_description": "0"
+    },
+    {
+      "id": "bbf18db9-5b64-5450-b914-0b8476363cac",
+      "name": "CAL FIRE Grants",
+      "status": "active",
+      "description": "Grants to restore forest health, bolster wildfire prevention and improve firefighting capacity.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.fire.ca.gov/what-we-do/grants",
+      "organization": {
+        "id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3",
+        "name": "California Department of Forestry and Fire Protection",
+        "description": "Provides fire protection and stewardship of California's privately-owned wildlands; also known as CAL FIRE",
+        "uri": "https://jurisdictional.org/agencies/8843",
+        "email": "webmaster@fire.ca.gov",
+        "website": "https://www.fire.ca.gov/"
+      },
+      "organization_id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3"
+    },
+    {
+      "id": "3c9376a1-abea-5346-95e4-0e92430e5aea",
+      "name": "California Earned Income Tax Credit",
+      "status": "active",
+      "description": "Find out if you qualify for CalEITC and the Young Child Tax Credit.",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://www.ftb.ca.gov/file/personal/credits/caleitc/index.html",
+      "organization": {
+        "id": "38ff9e40-5384-521d-93d4-a65ce506c577",
+        "name": "Franchise Tax Board",
+        "description": "Administers California's personal and corporate income tax laws",
+        "uri": "https://jurisdictional.org/agencies/8826",
+        "website": "https://www.ftb.ca.gov"
+      },
+      "organization_id": "38ff9e40-5384-521d-93d4-a65ce506c577"
+    },
+    {
+      "id": "ab35029a-df4d-51f1-abb2-2bf4b8e1d605",
+      "name": "California Home Visiting Program (CHVP)",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdph.ca.gov/Programs/CFH/DMCAH/CHVP/Pages/Default.aspx",
+      "organization": {
+        "id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1",
+        "name": "California Department of Public Health",
+        "description": "Protects and improves the health of all Californians",
+        "uri": "https://jurisdictional.org/agencies/8825",
+        "website": "https://www.cdph.ca.gov/"
+      },
+      "organization_id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1"
+    },
+    {
+      "id": "061681df-95b7-5699-b05d-7280dfb36466",
+      "name": "California Inmate Records and Information System",
+      "status": "active",
+      "description": "California Incarcerated Records and Information Search (CIRIS) covers incarcerated persons currently in CDCR custody.",
+      "last_modified": "2026-11-03T02:17:48Z",
+      "url": "https://ciris.mt.cdcr.ca.gov/",
+      "organization": {
+        "id": "4fbead54-6964-5ddd-9b21-1b7666a8271d",
+        "name": "California Department of Corrections and Rehabilitation",
+        "description": "Operates the California state prison and parole system",
+        "uri": "https://jurisdictional.org/agencies/8829",
+        "email": "cdcrwebmasters@cdcr.ca.gov",
+        "website": "https://www.cdcr.ca.gov"
+      },
+      "organization_id": "4fbead54-6964-5ddd-9b21-1b7666a8271d"
+    },
+    {
+      "id": "7810399f-7744-5439-8d35-85ee65cb94ad",
+      "name": "California Low Cost Auto",
+      "status": "active",
+      "description": "State-sponsored program providing income-eligible, good drivers with liability insurance at affordable rates.",
+      "last_modified": "2026-11-03T02:17:48Z",
+      "url": "https://www.mylowcostauto.com/",
+      "organization": {
+        "id": "5a475e94-9557-59d3-b431-fb938610b96d",
+        "name": "California Department of Insurance",
+        "description": "Regulates the insurance industry in California, headed by the elected Insurance Commissioner",
+        "uri": "https://jurisdictional.org/agencies/8868",
+        "email": "webassist@insurance.ca.gov",
+        "website": "https://www.insurance.ca.gov/"
+      },
+      "organization_id": "5a475e94-9557-59d3-b431-fb938610b96d",
+      "eligibility_description": "Have a valid California driver's license, own a vehicle valued at $25,000 or less, meet income eligibility guidelines, be at least 16 years of age, and have a good driving record."
+    },
+    {
+      "id": "482e2ece-c64f-5f40-9007-d519a3f1fd80",
+      "name": "California Water Watch",
+      "status": "active",
+      "description": "Current local and statewide water conditions.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://cww.water.ca.gov/",
+      "organization": {
+        "id": "520dfa26-62cd-5309-9bed-8c18c1855a24",
+        "name": "California Department of Water Resources",
+        "description": "Manages California's water resources including the State Water Project, flood management, and dam safety",
+        "uri": "https://jurisdictional.org/agencies/8837",
+        "email": "dwrwebcomment@water.ca.gov",
+        "website": "https://water.ca.gov"
+      },
+      "organization_id": "520dfa26-62cd-5309-9bed-8c18c1855a24"
+    },
+    {
+      "id": "935c4b2e-1407-5e42-8e53-0fb571561fcf",
+      "name": "California wildfire information",
+      "status": "active",
+      "description": "Find information on fires in California.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.fire.ca.gov/incidents",
+      "organization": {
+        "id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3",
+        "name": "California Department of Forestry and Fire Protection",
+        "description": "Provides fire protection and stewardship of California's privately-owned wildlands; also known as CAL FIRE",
+        "uri": "https://jurisdictional.org/agencies/8843",
+        "email": "webmaster@fire.ca.gov",
+        "website": "https://www.fire.ca.gov/"
+      },
+      "organization_id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3"
+    },
+    {
+      "id": "897ac9a2-b678-51c3-868d-e2582fc4e5ef",
+      "name": "CalSavers Retirement Savings Program",
+      "status": "active",
+      "description": "Retirement savings program for Californians who lack a way to save for retirement at their job",
+      "last_modified": "2026-11-03T03:04:18Z",
+      "organization": {
+        "id": "5d8a3f91-675f-51ab-aae1-af92163b4aee",
+        "name": "California State Treasurer's Office",
+        "description": "Manages the state's investments, administers bond financing, and manages college savings and other public finance programs",
+        "uri": "https://jurisdictional.org/agencies/8866",
+        "email": "webadmin@treasurer.ca.gov",
+        "website": "https://www.treasurer.ca.gov/"
+      },
+      "organization_id": "5d8a3f91-675f-51ab-aae1-af92163b4aee"
+    },
+    {
+      "id": "731c9db6-0212-57cf-8def-4c3fdcae70b9",
+      "name": "Caltrans Engagement Portal",
+      "status": "active",
+      "last_modified": "2026-11-03T03:03:34Z",
+      "url": "https://engage.dot.ca.gov/",
+      "organization": {
+        "id": "c788e081-39a2-58da-a0c6-d96589010b33",
+        "name": "California Department of Transportation",
+        "description": "Plans, designs, builds, and maintains the California State Highway System",
+        "uri": "https://jurisdictional.org/agencies/8831",
+        "website": "https://dot.ca.gov/"
+      },
+      "organization_id": "c788e081-39a2-58da-a0c6-d96589010b33"
+    },
+    {
+      "id": "60389cdc-f857-535a-a53f-2c2013d0e924",
+      "name": "CalVet home loans for veterans",
+      "status": "active",
+      "last_modified": "2026-11-03T02:21:18Z",
+      "url": "https://www.calvet.ca.gov/HomeLoans",
+      "organization": {
+        "id": "a2ccc69c-0639-52a3-9911-7a88196523d7",
+        "name": "California Department of Veterans Affairs",
+        "description": "Serves California veterans and their families by connecting them to benefits and services",
+        "uri": "https://jurisdictional.org/agencies/8840",
+        "email": "contactuscommunications@calvet.ca.gov",
+        "website": "https://www.calvet.ca.gov/"
+      },
+      "organization_id": "a2ccc69c-0639-52a3-9911-7a88196523d7",
+      "eligibility_description": "Have served on active duty for at least 90 days during wartime or peacetime (excluding training), have a discharge under honorable conditions, and not have a current CalVet Home Loan."
+    },
+    {
+      "id": "d16c4edd-0c45-5998-8504-d034ae86c67c",
+      "name": "CalWORKs Homeless Assistance Program",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/calworks-homeless-assistance",
+      "organization": {
+        "id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2",
+        "name": "Department of Social Services",
+        "description": "Oversees community care licensing, CalWORKs, CalFresh, and other social services programs",
+        "uri": "https://jurisdictional.org/agencies/8833",
+        "email": "piar@dss.ca.gov",
+        "website": "https://www.cdss.ca.gov/"
+      },
+      "organization_id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2"
+    },
+    {
+      "id": "cf5ebce4-9576-599b-b76e-03cfae8ba79b",
+      "name": "CalWORKs Housing Support Program",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/calworks-housing-support-program",
+      "organization": {
+        "id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2",
+        "name": "Department of Social Services",
+        "description": "Oversees community care licensing, CalWORKs, CalFresh, and other social services programs",
+        "uri": "https://jurisdictional.org/agencies/8833",
+        "email": "piar@dss.ca.gov",
+        "website": "https://www.cdss.ca.gov/"
+      },
+      "organization_id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2"
+    },
+    {
+      "id": "a653107a-19d8-54c1-a658-64f2398fea87",
+      "name": "CA Meals For Kids App (Android)",
+      "status": "active",
+      "description": "Find, save, and share nearby California meal sites.",
+      "last_modified": "2026-11-03T02:17:48Z",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.cde.NSDMobileApp",
+      "organization": {
+        "id": "671d03c6-1b0d-5a0c-b79d-c8aef49c8a57",
+        "name": "California Department of Education",
+        "description": "Oversees public education in California including K-12 schools",
+        "uri": "https://jurisdictional.org/agencies/8832",
+        "email": "superintendent@cde.ca.gov",
+        "website": "https://www.cde.ca.gov/"
+      },
+      "organization_id": "671d03c6-1b0d-5a0c-b79d-c8aef49c8a57"
+    },
+    {
+      "id": "7f82b3ca-6e9a-5930-865a-bb8bae93dbdb",
+      "name": "CA Meals For Kids App (IOS)",
+      "status": "active",
+      "description": "Find, save, and share nearby California meal sites.",
+      "last_modified": "2026-11-03T02:17:48Z",
+      "url": "https://apps.apple.com/us/app/ca-meals-for-kids/id1327449394",
+      "organization": {
+        "id": "671d03c6-1b0d-5a0c-b79d-c8aef49c8a57",
+        "name": "California Department of Education",
+        "description": "Oversees public education in California including K-12 schools",
+        "uri": "https://jurisdictional.org/agencies/8832",
+        "email": "superintendent@cde.ca.gov",
+        "website": "https://www.cde.ca.gov/"
+      },
+      "organization_id": "671d03c6-1b0d-5a0c-b79d-c8aef49c8a57"
+    },
+    {
+      "id": "e53b6de6-cd17-5bb9-a6a6-d63dc75c50d6",
+      "name": "Campfire permits",
+      "status": "active",
+      "description": "Available online or at any CAL FIRE, USDA Forest Service, or Bureau of Land Management facility in California.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.readyforwildfire.org/permits/",
+      "organization": {
+        "id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3",
+        "name": "California Department of Forestry and Fire Protection",
+        "description": "Provides fire protection and stewardship of California's privately-owned wildlands; also known as CAL FIRE",
+        "uri": "https://jurisdictional.org/agencies/8843",
+        "email": "webmaster@fire.ca.gov",
+        "website": "https://www.fire.ca.gov/"
+      },
+      "organization_id": "2d0eec68-00da-5d47-ac83-cd4926cd0bb3",
+      "fees_description": "0"
+    },
+    {
+      "id": "041a1f55-2d6f-54c6-9232-23b96527276e",
+      "name": "Certificate of Veterinary Inspection for dogs",
+      "status": "active",
+      "description": "Submit health certificates for dogs being brought into the state for sale, adoption, or any change of ownership.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.cdfa.ca.gov/AHFSS/Animal_Health/dog-cvi/",
+      "organization": {
+        "id": "c1dea94f-eaa4-5aec-ac04-81c1463f2ad9",
+        "name": "California Department of Food and Agriculture",
+        "description": "Promotes California agriculture and protects consumers, natural resources, and public health",
+        "uri": "https://jurisdictional.org/agencies/8841",
+        "email": "webmaster@cdfa.ca.gov",
+        "website": "https://www.cdfa.ca.gov/"
+      },
+      "organization_id": "c1dea94f-eaa4-5aec-ac04-81c1463f2ad9"
+    },
+    {
+      "id": "e76931ca-b0c0-5f7c-80a9-9072705f68e7",
+      "name": "Certify for unemployment",
+      "status": "active",
+      "description": "Answer basic questions every two weeks to continue receiving benefit payments.",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://edd.ca.gov/en/unemployment/step-5-certify-for-benefits",
+      "organization": {
+        "id": "dd3452dd-5527-577c-af63-8c74aa9b7f24",
+        "name": "Employment Development Department",
+        "description": "Administers unemployment insurance, disability insurance, and paid family leave programs",
+        "uri": "https://jurisdictional.org/agencies/8827",
+        "website": "https://edd.ca.gov"
+      },
+      "organization_id": "dd3452dd-5527-577c-af63-8c74aa9b7f24"
+    },
+    {
+      "id": "84229c86-9a2f-5385-b4d9-7caf04f186a5",
+      "name": "Check Current Highway Conditions",
+      "status": "active",
+      "last_modified": "2026-11-03T03:03:34Z",
+      "url": "https://roads.dot.ca.gov/",
+      "organization": {
+        "id": "c788e081-39a2-58da-a0c6-d96589010b33",
+        "name": "California Department of Transportation",
+        "description": "Plans, designs, builds, and maintains the California State Highway System",
+        "uri": "https://jurisdictional.org/agencies/8831",
+        "website": "https://dot.ca.gov/"
+      },
+      "organization_id": "c788e081-39a2-58da-a0c6-d96589010b33"
+    },
+    {
+      "id": "aceafe2c-2081-559b-a1f3-3a020a01723f",
+      "name": "Check your tax refund status",
+      "status": "active",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://www.ftb.ca.gov/refund/index.asp",
+      "organization": {
+        "id": "38ff9e40-5384-521d-93d4-a65ce506c577",
+        "name": "Franchise Tax Board",
+        "description": "Administers California's personal and corporate income tax laws",
+        "uri": "https://jurisdictional.org/agencies/8826",
+        "website": "https://www.ftb.ca.gov"
+      },
+      "organization_id": "38ff9e40-5384-521d-93d4-a65ce506c577"
+    },
+    {
+      "id": "0831d01c-6442-50a5-a423-5421a1a6aa84",
+      "name": "Choose Medi-Cal health plans and providers",
+      "status": "active",
+      "last_modified": "2026-11-03T02:17:48Z",
+      "url": "https://www.healthcareoptions.dhcs.ca.gov/en",
+      "organization": {
+        "id": "f35d58b5-6efb-5cf7-a8d5-8f63420fafd5",
+        "name": "Department of Health Care Services",
+        "description": "Administers Medi-Cal, California's Medicaid program providing health care for low-income residents",
+        "uri": "https://jurisdictional.org/agencies/8834",
+        "website": "https://www.dhcs.ca.gov/"
+      },
+      "organization_id": "f35d58b5-6efb-5cf7-a8d5-8f63420fafd5"
+    },
+    {
+      "id": "922fc8bd-5950-5b5c-b1a1-f6970b6cfbee",
+      "name": "Codes and Standards Online Services",
+      "status": "active",
+      "description": "Mobilehome and manufactured home registration and titling transfers, permits, complaints and payments",
+      "last_modified": "2026-11-03T03:03:57Z",
+      "url": "https://cahcd.my.site.com/s/",
+      "organization": {
+        "id": "20cda106-8fe0-53bb-826d-cfdf7683ee23",
+        "name": "California Department of Housing and Community Development",
+        "description": "Provides leadership and resources to expand housing supply and promote community development",
+        "uri": "https://jurisdictional.org/agencies/8835",
+        "email": "webmaster@hcd.ca.gov",
+        "website": "https://www.hcd.ca.gov/"
+      },
+      "organization_id": "20cda106-8fe0-53bb-826d-cfdf7683ee23"
+    },
+    {
+      "id": "dd74aa08-6f15-55cd-91fa-4b2412933638",
+      "name": "Community Care Expansion",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/community-care-expansion",
+      "organization": {
+        "id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2",
+        "name": "Department of Social Services",
+        "description": "Oversees community care licensing, CalWORKs, CalFresh, and other social services programs",
+        "uri": "https://jurisdictional.org/agencies/8833",
+        "email": "piar@dss.ca.gov",
+        "website": "https://www.cdss.ca.gov/"
+      },
+      "organization_id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2"
+    },
+    {
+      "id": "49dfa007-9521-5177-af98-d72f8b46dd59",
+      "name": "Comprehensive Perinatal Services Program (CPSP)",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdph.ca.gov/Programs/CFH/DMCAH/CPSP/Pages/Default.aspx",
+      "organization": {
+        "id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1",
+        "name": "California Department of Public Health",
+        "description": "Protects and improves the health of all Californians",
+        "uri": "https://jurisdictional.org/agencies/8825",
+        "website": "https://www.cdph.ca.gov/"
+      },
+      "organization_id": "15b480b8-3e9d-592a-89f8-dc762ecce5a1"
+    },
+    {
+      "id": "ac0b08b1-ff81-5f32-b0af-b2824be8d0b1",
+      "name": "Create a MyDMV Account",
+      "status": "active",
+      "last_modified": "2026-11-03T02:13:46Z",
+      "url": "https://www.dmv.ca.gov/portal/mydmv-account/",
+      "organization": {
+        "id": "ec92d39d-959f-5c77-9b2c-7c65d23219a7",
+        "name": "California Department of Motor Vehicles",
+        "description": "Issues driver licenses, identification cards, and vehicle registration",
+        "uri": "https://jurisdictional.org/agencies/8824",
+        "website": "https://www.dmv.ca.gov"
+      },
+      "organization_id": "ec92d39d-959f-5c77-9b2c-7c65d23219a7",
+      "eligibility_description": "You must have a California driver's license or ID to create a MyDMV account."
+    },
+    {
+      "id": "bd33cb98-6b35-5c77-bfa6-80f22acf9641",
+      "name": "Create a MyFTB account",
+      "status": "active",
+      "description": "MyFTB gives individuals, business representatives, and tax professionals access to tax account information and services.",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://www.ftb.ca.gov/myftb/index.asp",
+      "organization": {
+        "id": "38ff9e40-5384-521d-93d4-a65ce506c577",
+        "name": "Franchise Tax Board",
+        "description": "Administers California's personal and corporate income tax laws",
+        "uri": "https://jurisdictional.org/agencies/8826",
+        "website": "https://www.ftb.ca.gov"
+      },
+      "organization_id": "38ff9e40-5384-521d-93d4-a65ce506c577"
+    },
+    {
+      "id": "acf537d6-7967-56da-bdde-22bcdfce7214",
+      "name": "DACA and AB60 Driver's License",
+      "status": "active",
+      "last_modified": "2026-11-03T02:13:46Z",
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/",
+      "organization": {
+        "id": "ec92d39d-959f-5c77-9b2c-7c65d23219a7",
+        "name": "California Department of Motor Vehicles",
+        "description": "Issues driver licenses, identification cards, and vehicle registration",
+        "uri": "https://jurisdictional.org/agencies/8824",
+        "website": "https://www.dmv.ca.gov"
+      },
+      "organization_id": "ec92d39d-959f-5c77-9b2c-7c65d23219a7"
+    },
+    {
+      "id": "a8f2a215-46a2-54b2-b50f-94efff3c1269",
+      "name": "Disability access",
+      "status": "active",
+      "description": "Promotes disability access through dialogue and collaboration with stakeholders.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.dgs.ca.gov/CCDA",
+      "organization": {
+        "id": "11dba754-b931-5e04-892c-36740747b05e",
+        "name": "California Department of General Services",
+        "description": "Manages state buildings, procurement, fleet, and other services for state government operations",
+        "uri": "https://jurisdictional.org/agencies/8842",
+        "email": "dgspublicaffairs@dgs.ca.gov",
+        "website": "https://www.dgs.ca.gov/"
+      },
+      "organization_id": "11dba754-b931-5e04-892c-36740747b05e"
+    },
+    {
+      "id": "b8a0a131-7be4-5be2-acbe-59e342097e1d",
+      "name": "Disaster relief assistance",
+      "status": "active",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.listoscalifornia.org/disaster-readiness/",
+      "organization": {
+        "id": "1752c0e4-857a-5394-b8e2-f5ac7b81072e",
+        "name": "Office of the Governor",
+        "description": "Executive office of the Governor of California, the chief executive of state government",
+        "uri": "https://jurisdictional.org/agencies/8821",
+        "website": "https://www.gov.ca.gov/"
+      },
+      "organization_id": "1752c0e4-857a-5394-b8e2-f5ac7b81072e"
+    },
+    {
+      "id": "3b68ab10-a654-5e03-b6a0-6019949e4612",
+      "name": "Doing business with California state",
+      "status": "active",
+      "description": "The DGS Procurement Division certifies small businesses.",
+      "last_modified": "2026-11-03T02:20:58Z",
+      "url": "https://www.dgs.ca.gov/PD/",
+      "organization": {
+        "id": "11dba754-b931-5e04-892c-36740747b05e",
+        "name": "California Department of General Services",
+        "description": "Manages state buildings, procurement, fleet, and other services for state government operations",
+        "uri": "https://jurisdictional.org/agencies/8842",
+        "email": "dgspublicaffairs@dgs.ca.gov",
+        "website": "https://www.dgs.ca.gov/"
+      },
+      "organization_id": "11dba754-b931-5e04-892c-36740747b05e"
+    },
+    {
+      "id": "39d238a4-e0cb-5e48-8c13-6352dae3acd2",
+      "name": "Earned Income Tax Credit (EITC)",
+      "status": "active",
+      "last_modified": "2026-11-03T02:15:38Z",
+      "url": "https://www.cdss.ca.gov/earned-income-tax-credit",
+      "organization": {
+        "id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2",
+        "name": "Department of Social Services",
+        "description": "Oversees community care licensing, CalWORKs, CalFresh, and other social services programs",
+        "uri": "https://jurisdictional.org/agencies/8833",
+        "email": "piar@dss.ca.gov",
+        "website": "https://www.cdss.ca.gov/"
+      },
+      "organization_id": "11cb5b09-f3a2-5e90-90a0-80218b3236f2"
+    },
+    {
+      "id": "43f9f28c-c18b-5b92-8e45-cbedb0f27de4",
+      "name": "EDD payroll taxes",
+      "status": "active",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://edd.ca.gov/en/payroll_taxes/employer-payroll-taxes/",
+      "organization": {
+        "id": "dd3452dd-5527-577c-af63-8c74aa9b7f24",
+        "name": "Employment Development Department",
+        "description": "Administers unemployment insurance, disability insurance, and paid family leave programs",
+        "uri": "https://jurisdictional.org/agencies/8827",
+        "website": "https://edd.ca.gov"
+      },
+      "organization_id": "dd3452dd-5527-577c-af63-8c74aa9b7f24"
+    },
+    {
+      "id": "855accf1-b444-5c8f-8099-39ff025cdaf5",
+      "name": "Electronic Bidding on Caltrans Contracts",
+      "status": "active",
+      "last_modified": "2026-11-03T03:03:34Z",
+      "url": "http://ppmoe.dot.ca.gov/des/oe/electronic-bidding.html",
+      "organization": {
+        "id": "c788e081-39a2-58da-a0c6-d96589010b33",
+        "name": "California Department of Transportation",
+        "description": "Plans, designs, builds, and maintains the California State Highway System",
+        "uri": "https://jurisdictional.org/agencies/8831",
+        "website": "https://dot.ca.gov/"
+      },
+      "organization_id": "c788e081-39a2-58da-a0c6-d96589010b33"
+    },
+    {
+      "id": "b91ed4c8-df01-54f5-a189-9f3780a2b0c3",
+      "name": "Electronic Filing with the Supreme Court",
+      "status": "active",
+      "description": "E-filing rules and procedures for filing documents with the court",
+      "last_modified": "2026-11-03T03:04:40Z",
+      "organization": {
+        "id": "e02ea705-c068-51eb-a807-1b17b890ec47",
+        "name": "Supreme Court of California",
+        "description": "Highest court in the California state court system, consisting of the Chief Justice and six Associate Justices",
+        "uri": "https://jurisdictional.org/agencies/8822",
+        "website": "https://supreme.courts.ca.gov/"
+      },
+      "organization_id": "e02ea705-c068-51eb-a807-1b17b890ec47"
+    },
+    {
+      "id": "49e22318-a28f-5f16-b930-1cb73e08d15e",
+      "name": "Enroll in EDD employer services",
+      "status": "active",
+      "description": "Employers manage payroll tax accounts and unemployment insurance claims online.",
+      "last_modified": "2026-11-03T02:14:18Z",
+      "url": "https://edd.ca.gov/en/about_edd/employer_services_online/",
+      "organization": {
+        "id": "dd3452dd-5527-577c-af63-8c74aa9b7f24",
+        "name": "Employment Development Department",
+        "description": "Administers unemployment insurance, disability insurance, and paid family leave programs",
+        "uri": "https://jurisdictional.org/agencies/8827",
+        "website": "https://edd.ca.gov"
+      },
+      "organization_id": "dd3452dd-5527-577c-af63-8c74aa9b7f24"
+    }
+  ],
+  "total_pages": 3,
+  "total_items": 147,
+  "first_page": true,
+  "last_page": false,
+  "page_number": 1
+}
