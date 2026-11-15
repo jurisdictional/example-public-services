@@ -46,7 +46,11 @@
       details.card .org { font-weight: normal; color: var(--muted); }
       details.card p { margin: 0.4rem 0; }
       pre, code { font: 13px/1.45 ui-monospace, monospace; }
-      pre { background: var(--code); border: 1px solid var(--line); padding: 0.75rem; overflow-x: auto; max-height: 24rem; }
+      pre { background: var(--code); border: 1px solid var(--line); padding: 0.75rem; overflow: auto; max-height: 24rem; white-space: pre-wrap; word-break: break-word; }
+      .two > * { min-width: 0; }
+      details.more { margin-top: 0.5rem; }
+      details.more summary { cursor: pointer; color: var(--accent); }
+      details.more .cards { margin-top: 0.5rem; }
       .requests { font-size: 0.85rem; word-break: break-all; }
       .two { display: grid; gap: 1rem; }
       @media (min-width: 40rem) { .two { grid-template-columns: 1fr 1fr; } }
@@ -223,6 +227,7 @@ curl https://jurisdictional.org/api/hsds/services/&lt;id&gt;</pre>
         return node;
       }
       let nativeFor = null; // the layer whose native JSON the toggle shows
+      const SHOWN = 4; // cards shown per government before "Show more"
 
       function renderCard(service) {
         const c = card(service);
@@ -264,7 +269,14 @@ curl https://jurisdictional.org/api/hsds/services/&lt;id&gt;</pre>
             block.append(el("p", { className: "muted" }, `No services on file yet for ${layer.name}. `,
               el("a", { href: "https://jurisdictional.org/" }, "Add one")));
           } else {
-            block.append(el("div", { className: "cards" }, ...hsds.contents.map(renderCard)));
+            // Show a few per government so the page stays short; the rest open on request.
+            const cards = hsds.contents.map(renderCard);
+            block.append(el("div", { className: "cards" }, ...cards.slice(0, SHOWN)));
+            if (cards.length > SHOWN) {
+              const more = el("details", { className: "more" }, el("summary", {}, `Show ${cards.length - SHOWN} more`));
+              more.append(el("div", { className: "cards" }, ...cards.slice(SHOWN)));
+              block.append(more);
+            }
           }
           out.append(block);
         }
